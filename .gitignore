@@ -1,7 +1,21 @@
-# Ignore virtual environment
-venv/
+# Python bytecode
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
+# Virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Optional: data files (agar large hain aur Git mein nahi chahiye)
+# data/
