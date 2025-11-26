@@ -1,1081 +1,1081 @@
 user_id,destination,year,month,visitors,rating,review_text,cost_level,dest_type,city
-197,Goa,2021,1,5091,4.1,Not well maintained in some areas.,3,beach,Goa
-142,Goa,2021,1,5091,3.8,Too crowded during holidays.,3,beach,Goa
-108,Goa,2021,1,5091,4.0,Not well maintained in some areas.,3,beach,Goa
-162,Goa,2021,1,5091,3.6,Too crowded during holidays.,3,beach,Goa
-185,Goa,2021,1,5091,4.4,Budget-friendly and great food.,3,beach,Goa
-182,Manali,2021,1,3233,4.2,Peaceful and beautiful scenery.,2,mountain,Manali
-193,Manali,2021,1,3233,3.5,Peaceful and beautiful scenery.,2,mountain,Manali
-139,Manali,2021,1,3233,4.4,Excellent hospitality.,2,mountain,Manali
-175,Manali,2021,1,3233,4.0,Adventure sports were thrilling.,2,mountain,Manali
-163,Manali,2021,1,3233,3.9,Good food and hotels.,2,mountain,Manali
-194,Jaipur,2021,1,3795,4.2,Not well maintained in some areas.,2,culture,Jaipur
-143,Jaipur,2021,1,3795,4.2,Peaceful and beautiful scenery.,2,culture,Jaipur
-106,Jaipur,2021,1,3795,4.2,"Amazing views, perfect for families.",2,culture,Jaipur
-167,Jaipur,2021,1,3795,5.0,Excellent hospitality.,2,culture,Jaipur
-188,Jaipur,2021,1,3795,3.8,Adventure sports were thrilling.,2,culture,Jaipur
+197,Goa,2021,1,5091,4.1,Adventure sports were thrilling.,3,beach,Goa
+142,Goa,2021,1,5091,3.8,Adventure sports were thrilling.,3,beach,Goa
+108,Goa,2021,1,5091,4.0,Good food and hotels.,3,beach,Goa
+162,Goa,2021,1,5091,3.6,Great place with excellent beaches.,3,beach,Goa
+185,Goa,2021,1,5091,4.4,Excellent hospitality.,3,beach,Goa
+182,Manali,2021,1,3233,4.2,Excellent hospitality.,2,mountain,Manali
+193,Manali,2021,1,3233,3.5,Budget-friendly and great food.,2,mountain,Manali
+139,Manali,2021,1,3233,4.4,Adventure sports were thrilling.,2,mountain,Manali
+175,Manali,2021,1,3233,4.0,Great place with excellent beaches.,2,mountain,Manali
+163,Manali,2021,1,3233,3.9,Budget-friendly and great food.,2,mountain,Manali
+194,Jaipur,2021,1,3795,4.2,"Amazing views, perfect for families.",2,culture,Jaipur
+143,Jaipur,2021,1,3795,4.2,Must visit for culture lovers.,2,culture,Jaipur
+106,Jaipur,2021,1,3795,4.2,Excellent hospitality.,2,culture,Jaipur
+167,Jaipur,2021,1,3795,5.0,Must visit for culture lovers.,2,culture,Jaipur
+188,Jaipur,2021,1,3795,3.8,Good food and hotels.,2,culture,Jaipur
 136,Varanasi,2021,1,2646,3.6,"Amazing views, perfect for families.",2,spiritual,Varanasi
-146,Varanasi,2021,1,2646,3.6,Good food and hotels.,2,spiritual,Varanasi
-187,Varanasi,2021,1,2646,4.3,Adventure sports were thrilling.,2,spiritual,Varanasi
-144,Varanasi,2021,1,2646,4.4,Budget-friendly and great food.,2,spiritual,Varanasi
-107,Varanasi,2021,1,2646,4.3,Adventure sports were thrilling.,2,spiritual,Varanasi
-138,Kerala,2021,1,4000,4.3,Not well maintained in some areas.,3,backwater,Kerala
-189,Kerala,2021,1,4000,4.0,Excellent hospitality.,3,backwater,Kerala
-182,Kerala,2021,1,4000,4.1,Not well maintained in some areas.,3,backwater,Kerala
+146,Varanasi,2021,1,2646,3.6,Excellent hospitality.,2,spiritual,Varanasi
+187,Varanasi,2021,1,2646,4.3,Must visit for culture lovers.,2,spiritual,Varanasi
+144,Varanasi,2021,1,2646,4.4,Not well maintained in some areas.,2,spiritual,Varanasi
+107,Varanasi,2021,1,2646,4.3,Great place with excellent beaches.,2,spiritual,Varanasi
+138,Kerala,2021,1,4000,4.3,Good food and hotels.,3,backwater,Kerala
+189,Kerala,2021,1,4000,4.0,Budget-friendly and great food.,3,backwater,Kerala
+182,Kerala,2021,1,4000,4.1,Too crowded during holidays.,3,backwater,Kerala
 141,Kerala,2021,1,4000,4.3,Too crowded during holidays.,3,backwater,Kerala
-178,Kerala,2021,1,4000,3.3,"Amazing views, perfect for families.",3,backwater,Kerala
-153,Rishikesh,2021,1,2004,3.6,Too crowded during holidays.,2,adventure,Rishikesh
-144,Rishikesh,2021,1,2004,4.5,Budget-friendly and great food.,2,adventure,Rishikesh
+178,Kerala,2021,1,4000,3.3,Not well maintained in some areas.,3,backwater,Kerala
+153,Rishikesh,2021,1,2004,3.6,Adventure sports were thrilling.,2,adventure,Rishikesh
+144,Rishikesh,2021,1,2004,4.5,Too crowded during holidays.,2,adventure,Rishikesh
 150,Rishikesh,2021,1,2004,3.2,Budget-friendly and great food.,2,adventure,Rishikesh
-156,Rishikesh,2021,1,2004,3.8,Peaceful and beautiful scenery.,2,adventure,Rishikesh
-113,Rishikesh,2021,1,2004,4.1,Too crowded during holidays.,2,adventure,Rishikesh
-160,Goa,2021,2,5175,3.9,Excellent hospitality.,3,beach,Goa
-177,Goa,2021,2,5175,3.4,Not well maintained in some areas.,3,beach,Goa
-130,Goa,2021,2,5175,3.4,Excellent hospitality.,3,beach,Goa
+156,Rishikesh,2021,1,2004,3.8,"Amazing views, perfect for families.",2,adventure,Rishikesh
+113,Rishikesh,2021,1,2004,4.1,Great place with excellent beaches.,2,adventure,Rishikesh
+160,Goa,2021,2,5175,3.9,Adventure sports were thrilling.,3,beach,Goa
+177,Goa,2021,2,5175,3.4,Budget-friendly and great food.,3,beach,Goa
+130,Goa,2021,2,5175,3.4,Too crowded during holidays.,3,beach,Goa
 154,Goa,2021,2,5175,3.5,Good food and hotels.,3,beach,Goa
 108,Goa,2021,2,5175,4.2,Not well maintained in some areas.,3,beach,Goa
-120,Manali,2021,2,3042,3.8,Great place with excellent beaches.,2,mountain,Manali
-142,Manali,2021,2,3042,4.2,Must visit for culture lovers.,2,mountain,Manali
-155,Manali,2021,2,3042,3.7,Adventure sports were thrilling.,2,mountain,Manali
-112,Manali,2021,2,3042,3.8,"Amazing views, perfect for families.",2,mountain,Manali
-164,Manali,2021,2,3042,3.8,Too crowded during holidays.,2,mountain,Manali
-144,Jaipur,2021,2,2141,4.3,Budget-friendly and great food.,2,culture,Jaipur
-190,Jaipur,2021,2,2141,4.0,Excellent hospitality.,2,culture,Jaipur
-166,Jaipur,2021,2,2141,3.8,Not well maintained in some areas.,2,culture,Jaipur
-115,Jaipur,2021,2,2141,4.0,Great place with excellent beaches.,2,culture,Jaipur
-170,Jaipur,2021,2,2141,3.2,"Amazing views, perfect for families.",2,culture,Jaipur
-166,Varanasi,2021,2,2365,3.8,Not well maintained in some areas.,2,spiritual,Varanasi
-111,Varanasi,2021,2,2365,4.6,Must visit for culture lovers.,2,spiritual,Varanasi
-196,Varanasi,2021,2,2365,3.8,Too crowded during holidays.,2,spiritual,Varanasi
-198,Varanasi,2021,2,2365,4.4,Good food and hotels.,2,spiritual,Varanasi
-133,Varanasi,2021,2,2365,3.5,Great place with excellent beaches.,2,spiritual,Varanasi
-189,Kerala,2021,2,4138,4.1,Budget-friendly and great food.,3,backwater,Kerala
-109,Kerala,2021,2,4138,3.7,Not well maintained in some areas.,3,backwater,Kerala
-107,Kerala,2021,2,4138,3.3,Must visit for culture lovers.,3,backwater,Kerala
-112,Kerala,2021,2,4138,4.0,"Amazing views, perfect for families.",3,backwater,Kerala
-143,Kerala,2021,2,4138,3.7,Great place with excellent beaches.,3,backwater,Kerala
-113,Rishikesh,2021,2,2169,4.1,Too crowded during holidays.,2,adventure,Rishikesh
-158,Rishikesh,2021,2,2169,4.1,Too crowded during holidays.,2,adventure,Rishikesh
-196,Rishikesh,2021,2,2169,4.7,Must visit for culture lovers.,2,adventure,Rishikesh
+120,Manali,2021,2,3042,3.8,Must visit for culture lovers.,2,mountain,Manali
+142,Manali,2021,2,3042,4.2,Great place with excellent beaches.,2,mountain,Manali
+155,Manali,2021,2,3042,3.7,Great place with excellent beaches.,2,mountain,Manali
+112,Manali,2021,2,3042,3.8,Adventure sports were thrilling.,2,mountain,Manali
+164,Manali,2021,2,3042,3.8,Not well maintained in some areas.,2,mountain,Manali
+144,Jaipur,2021,2,2141,4.3,Not well maintained in some areas.,2,culture,Jaipur
+190,Jaipur,2021,2,2141,4.0,"Amazing views, perfect for families.",2,culture,Jaipur
+166,Jaipur,2021,2,2141,3.8,Must visit for culture lovers.,2,culture,Jaipur
+115,Jaipur,2021,2,2141,4.0,"Amazing views, perfect for families.",2,culture,Jaipur
+170,Jaipur,2021,2,2141,3.2,Good food and hotels.,2,culture,Jaipur
+166,Varanasi,2021,2,2365,3.8,"Amazing views, perfect for families.",2,spiritual,Varanasi
+111,Varanasi,2021,2,2365,4.6,Budget-friendly and great food.,2,spiritual,Varanasi
+196,Varanasi,2021,2,2365,3.8,Good food and hotels.,2,spiritual,Varanasi
+198,Varanasi,2021,2,2365,4.4,Great place with excellent beaches.,2,spiritual,Varanasi
+133,Varanasi,2021,2,2365,3.5,Peaceful and beautiful scenery.,2,spiritual,Varanasi
+189,Kerala,2021,2,4138,4.1,Good food and hotels.,3,backwater,Kerala
+109,Kerala,2021,2,4138,3.7,Too crowded during holidays.,3,backwater,Kerala
+107,Kerala,2021,2,4138,3.3,Too crowded during holidays.,3,backwater,Kerala
+112,Kerala,2021,2,4138,4.0,Not well maintained in some areas.,3,backwater,Kerala
+143,Kerala,2021,2,4138,3.7,Good food and hotels.,3,backwater,Kerala
+113,Rishikesh,2021,2,2169,4.1,"Amazing views, perfect for families.",2,adventure,Rishikesh
+158,Rishikesh,2021,2,2169,4.1,Not well maintained in some areas.,2,adventure,Rishikesh
+196,Rishikesh,2021,2,2169,4.7,Budget-friendly and great food.,2,adventure,Rishikesh
 161,Rishikesh,2021,2,2169,4.4,Too crowded during holidays.,2,adventure,Rishikesh
-129,Rishikesh,2021,2,2169,4.2,Peaceful and beautiful scenery.,2,adventure,Rishikesh
-177,Goa,2021,3,3438,4.3,Adventure sports were thrilling.,3,beach,Goa
-116,Goa,2021,3,3438,3.9,Budget-friendly and great food.,3,beach,Goa
-157,Goa,2021,3,3438,3.3,Must visit for culture lovers.,3,beach,Goa
-198,Goa,2021,3,3438,3.5,Adventure sports were thrilling.,3,beach,Goa
-129,Goa,2021,3,3438,4.2,Budget-friendly and great food.,3,beach,Goa
-149,Manali,2021,3,2251,2.9,"Amazing views, perfect for families.",2,mountain,Manali
-126,Manali,2021,3,2251,4.1,Not well maintained in some areas.,2,mountain,Manali
-133,Manali,2021,3,2251,3.6,Must visit for culture lovers.,2,mountain,Manali
-166,Manali,2021,3,2251,3.8,Adventure sports were thrilling.,2,mountain,Manali
-147,Manali,2021,3,2251,3.7,Budget-friendly and great food.,2,mountain,Manali
-100,Jaipur,2021,3,2457,3.8,Must visit for culture lovers.,2,culture,Jaipur
-154,Jaipur,2021,3,2457,4.0,Great place with excellent beaches.,2,culture,Jaipur
-188,Jaipur,2021,3,2457,4.9,Budget-friendly and great food.,2,culture,Jaipur
-180,Jaipur,2021,3,2457,4.1,"Amazing views, perfect for families.",2,culture,Jaipur
-134,Jaipur,2021,3,2457,4.5,Budget-friendly and great food.,2,culture,Jaipur
-123,Varanasi,2021,3,2650,3.6,Not well maintained in some areas.,2,spiritual,Varanasi
+129,Rishikesh,2021,2,2169,4.2,Budget-friendly and great food.,2,adventure,Rishikesh
+177,Goa,2021,3,3438,4.3,Good food and hotels.,3,beach,Goa
+116,Goa,2021,3,3438,3.9,Great place with excellent beaches.,3,beach,Goa
+157,Goa,2021,3,3438,3.3,Not well maintained in some areas.,3,beach,Goa
+198,Goa,2021,3,3438,3.5,Too crowded during holidays.,3,beach,Goa
+129,Goa,2021,3,3438,4.2,Excellent hospitality.,3,beach,Goa
+149,Manali,2021,3,2251,2.9,Excellent hospitality.,2,mountain,Manali
+126,Manali,2021,3,2251,4.1,Too crowded during holidays.,2,mountain,Manali
+133,Manali,2021,3,2251,3.6,Good food and hotels.,2,mountain,Manali
+166,Manali,2021,3,2251,3.8,"Amazing views, perfect for families.",2,mountain,Manali
+147,Manali,2021,3,2251,3.7,"Amazing views, perfect for families.",2,mountain,Manali
+100,Jaipur,2021,3,2457,3.8,Excellent hospitality.,2,culture,Jaipur
+154,Jaipur,2021,3,2457,4.0,Excellent hospitality.,2,culture,Jaipur
+188,Jaipur,2021,3,2457,4.9,"Amazing views, perfect for families.",2,culture,Jaipur
+180,Jaipur,2021,3,2457,4.1,Too crowded during holidays.,2,culture,Jaipur
+134,Jaipur,2021,3,2457,4.5,Excellent hospitality.,2,culture,Jaipur
+123,Varanasi,2021,3,2650,3.6,Too crowded during holidays.,2,spiritual,Varanasi
 103,Varanasi,2021,3,2650,4.4,Must visit for culture lovers.,2,spiritual,Varanasi
-194,Varanasi,2021,3,2650,3.5,Great place with excellent beaches.,2,spiritual,Varanasi
+194,Varanasi,2021,3,2650,3.5,Must visit for culture lovers.,2,spiritual,Varanasi
 122,Varanasi,2021,3,2650,4.5,Adventure sports were thrilling.,2,spiritual,Varanasi
-110,Varanasi,2021,3,2650,4.2,Too crowded during holidays.,2,spiritual,Varanasi
-124,Kerala,2021,3,2553,3.4,Good food and hotels.,3,backwater,Kerala
-192,Kerala,2021,3,2553,4.1,Excellent hospitality.,3,backwater,Kerala
-118,Kerala,2021,3,2553,4.8,Great place with excellent beaches.,3,backwater,Kerala
-197,Kerala,2021,3,2553,4.1,Not well maintained in some areas.,3,backwater,Kerala
-186,Kerala,2021,3,2553,3.9,Too crowded during holidays.,3,backwater,Kerala
-102,Rishikesh,2021,3,2185,4.2,Adventure sports were thrilling.,2,adventure,Rishikesh
-141,Rishikesh,2021,3,2185,4.8,Budget-friendly and great food.,2,adventure,Rishikesh
-177,Rishikesh,2021,3,2185,4.1,Must visit for culture lovers.,2,adventure,Rishikesh
-130,Rishikesh,2021,3,2185,3.4,Peaceful and beautiful scenery.,2,adventure,Rishikesh
+110,Varanasi,2021,3,2650,4.2,Great place with excellent beaches.,2,spiritual,Varanasi
+124,Kerala,2021,3,2553,3.4,Too crowded during holidays.,3,backwater,Kerala
+192,Kerala,2021,3,2553,4.1,Too crowded during holidays.,3,backwater,Kerala
+118,Kerala,2021,3,2553,4.8,Excellent hospitality.,3,backwater,Kerala
+197,Kerala,2021,3,2553,4.1,"Amazing views, perfect for families.",3,backwater,Kerala
+186,Kerala,2021,3,2553,3.9,Budget-friendly and great food.,3,backwater,Kerala
+102,Rishikesh,2021,3,2185,4.2,Peaceful and beautiful scenery.,2,adventure,Rishikesh
+141,Rishikesh,2021,3,2185,4.8,Too crowded during holidays.,2,adventure,Rishikesh
+177,Rishikesh,2021,3,2185,4.1,Good food and hotels.,2,adventure,Rishikesh
+130,Rishikesh,2021,3,2185,3.4,Adventure sports were thrilling.,2,adventure,Rishikesh
 145,Rishikesh,2021,3,2185,3.3,Too crowded during holidays.,2,adventure,Rishikesh
-174,Goa,2021,4,3495,4.7,Adventure sports were thrilling.,3,beach,Goa
-187,Goa,2021,4,3495,3.6,Too crowded during holidays.,3,beach,Goa
-115,Goa,2021,4,3495,4.3,Adventure sports were thrilling.,3,beach,Goa
-180,Goa,2021,4,3495,3.8,Good food and hotels.,3,beach,Goa
-106,Goa,2021,4,3495,4.0,Too crowded during holidays.,3,beach,Goa
-101,Manali,2021,4,1950,3.0,Peaceful and beautiful scenery.,2,mountain,Manali
-122,Manali,2021,4,1950,4.0,Must visit for culture lovers.,2,mountain,Manali
-117,Manali,2021,4,1950,3.6,Peaceful and beautiful scenery.,2,mountain,Manali
-183,Manali,2021,4,1950,3.4,Must visit for culture lovers.,2,mountain,Manali
-190,Manali,2021,4,1950,3.6,Excellent hospitality.,2,mountain,Manali
-108,Jaipur,2021,4,2399,3.8,Too crowded during holidays.,2,culture,Jaipur
-173,Jaipur,2021,4,2399,3.8,Not well maintained in some areas.,2,culture,Jaipur
-182,Jaipur,2021,4,2399,4.5,Great place with excellent beaches.,2,culture,Jaipur
-169,Jaipur,2021,4,2399,4.3,"Amazing views, perfect for families.",2,culture,Jaipur
-102,Jaipur,2021,4,2399,4.7,Peaceful and beautiful scenery.,2,culture,Jaipur
-149,Varanasi,2021,4,2753,3.5,Budget-friendly and great food.,2,spiritual,Varanasi
-193,Varanasi,2021,4,2753,4.0,Too crowded during holidays.,2,spiritual,Varanasi
-189,Varanasi,2021,4,2753,4.1,Adventure sports were thrilling.,2,spiritual,Varanasi
-102,Varanasi,2021,4,2753,5.0,Peaceful and beautiful scenery.,2,spiritual,Varanasi
-190,Varanasi,2021,4,2753,4.9,Great place with excellent beaches.,2,spiritual,Varanasi
-142,Kerala,2021,4,2344,3.6,Peaceful and beautiful scenery.,3,backwater,Kerala
-178,Kerala,2021,4,2344,3.7,"Amazing views, perfect for families.",3,backwater,Kerala
-170,Kerala,2021,4,2344,2.9,Budget-friendly and great food.,3,backwater,Kerala
-163,Kerala,2021,4,2344,3.9,Must visit for culture lovers.,3,backwater,Kerala
-146,Kerala,2021,4,2344,3.5,Peaceful and beautiful scenery.,3,backwater,Kerala
-142,Rishikesh,2021,4,1941,3.3,Not well maintained in some areas.,2,adventure,Rishikesh
-111,Rishikesh,2021,4,1941,5.0,Great place with excellent beaches.,2,adventure,Rishikesh
-191,Rishikesh,2021,4,1941,3.4,Too crowded during holidays.,2,adventure,Rishikesh
-136,Rishikesh,2021,4,1941,3.5,Not well maintained in some areas.,2,adventure,Rishikesh
-110,Rishikesh,2021,4,1941,4.9,Excellent hospitality.,2,adventure,Rishikesh
-106,Goa,2021,5,3871,3.9,Great place with excellent beaches.,3,beach,Goa
-158,Goa,2021,5,3871,4.4,Peaceful and beautiful scenery.,3,beach,Goa
+174,Goa,2021,4,3495,4.7,Too crowded during holidays.,3,beach,Goa
+187,Goa,2021,4,3495,3.6,Adventure sports were thrilling.,3,beach,Goa
+115,Goa,2021,4,3495,4.3,Not well maintained in some areas.,3,beach,Goa
+180,Goa,2021,4,3495,3.8,Excellent hospitality.,3,beach,Goa
+106,Goa,2021,4,3495,4.0,Budget-friendly and great food.,3,beach,Goa
+101,Manali,2021,4,1950,3.0,"Amazing views, perfect for families.",2,mountain,Manali
+122,Manali,2021,4,1950,4.0,Great place with excellent beaches.,2,mountain,Manali
+117,Manali,2021,4,1950,3.6,Excellent hospitality.,2,mountain,Manali
+183,Manali,2021,4,1950,3.4,Budget-friendly and great food.,2,mountain,Manali
+190,Manali,2021,4,1950,3.6,"Amazing views, perfect for families.",2,mountain,Manali
+108,Jaipur,2021,4,2399,3.8,Great place with excellent beaches.,2,culture,Jaipur
+173,Jaipur,2021,4,2399,3.8,Budget-friendly and great food.,2,culture,Jaipur
+182,Jaipur,2021,4,2399,4.5,"Amazing views, perfect for families.",2,culture,Jaipur
+169,Jaipur,2021,4,2399,4.3,Excellent hospitality.,2,culture,Jaipur
+102,Jaipur,2021,4,2399,4.7,Must visit for culture lovers.,2,culture,Jaipur
+149,Varanasi,2021,4,2753,3.5,Must visit for culture lovers.,2,spiritual,Varanasi
+193,Varanasi,2021,4,2753,4.0,Adventure sports were thrilling.,2,spiritual,Varanasi
+189,Varanasi,2021,4,2753,4.1,Excellent hospitality.,2,spiritual,Varanasi
+102,Varanasi,2021,4,2753,5.0,Not well maintained in some areas.,2,spiritual,Varanasi
+190,Varanasi,2021,4,2753,4.9,Too crowded during holidays.,2,spiritual,Varanasi
+142,Kerala,2021,4,2344,3.6,Must visit for culture lovers.,3,backwater,Kerala
+178,Kerala,2021,4,2344,3.7,Good food and hotels.,3,backwater,Kerala
+170,Kerala,2021,4,2344,2.9,Must visit for culture lovers.,3,backwater,Kerala
+163,Kerala,2021,4,2344,3.9,Good food and hotels.,3,backwater,Kerala
+146,Kerala,2021,4,2344,3.5,Good food and hotels.,3,backwater,Kerala
+142,Rishikesh,2021,4,1941,3.3,Peaceful and beautiful scenery.,2,adventure,Rishikesh
+111,Rishikesh,2021,4,1941,5.0,Must visit for culture lovers.,2,adventure,Rishikesh
+191,Rishikesh,2021,4,1941,3.4,Must visit for culture lovers.,2,adventure,Rishikesh
+136,Rishikesh,2021,4,1941,3.5,Adventure sports were thrilling.,2,adventure,Rishikesh
+110,Rishikesh,2021,4,1941,4.9,Not well maintained in some areas.,2,adventure,Rishikesh
+106,Goa,2021,5,3871,3.9,"Amazing views, perfect for families.",3,beach,Goa
+158,Goa,2021,5,3871,4.4,Must visit for culture lovers.,3,beach,Goa
 146,Goa,2021,5,3871,4.2,Good food and hotels.,3,beach,Goa
-135,Goa,2021,5,3871,3.8,Must visit for culture lovers.,3,beach,Goa
-184,Goa,2021,5,3871,3.9,Budget-friendly and great food.,3,beach,Goa
-152,Manali,2021,5,4087,4.2,Good food and hotels.,2,mountain,Manali
-170,Manali,2021,5,4087,4.5,Budget-friendly and great food.,2,mountain,Manali
-102,Manali,2021,5,4087,4.1,Not well maintained in some areas.,2,mountain,Manali
-105,Manali,2021,5,4087,4.2,Must visit for culture lovers.,2,mountain,Manali
-129,Manali,2021,5,4087,4.0,Too crowded during holidays.,2,mountain,Manali
-182,Jaipur,2021,5,2500,4.8,Excellent hospitality.,2,culture,Jaipur
-152,Jaipur,2021,5,2500,4.2,Budget-friendly and great food.,2,culture,Jaipur
-149,Jaipur,2021,5,2500,3.6,Good food and hotels.,2,culture,Jaipur
-104,Jaipur,2021,5,2500,3.4,Adventure sports were thrilling.,2,culture,Jaipur
-176,Jaipur,2021,5,2500,4.6,Adventure sports were thrilling.,2,culture,Jaipur
-123,Varanasi,2021,5,2878,3.4,Budget-friendly and great food.,2,spiritual,Varanasi
-139,Varanasi,2021,5,2878,3.8,Must visit for culture lovers.,2,spiritual,Varanasi
-190,Varanasi,2021,5,2878,4.1,Budget-friendly and great food.,2,spiritual,Varanasi
-168,Varanasi,2021,5,2878,4.0,Too crowded during holidays.,2,spiritual,Varanasi
-109,Varanasi,2021,5,2878,3.9,Great place with excellent beaches.,2,spiritual,Varanasi
-179,Kerala,2021,5,2568,4.1,"Amazing views, perfect for families.",3,backwater,Kerala
-131,Kerala,2021,5,2568,4.1,Too crowded during holidays.,3,backwater,Kerala
-151,Kerala,2021,5,2568,3.8,Adventure sports were thrilling.,3,backwater,Kerala
-150,Kerala,2021,5,2568,3.1,Too crowded during holidays.,3,backwater,Kerala
-196,Kerala,2021,5,2568,4.2,Must visit for culture lovers.,3,backwater,Kerala
-197,Rishikesh,2021,5,3718,3.5,Not well maintained in some areas.,2,adventure,Rishikesh
-136,Rishikesh,2021,5,3718,3.8,Budget-friendly and great food.,2,adventure,Rishikesh
-199,Rishikesh,2021,5,3718,4.7,Must visit for culture lovers.,2,adventure,Rishikesh
-132,Rishikesh,2021,5,3718,4.3,Peaceful and beautiful scenery.,2,adventure,Rishikesh
-150,Rishikesh,2021,5,3718,4.9,Peaceful and beautiful scenery.,2,adventure,Rishikesh
-148,Goa,2021,6,1853,4.0,Must visit for culture lovers.,3,beach,Goa
-151,Goa,2021,6,1853,3.7,Must visit for culture lovers.,3,beach,Goa
-194,Goa,2021,6,1853,4.5,Peaceful and beautiful scenery.,3,beach,Goa
-144,Goa,2021,6,1853,3.4,Budget-friendly and great food.,3,beach,Goa
-184,Goa,2021,6,1853,4.4,Adventure sports were thrilling.,3,beach,Goa
-109,Manali,2021,6,4442,3.2,"Amazing views, perfect for families.",2,mountain,Manali
-151,Manali,2021,6,4442,4.0,Adventure sports were thrilling.,2,mountain,Manali
-192,Manali,2021,6,4442,3.4,"Amazing views, perfect for families.",2,mountain,Manali
-160,Manali,2021,6,4442,3.7,Good food and hotels.,2,mountain,Manali
-162,Manali,2021,6,4442,4.8,Great place with excellent beaches.,2,mountain,Manali
-193,Jaipur,2021,6,2691,4.2,Peaceful and beautiful scenery.,2,culture,Jaipur
+135,Goa,2021,5,3871,3.8,Good food and hotels.,3,beach,Goa
+184,Goa,2021,5,3871,3.9,Not well maintained in some areas.,3,beach,Goa
+152,Manali,2021,5,4087,4.2,"Amazing views, perfect for families.",2,mountain,Manali
+170,Manali,2021,5,4087,4.5,Adventure sports were thrilling.,2,mountain,Manali
+102,Manali,2021,5,4087,4.1,Good food and hotels.,2,mountain,Manali
+105,Manali,2021,5,4087,4.2,Too crowded during holidays.,2,mountain,Manali
+129,Manali,2021,5,4087,4.0,Peaceful and beautiful scenery.,2,mountain,Manali
+182,Jaipur,2021,5,2500,4.8,Too crowded during holidays.,2,culture,Jaipur
+152,Jaipur,2021,5,2500,4.2,Must visit for culture lovers.,2,culture,Jaipur
+149,Jaipur,2021,5,2500,3.6,Too crowded during holidays.,2,culture,Jaipur
+104,Jaipur,2021,5,2500,3.4,Excellent hospitality.,2,culture,Jaipur
+176,Jaipur,2021,5,2500,4.6,Great place with excellent beaches.,2,culture,Jaipur
+123,Varanasi,2021,5,2878,3.4,Great place with excellent beaches.,2,spiritual,Varanasi
+139,Varanasi,2021,5,2878,3.8,Budget-friendly and great food.,2,spiritual,Varanasi
+190,Varanasi,2021,5,2878,4.1,Great place with excellent beaches.,2,spiritual,Varanasi
+168,Varanasi,2021,5,2878,4.0,Great place with excellent beaches.,2,spiritual,Varanasi
+109,Varanasi,2021,5,2878,3.9,Must visit for culture lovers.,2,spiritual,Varanasi
+179,Kerala,2021,5,2568,4.1,Good food and hotels.,3,backwater,Kerala
+131,Kerala,2021,5,2568,4.1,Budget-friendly and great food.,3,backwater,Kerala
+151,Kerala,2021,5,2568,3.8,"Amazing views, perfect for families.",3,backwater,Kerala
+150,Kerala,2021,5,2568,3.1,Adventure sports were thrilling.,3,backwater,Kerala
+196,Kerala,2021,5,2568,4.2,"Amazing views, perfect for families.",3,backwater,Kerala
+197,Rishikesh,2021,5,3718,3.5,Must visit for culture lovers.,2,adventure,Rishikesh
+136,Rishikesh,2021,5,3718,3.8,"Amazing views, perfect for families.",2,adventure,Rishikesh
+199,Rishikesh,2021,5,3718,4.7,Adventure sports were thrilling.,2,adventure,Rishikesh
+132,Rishikesh,2021,5,3718,4.3,Too crowded during holidays.,2,adventure,Rishikesh
+150,Rishikesh,2021,5,3718,4.9,Not well maintained in some areas.,2,adventure,Rishikesh
+148,Goa,2021,6,1853,4.0,Good food and hotels.,3,beach,Goa
+151,Goa,2021,6,1853,3.7,Budget-friendly and great food.,3,beach,Goa
+194,Goa,2021,6,1853,4.5,Budget-friendly and great food.,3,beach,Goa
+144,Goa,2021,6,1853,3.4,Good food and hotels.,3,beach,Goa
+184,Goa,2021,6,1853,4.4,Good food and hotels.,3,beach,Goa
+109,Manali,2021,6,4442,3.2,Peaceful and beautiful scenery.,2,mountain,Manali
+151,Manali,2021,6,4442,4.0,Excellent hospitality.,2,mountain,Manali
+192,Manali,2021,6,4442,3.4,Too crowded during holidays.,2,mountain,Manali
+160,Manali,2021,6,4442,3.7,Great place with excellent beaches.,2,mountain,Manali
+162,Manali,2021,6,4442,4.8,Adventure sports were thrilling.,2,mountain,Manali
+193,Jaipur,2021,6,2691,4.2,Budget-friendly and great food.,2,culture,Jaipur
 195,Jaipur,2021,6,2691,4.6,Not well maintained in some areas.,2,culture,Jaipur
-109,Jaipur,2021,6,2691,4.3,Must visit for culture lovers.,2,culture,Jaipur
-191,Jaipur,2021,6,2691,2.9,Adventure sports were thrilling.,2,culture,Jaipur
-177,Jaipur,2021,6,2691,4.2,Great place with excellent beaches.,2,culture,Jaipur
-151,Varanasi,2021,6,2821,4.3,Great place with excellent beaches.,2,spiritual,Varanasi
+109,Jaipur,2021,6,2691,4.3,Excellent hospitality.,2,culture,Jaipur
+191,Jaipur,2021,6,2691,2.9,Budget-friendly and great food.,2,culture,Jaipur
+177,Jaipur,2021,6,2691,4.2,Not well maintained in some areas.,2,culture,Jaipur
+151,Varanasi,2021,6,2821,4.3,Good food and hotels.,2,spiritual,Varanasi
 149,Varanasi,2021,6,2821,3.2,Must visit for culture lovers.,2,spiritual,Varanasi
-109,Varanasi,2021,6,2821,4.7,"Amazing views, perfect for families.",2,spiritual,Varanasi
-178,Varanasi,2021,6,2821,4.2,Budget-friendly and great food.,2,spiritual,Varanasi
-189,Varanasi,2021,6,2821,4.4,Too crowded during holidays.,2,spiritual,Varanasi
-119,Kerala,2021,6,2428,3.6,Adventure sports were thrilling.,3,backwater,Kerala
-165,Kerala,2021,6,2428,3.9,Must visit for culture lovers.,3,backwater,Kerala
-171,Kerala,2021,6,2428,3.9,"Amazing views, perfect for families.",3,backwater,Kerala
-133,Kerala,2021,6,2428,4.2,Good food and hotels.,3,backwater,Kerala
-173,Kerala,2021,6,2428,4.5,Excellent hospitality.,3,backwater,Kerala
-172,Rishikesh,2021,6,2882,4.1,Good food and hotels.,2,adventure,Rishikesh
-171,Rishikesh,2021,6,2882,4.4,Budget-friendly and great food.,2,adventure,Rishikesh
-112,Rishikesh,2021,6,2882,4.0,Not well maintained in some areas.,2,adventure,Rishikesh
-137,Rishikesh,2021,6,2882,4.7,Must visit for culture lovers.,2,adventure,Rishikesh
-125,Rishikesh,2021,6,2882,4.4,Excellent hospitality.,2,adventure,Rishikesh
-111,Goa,2021,7,1752,3.8,Must visit for culture lovers.,3,beach,Goa
-126,Goa,2021,7,1752,4.1,Not well maintained in some areas.,3,beach,Goa
-187,Goa,2021,7,1752,4.7,Must visit for culture lovers.,3,beach,Goa
-140,Goa,2021,7,1752,3.2,Budget-friendly and great food.,3,beach,Goa
-184,Goa,2021,7,1752,3.4,Too crowded during holidays.,3,beach,Goa
-156,Manali,2021,7,4019,3.3,Adventure sports were thrilling.,2,mountain,Manali
-130,Manali,2021,7,4019,2.8,Peaceful and beautiful scenery.,2,mountain,Manali
-199,Manali,2021,7,4019,4.0,Excellent hospitality.,2,mountain,Manali
-101,Manali,2021,7,4019,3.8,Peaceful and beautiful scenery.,2,mountain,Manali
-143,Manali,2021,7,4019,4.2,Great place with excellent beaches.,2,mountain,Manali
-113,Jaipur,2021,7,2710,4.3,"Amazing views, perfect for families.",2,culture,Jaipur
-196,Jaipur,2021,7,2710,3.6,Not well maintained in some areas.,2,culture,Jaipur
-163,Jaipur,2021,7,2710,3.9,Great place with excellent beaches.,2,culture,Jaipur
-102,Jaipur,2021,7,2710,4.1,Not well maintained in some areas.,2,culture,Jaipur
+109,Varanasi,2021,6,2821,4.7,Good food and hotels.,2,spiritual,Varanasi
+178,Varanasi,2021,6,2821,4.2,Too crowded during holidays.,2,spiritual,Varanasi
+189,Varanasi,2021,6,2821,4.4,Good food and hotels.,2,spiritual,Varanasi
+119,Kerala,2021,6,2428,3.6,Excellent hospitality.,3,backwater,Kerala
+165,Kerala,2021,6,2428,3.9,Good food and hotels.,3,backwater,Kerala
+171,Kerala,2021,6,2428,3.9,Excellent hospitality.,3,backwater,Kerala
+133,Kerala,2021,6,2428,4.2,Budget-friendly and great food.,3,backwater,Kerala
+173,Kerala,2021,6,2428,4.5,Not well maintained in some areas.,3,backwater,Kerala
+172,Rishikesh,2021,6,2882,4.1,Too crowded during holidays.,2,adventure,Rishikesh
+171,Rishikesh,2021,6,2882,4.4,Excellent hospitality.,2,adventure,Rishikesh
+112,Rishikesh,2021,6,2882,4.0,Adventure sports were thrilling.,2,adventure,Rishikesh
+137,Rishikesh,2021,6,2882,4.7,Excellent hospitality.,2,adventure,Rishikesh
+125,Rishikesh,2021,6,2882,4.4,Not well maintained in some areas.,2,adventure,Rishikesh
+111,Goa,2021,7,1752,3.8,Adventure sports were thrilling.,3,beach,Goa
+126,Goa,2021,7,1752,4.1,Adventure sports were thrilling.,3,beach,Goa
+187,Goa,2021,7,1752,4.7,Adventure sports were thrilling.,3,beach,Goa
+140,Goa,2021,7,1752,3.2,Adventure sports were thrilling.,3,beach,Goa
+184,Goa,2021,7,1752,3.4,"Amazing views, perfect for families.",3,beach,Goa
+156,Manali,2021,7,4019,3.3,Excellent hospitality.,2,mountain,Manali
+130,Manali,2021,7,4019,2.8,Budget-friendly and great food.,2,mountain,Manali
+199,Manali,2021,7,4019,4.0,Not well maintained in some areas.,2,mountain,Manali
+101,Manali,2021,7,4019,3.8,"Amazing views, perfect for families.",2,mountain,Manali
+143,Manali,2021,7,4019,4.2,Too crowded during holidays.,2,mountain,Manali
+113,Jaipur,2021,7,2710,4.3,Good food and hotels.,2,culture,Jaipur
+196,Jaipur,2021,7,2710,3.6,Great place with excellent beaches.,2,culture,Jaipur
+163,Jaipur,2021,7,2710,3.9,Good food and hotels.,2,culture,Jaipur
+102,Jaipur,2021,7,2710,4.1,Excellent hospitality.,2,culture,Jaipur
 165,Jaipur,2021,7,2710,4.4,Great place with excellent beaches.,2,culture,Jaipur
-128,Varanasi,2021,7,2681,3.0,Good food and hotels.,2,spiritual,Varanasi
-164,Varanasi,2021,7,2681,3.4,Too crowded during holidays.,2,spiritual,Varanasi
-190,Varanasi,2021,7,2681,3.3,Great place with excellent beaches.,2,spiritual,Varanasi
-103,Varanasi,2021,7,2681,2.8,Must visit for culture lovers.,2,spiritual,Varanasi
-186,Varanasi,2021,7,2681,3.7,Budget-friendly and great food.,2,spiritual,Varanasi
-189,Kerala,2021,7,2824,3.6,"Amazing views, perfect for families.",3,backwater,Kerala
-192,Kerala,2021,7,2824,4.7,"Amazing views, perfect for families.",3,backwater,Kerala
-111,Kerala,2021,7,2824,4.0,Not well maintained in some areas.,3,backwater,Kerala
-184,Kerala,2021,7,2824,3.6,Must visit for culture lovers.,3,backwater,Kerala
-176,Kerala,2021,7,2824,3.7,Good food and hotels.,3,backwater,Kerala
-127,Rishikesh,2021,7,1655,3.3,Must visit for culture lovers.,2,adventure,Rishikesh
-101,Rishikesh,2021,7,1655,4.2,Must visit for culture lovers.,2,adventure,Rishikesh
-105,Rishikesh,2021,7,1655,3.5,Must visit for culture lovers.,2,adventure,Rishikesh
+128,Varanasi,2021,7,2681,3.0,Must visit for culture lovers.,2,spiritual,Varanasi
+164,Varanasi,2021,7,2681,3.4,"Amazing views, perfect for families.",2,spiritual,Varanasi
+190,Varanasi,2021,7,2681,3.3,Excellent hospitality.,2,spiritual,Varanasi
+103,Varanasi,2021,7,2681,2.8,Adventure sports were thrilling.,2,spiritual,Varanasi
+186,Varanasi,2021,7,2681,3.7,Not well maintained in some areas.,2,spiritual,Varanasi
+189,Kerala,2021,7,2824,3.6,Must visit for culture lovers.,3,backwater,Kerala
+192,Kerala,2021,7,2824,4.7,Must visit for culture lovers.,3,backwater,Kerala
+111,Kerala,2021,7,2824,4.0,Peaceful and beautiful scenery.,3,backwater,Kerala
+184,Kerala,2021,7,2824,3.6,Peaceful and beautiful scenery.,3,backwater,Kerala
+176,Kerala,2021,7,2824,3.7,Not well maintained in some areas.,3,backwater,Kerala
+127,Rishikesh,2021,7,1655,3.3,Budget-friendly and great food.,2,adventure,Rishikesh
+101,Rishikesh,2021,7,1655,4.2,Good food and hotels.,2,adventure,Rishikesh
+105,Rishikesh,2021,7,1655,3.5,Adventure sports were thrilling.,2,adventure,Rishikesh
 118,Rishikesh,2021,7,1655,4.2,Adventure sports were thrilling.,2,adventure,Rishikesh
 103,Rishikesh,2021,7,1655,3.9,Budget-friendly and great food.,2,adventure,Rishikesh
-177,Goa,2021,8,950,4.2,Excellent hospitality.,3,beach,Goa
-109,Goa,2021,8,950,3.9,Budget-friendly and great food.,3,beach,Goa
-136,Goa,2021,8,950,4.2,Good food and hotels.,3,beach,Goa
-116,Goa,2021,8,950,4.2,"Amazing views, perfect for families.",3,beach,Goa
-139,Goa,2021,8,950,4.7,Excellent hospitality.,3,beach,Goa
-144,Manali,2021,8,4397,4.2,Excellent hospitality.,2,mountain,Manali
-153,Manali,2021,8,4397,3.9,Budget-friendly and great food.,2,mountain,Manali
-169,Manali,2021,8,4397,4.2,Too crowded during holidays.,2,mountain,Manali
-156,Manali,2021,8,4397,5.0,"Amazing views, perfect for families.",2,mountain,Manali
-140,Manali,2021,8,4397,5.0,Must visit for culture lovers.,2,mountain,Manali
+177,Goa,2021,8,950,4.2,Adventure sports were thrilling.,3,beach,Goa
+109,Goa,2021,8,950,3.9,Adventure sports were thrilling.,3,beach,Goa
+136,Goa,2021,8,950,4.2,Not well maintained in some areas.,3,beach,Goa
+116,Goa,2021,8,950,4.2,Not well maintained in some areas.,3,beach,Goa
+139,Goa,2021,8,950,4.7,Great place with excellent beaches.,3,beach,Goa
+144,Manali,2021,8,4397,4.2,Too crowded during holidays.,2,mountain,Manali
+153,Manali,2021,8,4397,3.9,Not well maintained in some areas.,2,mountain,Manali
+169,Manali,2021,8,4397,4.2,"Amazing views, perfect for families.",2,mountain,Manali
+156,Manali,2021,8,4397,5.0,Peaceful and beautiful scenery.,2,mountain,Manali
+140,Manali,2021,8,4397,5.0,"Amazing views, perfect for families.",2,mountain,Manali
 161,Jaipur,2021,8,2520,4.2,Good food and hotels.,2,culture,Jaipur
-190,Jaipur,2021,8,2520,3.6,Peaceful and beautiful scenery.,2,culture,Jaipur
-126,Jaipur,2021,8,2520,3.2,Budget-friendly and great food.,2,culture,Jaipur
-130,Jaipur,2021,8,2520,3.0,Budget-friendly and great food.,2,culture,Jaipur
-109,Jaipur,2021,8,2520,3.4,"Amazing views, perfect for families.",2,culture,Jaipur
-141,Varanasi,2021,8,2662,4.2,Must visit for culture lovers.,2,spiritual,Varanasi
-128,Varanasi,2021,8,2662,3.8,Too crowded during holidays.,2,spiritual,Varanasi
-147,Varanasi,2021,8,2662,3.9,Good food and hotels.,2,spiritual,Varanasi
-199,Varanasi,2021,8,2662,4.1,Too crowded during holidays.,2,spiritual,Varanasi
-160,Varanasi,2021,8,2662,4.3,Adventure sports were thrilling.,2,spiritual,Varanasi
-132,Kerala,2021,8,2498,4.7,"Amazing views, perfect for families.",3,backwater,Kerala
-152,Kerala,2021,8,2498,4.0,Excellent hospitality.,3,backwater,Kerala
-153,Kerala,2021,8,2498,4.3,"Amazing views, perfect for families.",3,backwater,Kerala
-119,Kerala,2021,8,2498,4.0,Excellent hospitality.,3,backwater,Kerala
-142,Kerala,2021,8,2498,3.9,Good food and hotels.,3,backwater,Kerala
-151,Rishikesh,2021,8,1866,4.3,Not well maintained in some areas.,2,adventure,Rishikesh
-130,Rishikesh,2021,8,1866,4.5,Too crowded during holidays.,2,adventure,Rishikesh
-149,Rishikesh,2021,8,1866,4.2,Adventure sports were thrilling.,2,adventure,Rishikesh
-183,Rishikesh,2021,8,1866,3.9,Peaceful and beautiful scenery.,2,adventure,Rishikesh
-123,Rishikesh,2021,8,1866,4.2,"Amazing views, perfect for families.",2,adventure,Rishikesh
-190,Goa,2021,9,2907,4.7,Too crowded during holidays.,3,beach,Goa
-173,Goa,2021,9,2907,4.4,Adventure sports were thrilling.,3,beach,Goa
+190,Jaipur,2021,8,2520,3.6,Great place with excellent beaches.,2,culture,Jaipur
+126,Jaipur,2021,8,2520,3.2,Great place with excellent beaches.,2,culture,Jaipur
+130,Jaipur,2021,8,2520,3.0,"Amazing views, perfect for families.",2,culture,Jaipur
+109,Jaipur,2021,8,2520,3.4,Adventure sports were thrilling.,2,culture,Jaipur
+141,Varanasi,2021,8,2662,4.2,Great place with excellent beaches.,2,spiritual,Varanasi
+128,Varanasi,2021,8,2662,3.8,Great place with excellent beaches.,2,spiritual,Varanasi
+147,Varanasi,2021,8,2662,3.9,Peaceful and beautiful scenery.,2,spiritual,Varanasi
+199,Varanasi,2021,8,2662,4.1,Not well maintained in some areas.,2,spiritual,Varanasi
+160,Varanasi,2021,8,2662,4.3,Good food and hotels.,2,spiritual,Varanasi
+132,Kerala,2021,8,2498,4.7,Excellent hospitality.,3,backwater,Kerala
+152,Kerala,2021,8,2498,4.0,Peaceful and beautiful scenery.,3,backwater,Kerala
+153,Kerala,2021,8,2498,4.3,Peaceful and beautiful scenery.,3,backwater,Kerala
+119,Kerala,2021,8,2498,4.0,Good food and hotels.,3,backwater,Kerala
+142,Kerala,2021,8,2498,3.9,Not well maintained in some areas.,3,backwater,Kerala
+151,Rishikesh,2021,8,1866,4.3,Adventure sports were thrilling.,2,adventure,Rishikesh
+130,Rishikesh,2021,8,1866,4.5,Not well maintained in some areas.,2,adventure,Rishikesh
+149,Rishikesh,2021,8,1866,4.2,Great place with excellent beaches.,2,adventure,Rishikesh
+183,Rishikesh,2021,8,1866,3.9,Too crowded during holidays.,2,adventure,Rishikesh
+123,Rishikesh,2021,8,1866,4.2,Good food and hotels.,2,adventure,Rishikesh
+190,Goa,2021,9,2907,4.7,Peaceful and beautiful scenery.,3,beach,Goa
+173,Goa,2021,9,2907,4.4,Peaceful and beautiful scenery.,3,beach,Goa
 106,Goa,2021,9,2907,3.6,Adventure sports were thrilling.,3,beach,Goa
-130,Goa,2021,9,2907,3.2,Great place with excellent beaches.,3,beach,Goa
-170,Goa,2021,9,2907,2.5,Budget-friendly and great food.,3,beach,Goa
-182,Manali,2021,9,1836,3.2,Budget-friendly and great food.,2,mountain,Manali
-144,Manali,2021,9,1836,3.9,Good food and hotels.,2,mountain,Manali
-177,Manali,2021,9,1836,4.0,"Amazing views, perfect for families.",2,mountain,Manali
-107,Manali,2021,9,1836,4.0,Good food and hotels.,2,mountain,Manali
-197,Manali,2021,9,1836,4.4,Too crowded during holidays.,2,mountain,Manali
-144,Jaipur,2021,9,2603,3.6,Excellent hospitality.,2,culture,Jaipur
-115,Jaipur,2021,9,2603,4.7,"Amazing views, perfect for families.",2,culture,Jaipur
-169,Jaipur,2021,9,2603,3.9,Excellent hospitality.,2,culture,Jaipur
-116,Jaipur,2021,9,2603,4.7,Budget-friendly and great food.,2,culture,Jaipur
-141,Jaipur,2021,9,2603,3.8,"Amazing views, perfect for families.",2,culture,Jaipur
-104,Varanasi,2021,9,3236,3.5,Great place with excellent beaches.,2,spiritual,Varanasi
-153,Varanasi,2021,9,3236,3.8,Excellent hospitality.,2,spiritual,Varanasi
-143,Varanasi,2021,9,3236,4.2,Not well maintained in some areas.,2,spiritual,Varanasi
-181,Varanasi,2021,9,3236,3.2,Excellent hospitality.,2,spiritual,Varanasi
-174,Varanasi,2021,9,3236,4.3,"Amazing views, perfect for families.",2,spiritual,Varanasi
-170,Kerala,2021,9,2438,4.1,Adventure sports were thrilling.,3,backwater,Kerala
+130,Goa,2021,9,2907,3.2,Must visit for culture lovers.,3,beach,Goa
+170,Goa,2021,9,2907,2.5,Peaceful and beautiful scenery.,3,beach,Goa
+182,Manali,2021,9,1836,3.2,Excellent hospitality.,2,mountain,Manali
+144,Manali,2021,9,1836,3.9,"Amazing views, perfect for families.",2,mountain,Manali
+177,Manali,2021,9,1836,4.0,Not well maintained in some areas.,2,mountain,Manali
+107,Manali,2021,9,1836,4.0,Adventure sports were thrilling.,2,mountain,Manali
+197,Manali,2021,9,1836,4.4,Great place with excellent beaches.,2,mountain,Manali
+144,Jaipur,2021,9,2603,3.6,Not well maintained in some areas.,2,culture,Jaipur
+115,Jaipur,2021,9,2603,4.7,Good food and hotels.,2,culture,Jaipur
+169,Jaipur,2021,9,2603,3.9,Budget-friendly and great food.,2,culture,Jaipur
+116,Jaipur,2021,9,2603,4.7,Must visit for culture lovers.,2,culture,Jaipur
+141,Jaipur,2021,9,2603,3.8,Peaceful and beautiful scenery.,2,culture,Jaipur
+104,Varanasi,2021,9,3236,3.5,Must visit for culture lovers.,2,spiritual,Varanasi
+153,Varanasi,2021,9,3236,3.8,Must visit for culture lovers.,2,spiritual,Varanasi
+143,Varanasi,2021,9,3236,4.2,Peaceful and beautiful scenery.,2,spiritual,Varanasi
+181,Varanasi,2021,9,3236,3.2,Budget-friendly and great food.,2,spiritual,Varanasi
+174,Varanasi,2021,9,3236,4.3,Adventure sports were thrilling.,2,spiritual,Varanasi
+170,Kerala,2021,9,2438,4.1,Peaceful and beautiful scenery.,3,backwater,Kerala
 148,Kerala,2021,9,2438,3.9,Great place with excellent beaches.,3,backwater,Kerala
 101,Kerala,2021,9,2438,3.9,Budget-friendly and great food.,3,backwater,Kerala
-156,Kerala,2021,9,2438,3.9,Too crowded during holidays.,3,backwater,Kerala
-195,Kerala,2021,9,2438,4.1,Too crowded during holidays.,3,backwater,Kerala
-172,Rishikesh,2021,9,2897,4.1,Great place with excellent beaches.,2,adventure,Rishikesh
-152,Rishikesh,2021,9,2897,5.0,Adventure sports were thrilling.,2,adventure,Rishikesh
+156,Kerala,2021,9,2438,3.9,Must visit for culture lovers.,3,backwater,Kerala
+195,Kerala,2021,9,2438,4.1,Must visit for culture lovers.,3,backwater,Kerala
+172,Rishikesh,2021,9,2897,4.1,Must visit for culture lovers.,2,adventure,Rishikesh
+152,Rishikesh,2021,9,2897,5.0,Must visit for culture lovers.,2,adventure,Rishikesh
 180,Rishikesh,2021,9,2897,4.0,Good food and hotels.,2,adventure,Rishikesh
-187,Rishikesh,2021,9,2897,3.8,Peaceful and beautiful scenery.,2,adventure,Rishikesh
-133,Rishikesh,2021,9,2897,3.6,Too crowded during holidays.,2,adventure,Rishikesh
-133,Goa,2021,10,2690,4.2,Excellent hospitality.,3,beach,Goa
-149,Goa,2021,10,2690,4.0,Excellent hospitality.,3,beach,Goa
+187,Rishikesh,2021,9,2897,3.8,Excellent hospitality.,2,adventure,Rishikesh
+133,Rishikesh,2021,9,2897,3.6,Adventure sports were thrilling.,2,adventure,Rishikesh
+133,Goa,2021,10,2690,4.2,Great place with excellent beaches.,3,beach,Goa
+149,Goa,2021,10,2690,4.0,Adventure sports were thrilling.,3,beach,Goa
 136,Goa,2021,10,2690,3.6,Too crowded during holidays.,3,beach,Goa
-184,Goa,2021,10,2690,4.5,Not well maintained in some areas.,3,beach,Goa
-157,Goa,2021,10,2690,4.4,"Amazing views, perfect for families.",3,beach,Goa
-144,Manali,2021,10,1952,4.0,Excellent hospitality.,2,mountain,Manali
-168,Manali,2021,10,1952,4.1,Adventure sports were thrilling.,2,mountain,Manali
-138,Manali,2021,10,1952,3.6,Good food and hotels.,2,mountain,Manali
-158,Manali,2021,10,1952,4.1,Peaceful and beautiful scenery.,2,mountain,Manali
-190,Manali,2021,10,1952,3.3,Good food and hotels.,2,mountain,Manali
-146,Jaipur,2021,10,2900,3.9,"Amazing views, perfect for families.",2,culture,Jaipur
-184,Jaipur,2021,10,2900,3.5,Adventure sports were thrilling.,2,culture,Jaipur
-175,Jaipur,2021,10,2900,4.4,Must visit for culture lovers.,2,culture,Jaipur
-196,Jaipur,2021,10,2900,5.0,Budget-friendly and great food.,2,culture,Jaipur
-165,Jaipur,2021,10,2900,3.4,Must visit for culture lovers.,2,culture,Jaipur
-193,Varanasi,2021,10,2548,4.9,"Amazing views, perfect for families.",2,spiritual,Varanasi
-164,Varanasi,2021,10,2548,3.2,Must visit for culture lovers.,2,spiritual,Varanasi
-196,Varanasi,2021,10,2548,3.4,Excellent hospitality.,2,spiritual,Varanasi
-141,Varanasi,2021,10,2548,3.8,Great place with excellent beaches.,2,spiritual,Varanasi
-192,Varanasi,2021,10,2548,3.7,Excellent hospitality.,2,spiritual,Varanasi
-196,Kerala,2021,10,2843,3.7,Adventure sports were thrilling.,3,backwater,Kerala
-145,Kerala,2021,10,2843,3.7,Adventure sports were thrilling.,3,backwater,Kerala
-124,Kerala,2021,10,2843,4.3,Excellent hospitality.,3,backwater,Kerala
+184,Goa,2021,10,2690,4.5,Budget-friendly and great food.,3,beach,Goa
+157,Goa,2021,10,2690,4.4,Must visit for culture lovers.,3,beach,Goa
+144,Manali,2021,10,1952,4.0,Not well maintained in some areas.,2,mountain,Manali
+168,Manali,2021,10,1952,4.1,Too crowded during holidays.,2,mountain,Manali
+138,Manali,2021,10,1952,3.6,Excellent hospitality.,2,mountain,Manali
+158,Manali,2021,10,1952,4.1,Great place with excellent beaches.,2,mountain,Manali
+190,Manali,2021,10,1952,3.3,Not well maintained in some areas.,2,mountain,Manali
+146,Jaipur,2021,10,2900,3.9,Must visit for culture lovers.,2,culture,Jaipur
+184,Jaipur,2021,10,2900,3.5,Excellent hospitality.,2,culture,Jaipur
+175,Jaipur,2021,10,2900,4.4,Adventure sports were thrilling.,2,culture,Jaipur
+196,Jaipur,2021,10,2900,5.0,Peaceful and beautiful scenery.,2,culture,Jaipur
+165,Jaipur,2021,10,2900,3.4,Budget-friendly and great food.,2,culture,Jaipur
+193,Varanasi,2021,10,2548,4.9,Budget-friendly and great food.,2,spiritual,Varanasi
+164,Varanasi,2021,10,2548,3.2,Peaceful and beautiful scenery.,2,spiritual,Varanasi
+196,Varanasi,2021,10,2548,3.4,Adventure sports were thrilling.,2,spiritual,Varanasi
+141,Varanasi,2021,10,2548,3.8,Excellent hospitality.,2,spiritual,Varanasi
+192,Varanasi,2021,10,2548,3.7,"Amazing views, perfect for families.",2,spiritual,Varanasi
+196,Kerala,2021,10,2843,3.7,Too crowded during holidays.,3,backwater,Kerala
+145,Kerala,2021,10,2843,3.7,Not well maintained in some areas.,3,backwater,Kerala
+124,Kerala,2021,10,2843,4.3,Must visit for culture lovers.,3,backwater,Kerala
 182,Kerala,2021,10,2843,4.4,Good food and hotels.,3,backwater,Kerala
 131,Kerala,2021,10,2843,4.2,Great place with excellent beaches.,3,backwater,Kerala
-108,Rishikesh,2021,10,1594,4.2,Not well maintained in some areas.,2,adventure,Rishikesh
-192,Rishikesh,2021,10,1594,3.6,Not well maintained in some areas.,2,adventure,Rishikesh
-136,Rishikesh,2021,10,1594,3.4,Good food and hotels.,2,adventure,Rishikesh
-104,Rishikesh,2021,10,1594,4.4,Adventure sports were thrilling.,2,adventure,Rishikesh
-110,Rishikesh,2021,10,1594,4.1,Must visit for culture lovers.,2,adventure,Rishikesh
+108,Rishikesh,2021,10,1594,4.2,"Amazing views, perfect for families.",2,adventure,Rishikesh
+192,Rishikesh,2021,10,1594,3.6,Excellent hospitality.,2,adventure,Rishikesh
+136,Rishikesh,2021,10,1594,3.4,Great place with excellent beaches.,2,adventure,Rishikesh
+104,Rishikesh,2021,10,1594,4.4,"Amazing views, perfect for families.",2,adventure,Rishikesh
+110,Rishikesh,2021,10,1594,4.1,Peaceful and beautiful scenery.,2,adventure,Rishikesh
 122,Goa,2021,11,4815,4.2,Budget-friendly and great food.,3,beach,Goa
-144,Goa,2021,11,4815,3.7,Peaceful and beautiful scenery.,3,beach,Goa
-160,Goa,2021,11,4815,3.8,Great place with excellent beaches.,3,beach,Goa
-184,Goa,2021,11,4815,4.7,Budget-friendly and great food.,3,beach,Goa
-109,Goa,2021,11,4815,3.5,Great place with excellent beaches.,3,beach,Goa
-165,Manali,2021,11,1276,3.8,Peaceful and beautiful scenery.,2,mountain,Manali
-177,Manali,2021,11,1276,3.9,Must visit for culture lovers.,2,mountain,Manali
+144,Goa,2021,11,4815,3.7,Great place with excellent beaches.,3,beach,Goa
+160,Goa,2021,11,4815,3.8,Must visit for culture lovers.,3,beach,Goa
+184,Goa,2021,11,4815,4.7,Too crowded during holidays.,3,beach,Goa
+109,Goa,2021,11,4815,3.5,Not well maintained in some areas.,3,beach,Goa
+165,Manali,2021,11,1276,3.8,"Amazing views, perfect for families.",2,mountain,Manali
+177,Manali,2021,11,1276,3.9,Good food and hotels.,2,mountain,Manali
 134,Manali,2021,11,1276,3.9,Great place with excellent beaches.,2,mountain,Manali
-150,Manali,2021,11,1276,3.4,Budget-friendly and great food.,2,mountain,Manali
-185,Manali,2021,11,1276,4.3,Great place with excellent beaches.,2,mountain,Manali
+150,Manali,2021,11,1276,3.4,Too crowded during holidays.,2,mountain,Manali
+185,Manali,2021,11,1276,4.3,Not well maintained in some areas.,2,mountain,Manali
 179,Jaipur,2021,11,4157,3.9,Good food and hotels.,2,culture,Jaipur
-169,Jaipur,2021,11,4157,4.3,Good food and hotels.,2,culture,Jaipur
-143,Jaipur,2021,11,4157,3.1,Good food and hotels.,2,culture,Jaipur
+169,Jaipur,2021,11,4157,4.3,Peaceful and beautiful scenery.,2,culture,Jaipur
+143,Jaipur,2021,11,4157,3.1,Too crowded during holidays.,2,culture,Jaipur
 141,Jaipur,2021,11,4157,4.1,Too crowded during holidays.,2,culture,Jaipur
-153,Jaipur,2021,11,4157,3.8,Excellent hospitality.,2,culture,Jaipur
-113,Varanasi,2021,11,3354,4.2,Budget-friendly and great food.,2,spiritual,Varanasi
-110,Varanasi,2021,11,3354,3.6,Peaceful and beautiful scenery.,2,spiritual,Varanasi
+153,Jaipur,2021,11,4157,3.8,Good food and hotels.,2,culture,Jaipur
+113,Varanasi,2021,11,3354,4.2,Excellent hospitality.,2,spiritual,Varanasi
+110,Varanasi,2021,11,3354,3.6,Must visit for culture lovers.,2,spiritual,Varanasi
 133,Varanasi,2021,11,3354,4.1,Too crowded during holidays.,2,spiritual,Varanasi
-136,Varanasi,2021,11,3354,4.6,"Amazing views, perfect for families.",2,spiritual,Varanasi
-139,Varanasi,2021,11,3354,3.8,Excellent hospitality.,2,spiritual,Varanasi
-153,Kerala,2021,11,3692,3.2,Great place with excellent beaches.,3,backwater,Kerala
-192,Kerala,2021,11,3692,4.2,Too crowded during holidays.,3,backwater,Kerala
-149,Kerala,2021,11,3692,3.7,Peaceful and beautiful scenery.,3,backwater,Kerala
-198,Kerala,2021,11,3692,2.7,Great place with excellent beaches.,3,backwater,Kerala
-172,Kerala,2021,11,3692,4.4,"Amazing views, perfect for families.",3,backwater,Kerala
-184,Rishikesh,2021,11,2181,5.0,Not well maintained in some areas.,2,adventure,Rishikesh
-129,Rishikesh,2021,11,2181,4.2,Not well maintained in some areas.,2,adventure,Rishikesh
-122,Rishikesh,2021,11,2181,4.2,Good food and hotels.,2,adventure,Rishikesh
-124,Rishikesh,2021,11,2181,3.9,Adventure sports were thrilling.,2,adventure,Rishikesh
-102,Rishikesh,2021,11,2181,4.4,Too crowded during holidays.,2,adventure,Rishikesh
-196,Goa,2021,12,5187,3.8,Must visit for culture lovers.,3,beach,Goa
-191,Goa,2021,12,5187,4.4,Peaceful and beautiful scenery.,3,beach,Goa
-166,Goa,2021,12,5187,4.7,Not well maintained in some areas.,3,beach,Goa
-157,Goa,2021,12,5187,3.8,Budget-friendly and great food.,3,beach,Goa
-125,Goa,2021,12,5187,3.8,Too crowded during holidays.,3,beach,Goa
+136,Varanasi,2021,11,3354,4.6,Great place with excellent beaches.,2,spiritual,Varanasi
+139,Varanasi,2021,11,3354,3.8,Must visit for culture lovers.,2,spiritual,Varanasi
+153,Kerala,2021,11,3692,3.2,Too crowded during holidays.,3,backwater,Kerala
+192,Kerala,2021,11,3692,4.2,Good food and hotels.,3,backwater,Kerala
+149,Kerala,2021,11,3692,3.7,Adventure sports were thrilling.,3,backwater,Kerala
+198,Kerala,2021,11,3692,2.7,"Amazing views, perfect for families.",3,backwater,Kerala
+172,Kerala,2021,11,3692,4.4,Not well maintained in some areas.,3,backwater,Kerala
+184,Rishikesh,2021,11,2181,5.0,Peaceful and beautiful scenery.,2,adventure,Rishikesh
+129,Rishikesh,2021,11,2181,4.2,Excellent hospitality.,2,adventure,Rishikesh
+122,Rishikesh,2021,11,2181,4.2,Great place with excellent beaches.,2,adventure,Rishikesh
+124,Rishikesh,2021,11,2181,3.9,Peaceful and beautiful scenery.,2,adventure,Rishikesh
+102,Rishikesh,2021,11,2181,4.4,Excellent hospitality.,2,adventure,Rishikesh
+196,Goa,2021,12,5187,3.8,"Amazing views, perfect for families.",3,beach,Goa
+191,Goa,2021,12,5187,4.4,Not well maintained in some areas.,3,beach,Goa
+166,Goa,2021,12,5187,4.7,Budget-friendly and great food.,3,beach,Goa
+157,Goa,2021,12,5187,3.8,Not well maintained in some areas.,3,beach,Goa
+125,Goa,2021,12,5187,3.8,Excellent hospitality.,3,beach,Goa
 190,Manali,2021,12,3094,3.6,Not well maintained in some areas.,2,mountain,Manali
-175,Manali,2021,12,3094,2.8,Good food and hotels.,2,mountain,Manali
-142,Manali,2021,12,3094,3.5,Must visit for culture lovers.,2,mountain,Manali
-113,Manali,2021,12,3094,3.5,Excellent hospitality.,2,mountain,Manali
-103,Manali,2021,12,3094,3.9,Not well maintained in some areas.,2,mountain,Manali
-183,Jaipur,2021,12,4333,3.5,Too crowded during holidays.,2,culture,Jaipur
-163,Jaipur,2021,12,4333,4.3,Peaceful and beautiful scenery.,2,culture,Jaipur
-104,Jaipur,2021,12,4333,3.9,Peaceful and beautiful scenery.,2,culture,Jaipur
-111,Jaipur,2021,12,4333,4.3,Adventure sports were thrilling.,2,culture,Jaipur
-196,Jaipur,2021,12,4333,4.0,Great place with excellent beaches.,2,culture,Jaipur
-140,Varanasi,2021,12,3010,3.2,Good food and hotels.,2,spiritual,Varanasi
-116,Varanasi,2021,12,3010,4.3,Budget-friendly and great food.,2,spiritual,Varanasi
-100,Varanasi,2021,12,3010,3.8,Adventure sports were thrilling.,2,spiritual,Varanasi
-184,Varanasi,2021,12,3010,3.5,Great place with excellent beaches.,2,spiritual,Varanasi
-167,Varanasi,2021,12,3010,4.0,Too crowded during holidays.,2,spiritual,Varanasi
-189,Kerala,2021,12,4538,4.4,Must visit for culture lovers.,3,backwater,Kerala
-186,Kerala,2021,12,4538,3.4,Too crowded during holidays.,3,backwater,Kerala
+175,Manali,2021,12,3094,2.8,Excellent hospitality.,2,mountain,Manali
+142,Manali,2021,12,3094,3.5,"Amazing views, perfect for families.",2,mountain,Manali
+113,Manali,2021,12,3094,3.5,Great place with excellent beaches.,2,mountain,Manali
+103,Manali,2021,12,3094,3.9,Excellent hospitality.,2,mountain,Manali
+183,Jaipur,2021,12,4333,3.5,Budget-friendly and great food.,2,culture,Jaipur
+163,Jaipur,2021,12,4333,4.3,Must visit for culture lovers.,2,culture,Jaipur
+104,Jaipur,2021,12,4333,3.9,Good food and hotels.,2,culture,Jaipur
+111,Jaipur,2021,12,4333,4.3,Must visit for culture lovers.,2,culture,Jaipur
+196,Jaipur,2021,12,4333,4.0,Must visit for culture lovers.,2,culture,Jaipur
+140,Varanasi,2021,12,3010,3.2,Must visit for culture lovers.,2,spiritual,Varanasi
+116,Varanasi,2021,12,3010,4.3,Peaceful and beautiful scenery.,2,spiritual,Varanasi
+100,Varanasi,2021,12,3010,3.8,Peaceful and beautiful scenery.,2,spiritual,Varanasi
+184,Varanasi,2021,12,3010,3.5,Excellent hospitality.,2,spiritual,Varanasi
+167,Varanasi,2021,12,3010,4.0,Excellent hospitality.,2,spiritual,Varanasi
+189,Kerala,2021,12,4538,4.4,Good food and hotels.,3,backwater,Kerala
+186,Kerala,2021,12,4538,3.4,Must visit for culture lovers.,3,backwater,Kerala
 157,Kerala,2021,12,4538,3.4,Adventure sports were thrilling.,3,backwater,Kerala
-123,Kerala,2021,12,4538,4.2,Not well maintained in some areas.,3,backwater,Kerala
-147,Kerala,2021,12,4538,4.0,Peaceful and beautiful scenery.,3,backwater,Kerala
-130,Rishikesh,2021,12,2264,4.4,Excellent hospitality.,2,adventure,Rishikesh
-102,Rishikesh,2021,12,2264,3.2,Budget-friendly and great food.,2,adventure,Rishikesh
-113,Rishikesh,2021,12,2264,2.9,Good food and hotels.,2,adventure,Rishikesh
-191,Rishikesh,2021,12,2264,4.5,Must visit for culture lovers.,2,adventure,Rishikesh
-131,Rishikesh,2021,12,2264,4.6,Budget-friendly and great food.,2,adventure,Rishikesh
+123,Kerala,2021,12,4538,4.2,Excellent hospitality.,3,backwater,Kerala
+147,Kerala,2021,12,4538,4.0,Too crowded during holidays.,3,backwater,Kerala
+130,Rishikesh,2021,12,2264,4.4,Must visit for culture lovers.,2,adventure,Rishikesh
+102,Rishikesh,2021,12,2264,3.2,Good food and hotels.,2,adventure,Rishikesh
+113,Rishikesh,2021,12,2264,2.9,Too crowded during holidays.,2,adventure,Rishikesh
+191,Rishikesh,2021,12,2264,4.5,Adventure sports were thrilling.,2,adventure,Rishikesh
+131,Rishikesh,2021,12,2264,4.6,Not well maintained in some areas.,2,adventure,Rishikesh
 100,Goa,2022,1,4693,3.8,Budget-friendly and great food.,3,beach,Goa
-165,Goa,2022,1,4693,3.6,Peaceful and beautiful scenery.,3,beach,Goa
-182,Goa,2022,1,4693,4.0,Adventure sports were thrilling.,3,beach,Goa
-148,Goa,2022,1,4693,3.9,Good food and hotels.,3,beach,Goa
-128,Goa,2022,1,4693,3.5,Must visit for culture lovers.,3,beach,Goa
-188,Manali,2022,1,3614,4.3,Budget-friendly and great food.,2,mountain,Manali
-196,Manali,2022,1,3614,4.2,Too crowded during holidays.,2,mountain,Manali
-115,Manali,2022,1,3614,4.6,"Amazing views, perfect for families.",2,mountain,Manali
-136,Manali,2022,1,3614,4.3,Great place with excellent beaches.,2,mountain,Manali
-107,Manali,2022,1,3614,4.4,Peaceful and beautiful scenery.,2,mountain,Manali
-134,Jaipur,2022,1,4191,4.8,Great place with excellent beaches.,2,culture,Jaipur
-102,Jaipur,2022,1,4191,4.9,Excellent hospitality.,2,culture,Jaipur
-138,Jaipur,2022,1,4191,4.7,"Amazing views, perfect for families.",2,culture,Jaipur
-172,Jaipur,2022,1,4191,4.1,"Amazing views, perfect for families.",2,culture,Jaipur
-182,Jaipur,2022,1,4191,4.7,Adventure sports were thrilling.,2,culture,Jaipur
-166,Varanasi,2022,1,2803,3.3,Must visit for culture lovers.,2,spiritual,Varanasi
-175,Varanasi,2022,1,2803,4.0,Excellent hospitality.,2,spiritual,Varanasi
-114,Varanasi,2022,1,2803,4.0,Must visit for culture lovers.,2,spiritual,Varanasi
-199,Varanasi,2022,1,2803,4.9,"Amazing views, perfect for families.",2,spiritual,Varanasi
-169,Varanasi,2022,1,2803,4.4,"Amazing views, perfect for families.",2,spiritual,Varanasi
-141,Kerala,2022,1,4203,3.6,Great place with excellent beaches.,3,backwater,Kerala
-198,Kerala,2022,1,4203,3.4,Peaceful and beautiful scenery.,3,backwater,Kerala
-187,Kerala,2022,1,4203,4.3,Too crowded during holidays.,3,backwater,Kerala
-154,Kerala,2022,1,4203,4.2,Must visit for culture lovers.,3,backwater,Kerala
-108,Kerala,2022,1,4203,3.1,Excellent hospitality.,3,backwater,Kerala
-105,Rishikesh,2022,1,2063,3.6,Adventure sports were thrilling.,2,adventure,Rishikesh
-126,Rishikesh,2022,1,2063,3.5,Must visit for culture lovers.,2,adventure,Rishikesh
-158,Rishikesh,2022,1,2063,4.2,Must visit for culture lovers.,2,adventure,Rishikesh
-115,Rishikesh,2022,1,2063,4.2,Must visit for culture lovers.,2,adventure,Rishikesh
+165,Goa,2022,1,4693,3.6,Adventure sports were thrilling.,3,beach,Goa
+182,Goa,2022,1,4693,4.0,Not well maintained in some areas.,3,beach,Goa
+148,Goa,2022,1,4693,3.9,Adventure sports were thrilling.,3,beach,Goa
+128,Goa,2022,1,4693,3.5,"Amazing views, perfect for families.",3,beach,Goa
+188,Manali,2022,1,3614,4.3,"Amazing views, perfect for families.",2,mountain,Manali
+196,Manali,2022,1,3614,4.2,Must visit for culture lovers.,2,mountain,Manali
+115,Manali,2022,1,3614,4.6,Good food and hotels.,2,mountain,Manali
+136,Manali,2022,1,3614,4.3,Must visit for culture lovers.,2,mountain,Manali
+107,Manali,2022,1,3614,4.4,Excellent hospitality.,2,mountain,Manali
+134,Jaipur,2022,1,4191,4.8,Excellent hospitality.,2,culture,Jaipur
+102,Jaipur,2022,1,4191,4.9,Good food and hotels.,2,culture,Jaipur
+138,Jaipur,2022,1,4191,4.7,Adventure sports were thrilling.,2,culture,Jaipur
+172,Jaipur,2022,1,4191,4.1,Not well maintained in some areas.,2,culture,Jaipur
+182,Jaipur,2022,1,4191,4.7,Budget-friendly and great food.,2,culture,Jaipur
+166,Varanasi,2022,1,2803,3.3,Adventure sports were thrilling.,2,spiritual,Varanasi
+175,Varanasi,2022,1,2803,4.0,Peaceful and beautiful scenery.,2,spiritual,Varanasi
+114,Varanasi,2022,1,2803,4.0,Not well maintained in some areas.,2,spiritual,Varanasi
+199,Varanasi,2022,1,2803,4.9,Too crowded during holidays.,2,spiritual,Varanasi
+169,Varanasi,2022,1,2803,4.4,Must visit for culture lovers.,2,spiritual,Varanasi
+141,Kerala,2022,1,4203,3.6,Must visit for culture lovers.,3,backwater,Kerala
+198,Kerala,2022,1,4203,3.4,Budget-friendly and great food.,3,backwater,Kerala
+187,Kerala,2022,1,4203,4.3,"Amazing views, perfect for families.",3,backwater,Kerala
+154,Kerala,2022,1,4203,4.2,Budget-friendly and great food.,3,backwater,Kerala
+108,Kerala,2022,1,4203,3.1,Adventure sports were thrilling.,3,backwater,Kerala
+105,Rishikesh,2022,1,2063,3.6,Not well maintained in some areas.,2,adventure,Rishikesh
+126,Rishikesh,2022,1,2063,3.5,Peaceful and beautiful scenery.,2,adventure,Rishikesh
+158,Rishikesh,2022,1,2063,4.2,Good food and hotels.,2,adventure,Rishikesh
+115,Rishikesh,2022,1,2063,4.2,Budget-friendly and great food.,2,adventure,Rishikesh
 123,Rishikesh,2022,1,2063,4.6,Adventure sports were thrilling.,2,adventure,Rishikesh
-125,Goa,2022,2,5329,3.7,Adventure sports were thrilling.,3,beach,Goa
-114,Goa,2022,2,5329,4.1,Good food and hotels.,3,beach,Goa
-173,Goa,2022,2,5329,3.7,Great place with excellent beaches.,3,beach,Goa
-197,Goa,2022,2,5329,3.7,Too crowded during holidays.,3,beach,Goa
-170,Goa,2022,2,5329,4.2,Good food and hotels.,3,beach,Goa
-114,Manali,2022,2,2879,4.7,Not well maintained in some areas.,2,mountain,Manali
-166,Manali,2022,2,2879,3.4,Good food and hotels.,2,mountain,Manali
-101,Manali,2022,2,2879,2.9,Budget-friendly and great food.,2,mountain,Manali
-146,Manali,2022,2,2879,3.1,Must visit for culture lovers.,2,mountain,Manali
+125,Goa,2022,2,5329,3.7,Peaceful and beautiful scenery.,3,beach,Goa
+114,Goa,2022,2,5329,4.1,Great place with excellent beaches.,3,beach,Goa
+173,Goa,2022,2,5329,3.7,"Amazing views, perfect for families.",3,beach,Goa
+197,Goa,2022,2,5329,3.7,Adventure sports were thrilling.,3,beach,Goa
+170,Goa,2022,2,5329,4.2,Must visit for culture lovers.,3,beach,Goa
+114,Manali,2022,2,2879,4.7,Great place with excellent beaches.,2,mountain,Manali
+166,Manali,2022,2,2879,3.4,Too crowded during holidays.,2,mountain,Manali
+101,Manali,2022,2,2879,2.9,Good food and hotels.,2,mountain,Manali
+146,Manali,2022,2,2879,3.1,Adventure sports were thrilling.,2,mountain,Manali
 115,Manali,2022,2,2879,4.0,Not well maintained in some areas.,2,mountain,Manali
 139,Jaipur,2022,2,2509,3.4,Not well maintained in some areas.,2,culture,Jaipur
-150,Jaipur,2022,2,2509,3.8,"Amazing views, perfect for families.",2,culture,Jaipur
-165,Jaipur,2022,2,2509,3.6,Good food and hotels.,2,culture,Jaipur
-108,Jaipur,2022,2,2509,3.6,Good food and hotels.,2,culture,Jaipur
-173,Jaipur,2022,2,2509,3.8,Great place with excellent beaches.,2,culture,Jaipur
-102,Varanasi,2022,2,3228,4.9,Adventure sports were thrilling.,2,spiritual,Varanasi
-154,Varanasi,2022,2,3228,4.0,Must visit for culture lovers.,2,spiritual,Varanasi
-172,Varanasi,2022,2,3228,4.1,Must visit for culture lovers.,2,spiritual,Varanasi
-145,Varanasi,2022,2,3228,4.2,Budget-friendly and great food.,2,spiritual,Varanasi
-141,Varanasi,2022,2,3228,5.0,Adventure sports were thrilling.,2,spiritual,Varanasi
-159,Kerala,2022,2,4455,4.0,Good food and hotels.,3,backwater,Kerala
-136,Kerala,2022,2,4455,4.1,Too crowded during holidays.,3,backwater,Kerala
+150,Jaipur,2022,2,2509,3.8,Not well maintained in some areas.,2,culture,Jaipur
+165,Jaipur,2022,2,2509,3.6,Too crowded during holidays.,2,culture,Jaipur
+108,Jaipur,2022,2,2509,3.6,Must visit for culture lovers.,2,culture,Jaipur
+173,Jaipur,2022,2,2509,3.8,Good food and hotels.,2,culture,Jaipur
+102,Varanasi,2022,2,3228,4.9,Excellent hospitality.,2,spiritual,Varanasi
+154,Varanasi,2022,2,3228,4.0,Excellent hospitality.,2,spiritual,Varanasi
+172,Varanasi,2022,2,3228,4.1,Not well maintained in some areas.,2,spiritual,Varanasi
+145,Varanasi,2022,2,3228,4.2,Must visit for culture lovers.,2,spiritual,Varanasi
+141,Varanasi,2022,2,3228,5.0,Too crowded during holidays.,2,spiritual,Varanasi
+159,Kerala,2022,2,4455,4.0,Peaceful and beautiful scenery.,3,backwater,Kerala
+136,Kerala,2022,2,4455,4.1,Budget-friendly and great food.,3,backwater,Kerala
 139,Kerala,2022,2,4455,4.0,Not well maintained in some areas.,3,backwater,Kerala
-100,Kerala,2022,2,4455,4.2,Not well maintained in some areas.,3,backwater,Kerala
-157,Kerala,2022,2,4455,4.2,Great place with excellent beaches.,3,backwater,Kerala
-171,Rishikesh,2022,2,1518,4.0,Too crowded during holidays.,2,adventure,Rishikesh
-193,Rishikesh,2022,2,1518,3.7,"Amazing views, perfect for families.",2,adventure,Rishikesh
-102,Rishikesh,2022,2,1518,4.4,Must visit for culture lovers.,2,adventure,Rishikesh
-124,Rishikesh,2022,2,1518,3.3,Too crowded during holidays.,2,adventure,Rishikesh
-118,Rishikesh,2022,2,1518,3.8,"Amazing views, perfect for families.",2,adventure,Rishikesh
-125,Goa,2022,3,2824,3.1,Adventure sports were thrilling.,3,beach,Goa
+100,Kerala,2022,2,4455,4.2,Must visit for culture lovers.,3,backwater,Kerala
+157,Kerala,2022,2,4455,4.2,Peaceful and beautiful scenery.,3,backwater,Kerala
+171,Rishikesh,2022,2,1518,4.0,Good food and hotels.,2,adventure,Rishikesh
+193,Rishikesh,2022,2,1518,3.7,Too crowded during holidays.,2,adventure,Rishikesh
+102,Rishikesh,2022,2,1518,4.4,Excellent hospitality.,2,adventure,Rishikesh
+124,Rishikesh,2022,2,1518,3.3,Excellent hospitality.,2,adventure,Rishikesh
+118,Rishikesh,2022,2,1518,3.8,Great place with excellent beaches.,2,adventure,Rishikesh
+125,Goa,2022,3,2824,3.1,Budget-friendly and great food.,3,beach,Goa
 104,Goa,2022,3,2824,3.0,Too crowded during holidays.,3,beach,Goa
-100,Goa,2022,3,2824,4.0,Too crowded during holidays.,3,beach,Goa
-143,Goa,2022,3,2824,3.9,"Amazing views, perfect for families.",3,beach,Goa
+100,Goa,2022,3,2824,4.0,Good food and hotels.,3,beach,Goa
+143,Goa,2022,3,2824,3.9,Great place with excellent beaches.,3,beach,Goa
 112,Goa,2022,3,2824,3.9,Excellent hospitality.,3,beach,Goa
-162,Manali,2022,3,1991,3.5,Great place with excellent beaches.,2,mountain,Manali
-188,Manali,2022,3,1991,4.1,Good food and hotels.,2,mountain,Manali
-174,Manali,2022,3,1991,4.6,Too crowded during holidays.,2,mountain,Manali
+162,Manali,2022,3,1991,3.5,Too crowded during holidays.,2,mountain,Manali
+188,Manali,2022,3,1991,4.1,Great place with excellent beaches.,2,mountain,Manali
+174,Manali,2022,3,1991,4.6,"Amazing views, perfect for families.",2,mountain,Manali
 198,Manali,2022,3,1991,3.8,Peaceful and beautiful scenery.,2,mountain,Manali
 110,Manali,2022,3,1991,2.7,Good food and hotels.,2,mountain,Manali
-159,Jaipur,2022,3,1988,4.5,Adventure sports were thrilling.,2,culture,Jaipur
-139,Jaipur,2022,3,1988,3.7,Great place with excellent beaches.,2,culture,Jaipur
-153,Jaipur,2022,3,1988,3.6,Too crowded during holidays.,2,culture,Jaipur
-152,Jaipur,2022,3,1988,4.2,Adventure sports were thrilling.,2,culture,Jaipur
-171,Jaipur,2022,3,1988,3.2,Not well maintained in some areas.,2,culture,Jaipur
-102,Varanasi,2022,3,2916,5.0,Great place with excellent beaches.,2,spiritual,Varanasi
+159,Jaipur,2022,3,1988,4.5,Too crowded during holidays.,2,culture,Jaipur
+139,Jaipur,2022,3,1988,3.7,Peaceful and beautiful scenery.,2,culture,Jaipur
+153,Jaipur,2022,3,1988,3.6,Budget-friendly and great food.,2,culture,Jaipur
+152,Jaipur,2022,3,1988,4.2,Budget-friendly and great food.,2,culture,Jaipur
+171,Jaipur,2022,3,1988,3.2,Great place with excellent beaches.,2,culture,Jaipur
+102,Varanasi,2022,3,2916,5.0,Must visit for culture lovers.,2,spiritual,Varanasi
 174,Varanasi,2022,3,2916,3.9,Adventure sports were thrilling.,2,spiritual,Varanasi
 110,Varanasi,2022,3,2916,3.4,Great place with excellent beaches.,2,spiritual,Varanasi
-177,Varanasi,2022,3,2916,4.0,Must visit for culture lovers.,2,spiritual,Varanasi
-115,Varanasi,2022,3,2916,3.5,Excellent hospitality.,2,spiritual,Varanasi
-118,Kerala,2022,3,2374,4.7,Adventure sports were thrilling.,3,backwater,Kerala
-162,Kerala,2022,3,2374,4.3,Budget-friendly and great food.,3,backwater,Kerala
-106,Kerala,2022,3,2374,4.7,"Amazing views, perfect for families.",3,backwater,Kerala
+177,Varanasi,2022,3,2916,4.0,Excellent hospitality.,2,spiritual,Varanasi
+115,Varanasi,2022,3,2916,3.5,"Amazing views, perfect for families.",2,spiritual,Varanasi
+118,Kerala,2022,3,2374,4.7,Not well maintained in some areas.,3,backwater,Kerala
+162,Kerala,2022,3,2374,4.3,"Amazing views, perfect for families.",3,backwater,Kerala
+106,Kerala,2022,3,2374,4.7,Excellent hospitality.,3,backwater,Kerala
 144,Kerala,2022,3,2374,3.1,Peaceful and beautiful scenery.,3,backwater,Kerala
-140,Kerala,2022,3,2374,3.8,"Amazing views, perfect for families.",3,backwater,Kerala
-177,Rishikesh,2022,3,1839,3.9,Budget-friendly and great food.,2,adventure,Rishikesh
-100,Rishikesh,2022,3,1839,4.2,Not well maintained in some areas.,2,adventure,Rishikesh
-181,Rishikesh,2022,3,1839,3.9,Adventure sports were thrilling.,2,adventure,Rishikesh
+140,Kerala,2022,3,2374,3.8,Peaceful and beautiful scenery.,3,backwater,Kerala
+177,Rishikesh,2022,3,1839,3.9,Peaceful and beautiful scenery.,2,adventure,Rishikesh
+100,Rishikesh,2022,3,1839,4.2,Budget-friendly and great food.,2,adventure,Rishikesh
+181,Rishikesh,2022,3,1839,3.9,Too crowded during holidays.,2,adventure,Rishikesh
 187,Rishikesh,2022,3,1839,4.0,Adventure sports were thrilling.,2,adventure,Rishikesh
-107,Rishikesh,2022,3,1839,4.0,Peaceful and beautiful scenery.,2,adventure,Rishikesh
+107,Rishikesh,2022,3,1839,4.0,Good food and hotels.,2,adventure,Rishikesh
 114,Goa,2022,4,3134,4.0,Great place with excellent beaches.,3,beach,Goa
-181,Goa,2022,4,3134,4.5,Excellent hospitality.,3,beach,Goa
-194,Goa,2022,4,3134,4.4,Not well maintained in some areas.,3,beach,Goa
-146,Goa,2022,4,3134,4.1,Peaceful and beautiful scenery.,3,beach,Goa
-108,Goa,2022,4,3134,4.4,Budget-friendly and great food.,3,beach,Goa
-196,Manali,2022,4,2147,2.5,Peaceful and beautiful scenery.,2,mountain,Manali
-119,Manali,2022,4,2147,4.2,Must visit for culture lovers.,2,mountain,Manali
-106,Manali,2022,4,2147,2.2,"Amazing views, perfect for families.",2,mountain,Manali
-140,Manali,2022,4,2147,3.1,"Amazing views, perfect for families.",2,mountain,Manali
-145,Manali,2022,4,2147,4.2,Must visit for culture lovers.,2,mountain,Manali
+181,Goa,2022,4,3134,4.5,Great place with excellent beaches.,3,beach,Goa
+194,Goa,2022,4,3134,4.4,Good food and hotels.,3,beach,Goa
+146,Goa,2022,4,3134,4.1,Not well maintained in some areas.,3,beach,Goa
+108,Goa,2022,4,3134,4.4,"Amazing views, perfect for families.",3,beach,Goa
+196,Manali,2022,4,2147,2.5,Adventure sports were thrilling.,2,mountain,Manali
+119,Manali,2022,4,2147,4.2,Too crowded during holidays.,2,mountain,Manali
+106,Manali,2022,4,2147,2.2,Adventure sports were thrilling.,2,mountain,Manali
+140,Manali,2022,4,2147,3.1,Excellent hospitality.,2,mountain,Manali
+145,Manali,2022,4,2147,4.2,Great place with excellent beaches.,2,mountain,Manali
 104,Jaipur,2022,4,2643,4.0,Not well maintained in some areas.,2,culture,Jaipur
-193,Jaipur,2022,4,2643,4.2,Budget-friendly and great food.,2,culture,Jaipur
-154,Jaipur,2022,4,2643,4.8,Must visit for culture lovers.,2,culture,Jaipur
-165,Jaipur,2022,4,2643,4.1,Budget-friendly and great food.,2,culture,Jaipur
-133,Jaipur,2022,4,2643,3.5,"Amazing views, perfect for families.",2,culture,Jaipur
-154,Varanasi,2022,4,2767,4.5,Must visit for culture lovers.,2,spiritual,Varanasi
-159,Varanasi,2022,4,2767,4.0,Budget-friendly and great food.,2,spiritual,Varanasi
-100,Varanasi,2022,4,2767,3.9,Adventure sports were thrilling.,2,spiritual,Varanasi
-199,Varanasi,2022,4,2767,3.9,Not well maintained in some areas.,2,spiritual,Varanasi
-173,Varanasi,2022,4,2767,4.1,Excellent hospitality.,2,spiritual,Varanasi
-162,Kerala,2022,4,2785,4.2,Great place with excellent beaches.,3,backwater,Kerala
-199,Kerala,2022,4,2785,4.2,"Amazing views, perfect for families.",3,backwater,Kerala
-171,Kerala,2022,4,2785,3.2,Peaceful and beautiful scenery.,3,backwater,Kerala
-130,Kerala,2022,4,2785,4.1,Excellent hospitality.,3,backwater,Kerala
-140,Kerala,2022,4,2785,4.4,Too crowded during holidays.,3,backwater,Kerala
-157,Rishikesh,2022,4,2212,4.3,Peaceful and beautiful scenery.,2,adventure,Rishikesh
-144,Rishikesh,2022,4,2212,3.8,Good food and hotels.,2,adventure,Rishikesh
-103,Rishikesh,2022,4,2212,3.8,Must visit for culture lovers.,2,adventure,Rishikesh
-197,Rishikesh,2022,4,2212,4.4,Must visit for culture lovers.,2,adventure,Rishikesh
-156,Rishikesh,2022,4,2212,4.7,Not well maintained in some areas.,2,adventure,Rishikesh
-139,Goa,2022,5,3538,4.1,Too crowded during holidays.,3,beach,Goa
-171,Goa,2022,5,3538,4.4,Too crowded during holidays.,3,beach,Goa
-189,Goa,2022,5,3538,4.0,Budget-friendly and great food.,3,beach,Goa
-170,Goa,2022,5,3538,3.6,Must visit for culture lovers.,3,beach,Goa
-138,Goa,2022,5,3538,3.8,Peaceful and beautiful scenery.,3,beach,Goa
-181,Manali,2022,5,4690,4.4,Excellent hospitality.,2,mountain,Manali
-109,Manali,2022,5,4690,4.2,Great place with excellent beaches.,2,mountain,Manali
-148,Manali,2022,5,4690,3.4,Peaceful and beautiful scenery.,2,mountain,Manali
-112,Manali,2022,5,4690,4.7,Excellent hospitality.,2,mountain,Manali
-125,Manali,2022,5,4690,3.7,Excellent hospitality.,2,mountain,Manali
-189,Jaipur,2022,5,2003,4.3,"Amazing views, perfect for families.",2,culture,Jaipur
+193,Jaipur,2022,4,2643,4.2,Adventure sports were thrilling.,2,culture,Jaipur
+154,Jaipur,2022,4,2643,4.8,Budget-friendly and great food.,2,culture,Jaipur
+165,Jaipur,2022,4,2643,4.1,Excellent hospitality.,2,culture,Jaipur
+133,Jaipur,2022,4,2643,3.5,Not well maintained in some areas.,2,culture,Jaipur
+154,Varanasi,2022,4,2767,4.5,"Amazing views, perfect for families.",2,spiritual,Varanasi
+159,Varanasi,2022,4,2767,4.0,Excellent hospitality.,2,spiritual,Varanasi
+100,Varanasi,2022,4,2767,3.9,Budget-friendly and great food.,2,spiritual,Varanasi
+199,Varanasi,2022,4,2767,3.9,Excellent hospitality.,2,spiritual,Varanasi
+173,Varanasi,2022,4,2767,4.1,Too crowded during holidays.,2,spiritual,Varanasi
+162,Kerala,2022,4,2785,4.2,Good food and hotels.,3,backwater,Kerala
+199,Kerala,2022,4,2785,4.2,Not well maintained in some areas.,3,backwater,Kerala
+171,Kerala,2022,4,2785,3.2,Budget-friendly and great food.,3,backwater,Kerala
+130,Kerala,2022,4,2785,4.1,Not well maintained in some areas.,3,backwater,Kerala
+140,Kerala,2022,4,2785,4.4,Excellent hospitality.,3,backwater,Kerala
+157,Rishikesh,2022,4,2212,4.3,Must visit for culture lovers.,2,adventure,Rishikesh
+144,Rishikesh,2022,4,2212,3.8,Great place with excellent beaches.,2,adventure,Rishikesh
+103,Rishikesh,2022,4,2212,3.8,Peaceful and beautiful scenery.,2,adventure,Rishikesh
+197,Rishikesh,2022,4,2212,4.4,Budget-friendly and great food.,2,adventure,Rishikesh
+156,Rishikesh,2022,4,2212,4.7,"Amazing views, perfect for families.",2,adventure,Rishikesh
+139,Goa,2022,5,3538,4.1,Peaceful and beautiful scenery.,3,beach,Goa
+171,Goa,2022,5,3538,4.4,Excellent hospitality.,3,beach,Goa
+189,Goa,2022,5,3538,4.0,Too crowded during holidays.,3,beach,Goa
+170,Goa,2022,5,3538,3.6,Great place with excellent beaches.,3,beach,Goa
+138,Goa,2022,5,3538,3.8,Budget-friendly and great food.,3,beach,Goa
+181,Manali,2022,5,4690,4.4,Adventure sports were thrilling.,2,mountain,Manali
+109,Manali,2022,5,4690,4.2,Good food and hotels.,2,mountain,Manali
+148,Manali,2022,5,4690,3.4,Too crowded during holidays.,2,mountain,Manali
+112,Manali,2022,5,4690,4.7,Must visit for culture lovers.,2,mountain,Manali
+125,Manali,2022,5,4690,3.7,Adventure sports were thrilling.,2,mountain,Manali
+189,Jaipur,2022,5,2003,4.3,Adventure sports were thrilling.,2,culture,Jaipur
 123,Jaipur,2022,5,2003,4.2,Not well maintained in some areas.,2,culture,Jaipur
-117,Jaipur,2022,5,2003,4.2,Must visit for culture lovers.,2,culture,Jaipur
-166,Jaipur,2022,5,2003,4.2,Good food and hotels.,2,culture,Jaipur
-172,Jaipur,2022,5,2003,4.3,Must visit for culture lovers.,2,culture,Jaipur
-193,Varanasi,2022,5,2167,4.5,Must visit for culture lovers.,2,spiritual,Varanasi
-161,Varanasi,2022,5,2167,4.6,Great place with excellent beaches.,2,spiritual,Varanasi
-113,Varanasi,2022,5,2167,4.1,Budget-friendly and great food.,2,spiritual,Varanasi
-174,Varanasi,2022,5,2167,3.7,"Amazing views, perfect for families.",2,spiritual,Varanasi
-157,Varanasi,2022,5,2167,4.2,Great place with excellent beaches.,2,spiritual,Varanasi
-160,Kerala,2022,5,2441,3.5,Must visit for culture lovers.,3,backwater,Kerala
-184,Kerala,2022,5,2441,4.5,Excellent hospitality.,3,backwater,Kerala
+117,Jaipur,2022,5,2003,4.2,Excellent hospitality.,2,culture,Jaipur
+166,Jaipur,2022,5,2003,4.2,Must visit for culture lovers.,2,culture,Jaipur
+172,Jaipur,2022,5,2003,4.3,Not well maintained in some areas.,2,culture,Jaipur
+193,Varanasi,2022,5,2167,4.5,Good food and hotels.,2,spiritual,Varanasi
+161,Varanasi,2022,5,2167,4.6,"Amazing views, perfect for families.",2,spiritual,Varanasi
+113,Varanasi,2022,5,2167,4.1,Good food and hotels.,2,spiritual,Varanasi
+174,Varanasi,2022,5,2167,3.7,Must visit for culture lovers.,2,spiritual,Varanasi
+157,Varanasi,2022,5,2167,4.2,Excellent hospitality.,2,spiritual,Varanasi
+160,Kerala,2022,5,2441,3.5,Budget-friendly and great food.,3,backwater,Kerala
+184,Kerala,2022,5,2441,4.5,Too crowded during holidays.,3,backwater,Kerala
 136,Kerala,2022,5,2441,4.3,Excellent hospitality.,3,backwater,Kerala
 167,Kerala,2022,5,2441,4.1,Must visit for culture lovers.,3,backwater,Kerala
-194,Kerala,2022,5,2441,3.6,Budget-friendly and great food.,3,backwater,Kerala
-181,Rishikesh,2022,5,2942,3.4,Good food and hotels.,2,adventure,Rishikesh
-192,Rishikesh,2022,5,2942,3.9,"Amazing views, perfect for families.",2,adventure,Rishikesh
-189,Rishikesh,2022,5,2942,4.1,Not well maintained in some areas.,2,adventure,Rishikesh
+194,Kerala,2022,5,2441,3.6,Excellent hospitality.,3,backwater,Kerala
+181,Rishikesh,2022,5,2942,3.4,Must visit for culture lovers.,2,adventure,Rishikesh
+192,Rishikesh,2022,5,2942,3.9,Too crowded during holidays.,2,adventure,Rishikesh
+189,Rishikesh,2022,5,2942,4.1,Peaceful and beautiful scenery.,2,adventure,Rishikesh
 194,Rishikesh,2022,5,2942,5.0,"Amazing views, perfect for families.",2,adventure,Rishikesh
-139,Rishikesh,2022,5,2942,3.3,Great place with excellent beaches.,2,adventure,Rishikesh
-197,Goa,2022,6,1941,4.7,Budget-friendly and great food.,3,beach,Goa
-158,Goa,2022,6,1941,3.8,Budget-friendly and great food.,3,beach,Goa
-128,Goa,2022,6,1941,4.6,Excellent hospitality.,3,beach,Goa
-130,Goa,2022,6,1941,3.7,Adventure sports were thrilling.,3,beach,Goa
-162,Goa,2022,6,1941,4.0,Peaceful and beautiful scenery.,3,beach,Goa
+139,Rishikesh,2022,5,2942,3.3,"Amazing views, perfect for families.",2,adventure,Rishikesh
+197,Goa,2022,6,1941,4.7,Adventure sports were thrilling.,3,beach,Goa
+158,Goa,2022,6,1941,3.8,"Amazing views, perfect for families.",3,beach,Goa
+128,Goa,2022,6,1941,4.6,Budget-friendly and great food.,3,beach,Goa
+130,Goa,2022,6,1941,3.7,"Amazing views, perfect for families.",3,beach,Goa
+162,Goa,2022,6,1941,4.0,Great place with excellent beaches.,3,beach,Goa
 113,Manali,2022,6,4178,3.4,Not well maintained in some areas.,2,mountain,Manali
-183,Manali,2022,6,4178,3.9,Great place with excellent beaches.,2,mountain,Manali
-178,Manali,2022,6,4178,3.2,"Amazing views, perfect for families.",2,mountain,Manali
-139,Manali,2022,6,4178,3.5,Must visit for culture lovers.,2,mountain,Manali
-144,Manali,2022,6,4178,4.1,Must visit for culture lovers.,2,mountain,Manali
+183,Manali,2022,6,4178,3.9,Budget-friendly and great food.,2,mountain,Manali
+178,Manali,2022,6,4178,3.2,Adventure sports were thrilling.,2,mountain,Manali
+139,Manali,2022,6,4178,3.5,"Amazing views, perfect for families.",2,mountain,Manali
+144,Manali,2022,6,4178,4.1,Adventure sports were thrilling.,2,mountain,Manali
 192,Jaipur,2022,6,2895,4.2,Budget-friendly and great food.,2,culture,Jaipur
-160,Jaipur,2022,6,2895,4.0,Peaceful and beautiful scenery.,2,culture,Jaipur
-138,Jaipur,2022,6,2895,4.1,Adventure sports were thrilling.,2,culture,Jaipur
+160,Jaipur,2022,6,2895,4.0,Adventure sports were thrilling.,2,culture,Jaipur
+138,Jaipur,2022,6,2895,4.1,Good food and hotels.,2,culture,Jaipur
 186,Jaipur,2022,6,2895,3.8,Budget-friendly and great food.,2,culture,Jaipur
-128,Jaipur,2022,6,2895,3.3,Excellent hospitality.,2,culture,Jaipur
-115,Varanasi,2022,6,2336,4.4,Not well maintained in some areas.,2,spiritual,Varanasi
-155,Varanasi,2022,6,2336,4.1,Adventure sports were thrilling.,2,spiritual,Varanasi
+128,Jaipur,2022,6,2895,3.3,Budget-friendly and great food.,2,culture,Jaipur
+115,Varanasi,2022,6,2336,4.4,Too crowded during holidays.,2,spiritual,Varanasi
+155,Varanasi,2022,6,2336,4.1,Good food and hotels.,2,spiritual,Varanasi
 113,Varanasi,2022,6,2336,3.7,Good food and hotels.,2,spiritual,Varanasi
-142,Varanasi,2022,6,2336,4.6,Great place with excellent beaches.,2,spiritual,Varanasi
-117,Varanasi,2022,6,2336,4.8,Not well maintained in some areas.,2,spiritual,Varanasi
-129,Kerala,2022,6,2748,4.3,Good food and hotels.,3,backwater,Kerala
-198,Kerala,2022,6,2748,3.5,"Amazing views, perfect for families.",3,backwater,Kerala
-194,Kerala,2022,6,2748,4.4,Great place with excellent beaches.,3,backwater,Kerala
-111,Kerala,2022,6,2748,3.3,Great place with excellent beaches.,3,backwater,Kerala
-131,Kerala,2022,6,2748,3.6,Not well maintained in some areas.,3,backwater,Kerala
+142,Varanasi,2022,6,2336,4.6,Excellent hospitality.,2,spiritual,Varanasi
+117,Varanasi,2022,6,2336,4.8,Too crowded during holidays.,2,spiritual,Varanasi
+129,Kerala,2022,6,2748,4.3,"Amazing views, perfect for families.",3,backwater,Kerala
+198,Kerala,2022,6,2748,3.5,Not well maintained in some areas.,3,backwater,Kerala
+194,Kerala,2022,6,2748,4.4,Must visit for culture lovers.,3,backwater,Kerala
+111,Kerala,2022,6,2748,3.3,Peaceful and beautiful scenery.,3,backwater,Kerala
+131,Kerala,2022,6,2748,3.6,Budget-friendly and great food.,3,backwater,Kerala
 138,Rishikesh,2022,6,3591,3.9,Must visit for culture lovers.,2,adventure,Rishikesh
-131,Rishikesh,2022,6,3591,4.1,Peaceful and beautiful scenery.,2,adventure,Rishikesh
-104,Rishikesh,2022,6,3591,4.0,Not well maintained in some areas.,2,adventure,Rishikesh
-174,Rishikesh,2022,6,3591,4.6,Budget-friendly and great food.,2,adventure,Rishikesh
-123,Rishikesh,2022,6,3591,3.8,Adventure sports were thrilling.,2,adventure,Rishikesh
-105,Goa,2022,7,1605,3.9,"Amazing views, perfect for families.",3,beach,Goa
-149,Goa,2022,7,1605,3.9,"Amazing views, perfect for families.",3,beach,Goa
-106,Goa,2022,7,1605,4.9,Must visit for culture lovers.,3,beach,Goa
+131,Rishikesh,2022,6,3591,4.1,Budget-friendly and great food.,2,adventure,Rishikesh
+104,Rishikesh,2022,6,3591,4.0,Too crowded during holidays.,2,adventure,Rishikesh
+174,Rishikesh,2022,6,3591,4.6,"Amazing views, perfect for families.",2,adventure,Rishikesh
+123,Rishikesh,2022,6,3591,3.8,Peaceful and beautiful scenery.,2,adventure,Rishikesh
+105,Goa,2022,7,1605,3.9,Must visit for culture lovers.,3,beach,Goa
+149,Goa,2022,7,1605,3.9,Good food and hotels.,3,beach,Goa
+106,Goa,2022,7,1605,4.9,Not well maintained in some areas.,3,beach,Goa
 122,Goa,2022,7,1605,4.0,Excellent hospitality.,3,beach,Goa
-126,Goa,2022,7,1605,3.9,Not well maintained in some areas.,3,beach,Goa
-126,Manali,2022,7,3870,3.9,"Amazing views, perfect for families.",2,mountain,Manali
-153,Manali,2022,7,3870,4.6,Must visit for culture lovers.,2,mountain,Manali
+126,Goa,2022,7,1605,3.9,"Amazing views, perfect for families.",3,beach,Goa
+126,Manali,2022,7,3870,3.9,Peaceful and beautiful scenery.,2,mountain,Manali
+153,Manali,2022,7,3870,4.6,"Amazing views, perfect for families.",2,mountain,Manali
 174,Manali,2022,7,3870,4.0,Good food and hotels.,2,mountain,Manali
-154,Manali,2022,7,3870,4.0,Budget-friendly and great food.,2,mountain,Manali
-180,Manali,2022,7,3870,4.0,Adventure sports were thrilling.,2,mountain,Manali
-136,Jaipur,2022,7,2501,4.3,"Amazing views, perfect for families.",2,culture,Jaipur
-141,Jaipur,2022,7,2501,4.2,Good food and hotels.,2,culture,Jaipur
-168,Jaipur,2022,7,2501,3.8,Adventure sports were thrilling.,2,culture,Jaipur
-130,Jaipur,2022,7,2501,4.5,Must visit for culture lovers.,2,culture,Jaipur
-145,Jaipur,2022,7,2501,4.5,Not well maintained in some areas.,2,culture,Jaipur
-167,Varanasi,2022,7,2855,4.1,Excellent hospitality.,2,spiritual,Varanasi
-184,Varanasi,2022,7,2855,4.0,Not well maintained in some areas.,2,spiritual,Varanasi
+154,Manali,2022,7,3870,4.0,Not well maintained in some areas.,2,mountain,Manali
+180,Manali,2022,7,3870,4.0,Budget-friendly and great food.,2,mountain,Manali
+136,Jaipur,2022,7,2501,4.3,Good food and hotels.,2,culture,Jaipur
+141,Jaipur,2022,7,2501,4.2,Great place with excellent beaches.,2,culture,Jaipur
+168,Jaipur,2022,7,2501,3.8,Budget-friendly and great food.,2,culture,Jaipur
+130,Jaipur,2022,7,2501,4.5,Good food and hotels.,2,culture,Jaipur
+145,Jaipur,2022,7,2501,4.5,Great place with excellent beaches.,2,culture,Jaipur
+167,Varanasi,2022,7,2855,4.1,Adventure sports were thrilling.,2,spiritual,Varanasi
+184,Varanasi,2022,7,2855,4.0,Too crowded during holidays.,2,spiritual,Varanasi
 172,Varanasi,2022,7,2855,4.7,"Amazing views, perfect for families.",2,spiritual,Varanasi
-197,Varanasi,2022,7,2855,2.8,Not well maintained in some areas.,2,spiritual,Varanasi
-113,Varanasi,2022,7,2855,3.3,Must visit for culture lovers.,2,spiritual,Varanasi
-125,Kerala,2022,7,2243,5.0,Not well maintained in some areas.,3,backwater,Kerala
+197,Varanasi,2022,7,2855,2.8,Good food and hotels.,2,spiritual,Varanasi
+113,Varanasi,2022,7,2855,3.3,Peaceful and beautiful scenery.,2,spiritual,Varanasi
+125,Kerala,2022,7,2243,5.0,Great place with excellent beaches.,3,backwater,Kerala
 192,Kerala,2022,7,2243,4.9,Must visit for culture lovers.,3,backwater,Kerala
-163,Kerala,2022,7,2243,3.8,Not well maintained in some areas.,3,backwater,Kerala
-145,Kerala,2022,7,2243,3.8,Must visit for culture lovers.,3,backwater,Kerala
-128,Kerala,2022,7,2243,3.4,"Amazing views, perfect for families.",3,backwater,Kerala
-125,Rishikesh,2022,7,1527,3.6,Not well maintained in some areas.,2,adventure,Rishikesh
-141,Rishikesh,2022,7,1527,4.1,Great place with excellent beaches.,2,adventure,Rishikesh
-152,Rishikesh,2022,7,1527,4.2,"Amazing views, perfect for families.",2,adventure,Rishikesh
-128,Rishikesh,2022,7,1527,4.2,Must visit for culture lovers.,2,adventure,Rishikesh
-160,Rishikesh,2022,7,1527,3.3,Excellent hospitality.,2,adventure,Rishikesh
-182,Goa,2022,8,1756,4.2,Not well maintained in some areas.,3,beach,Goa
-165,Goa,2022,8,1756,4.3,Budget-friendly and great food.,3,beach,Goa
-106,Goa,2022,8,1756,3.9,Not well maintained in some areas.,3,beach,Goa
-136,Goa,2022,8,1756,4.8,Adventure sports were thrilling.,3,beach,Goa
-161,Goa,2022,8,1756,4.5,Budget-friendly and great food.,3,beach,Goa
-133,Manali,2022,8,4423,3.5,Great place with excellent beaches.,2,mountain,Manali
-185,Manali,2022,8,4423,4.7,"Amazing views, perfect for families.",2,mountain,Manali
-146,Manali,2022,8,4423,3.5,Excellent hospitality.,2,mountain,Manali
-121,Manali,2022,8,4423,3.3,Good food and hotels.,2,mountain,Manali
-105,Manali,2022,8,4423,3.8,Budget-friendly and great food.,2,mountain,Manali
-163,Jaipur,2022,8,2626,5.0,Too crowded during holidays.,2,culture,Jaipur
-107,Jaipur,2022,8,2626,4.1,Good food and hotels.,2,culture,Jaipur
-185,Jaipur,2022,8,2626,4.4,Good food and hotels.,2,culture,Jaipur
-118,Jaipur,2022,8,2626,3.8,Not well maintained in some areas.,2,culture,Jaipur
-113,Jaipur,2022,8,2626,3.9,Peaceful and beautiful scenery.,2,culture,Jaipur
-174,Varanasi,2022,8,2585,3.4,Excellent hospitality.,2,spiritual,Varanasi
-109,Varanasi,2022,8,2585,4.7,Must visit for culture lovers.,2,spiritual,Varanasi
-167,Varanasi,2022,8,2585,4.0,"Amazing views, perfect for families.",2,spiritual,Varanasi
-110,Varanasi,2022,8,2585,4.6,Must visit for culture lovers.,2,spiritual,Varanasi
-105,Varanasi,2022,8,2585,4.2,Good food and hotels.,2,spiritual,Varanasi
-139,Kerala,2022,8,2834,4.3,Adventure sports were thrilling.,3,backwater,Kerala
-142,Kerala,2022,8,2834,3.7,Not well maintained in some areas.,3,backwater,Kerala
-120,Kerala,2022,8,2834,3.4,Peaceful and beautiful scenery.,3,backwater,Kerala
-106,Kerala,2022,8,2834,3.4,Too crowded during holidays.,3,backwater,Kerala
+163,Kerala,2022,7,2243,3.8,Peaceful and beautiful scenery.,3,backwater,Kerala
+145,Kerala,2022,7,2243,3.8,Budget-friendly and great food.,3,backwater,Kerala
+128,Kerala,2022,7,2243,3.4,Peaceful and beautiful scenery.,3,backwater,Kerala
+125,Rishikesh,2022,7,1527,3.6,Too crowded during holidays.,2,adventure,Rishikesh
+141,Rishikesh,2022,7,1527,4.1,Excellent hospitality.,2,adventure,Rishikesh
+152,Rishikesh,2022,7,1527,4.2,Not well maintained in some areas.,2,adventure,Rishikesh
+128,Rishikesh,2022,7,1527,4.2,Good food and hotels.,2,adventure,Rishikesh
+160,Rishikesh,2022,7,1527,3.3,Adventure sports were thrilling.,2,adventure,Rishikesh
+182,Goa,2022,8,1756,4.2,Adventure sports were thrilling.,3,beach,Goa
+165,Goa,2022,8,1756,4.3,"Amazing views, perfect for families.",3,beach,Goa
+106,Goa,2022,8,1756,3.9,Excellent hospitality.,3,beach,Goa
+136,Goa,2022,8,1756,4.8,Not well maintained in some areas.,3,beach,Goa
+161,Goa,2022,8,1756,4.5,Peaceful and beautiful scenery.,3,beach,Goa
+133,Manali,2022,8,4423,3.5,Not well maintained in some areas.,2,mountain,Manali
+185,Manali,2022,8,4423,4.7,Excellent hospitality.,2,mountain,Manali
+146,Manali,2022,8,4423,3.5,Great place with excellent beaches.,2,mountain,Manali
+121,Manali,2022,8,4423,3.3,Excellent hospitality.,2,mountain,Manali
+105,Manali,2022,8,4423,3.8,Excellent hospitality.,2,mountain,Manali
+163,Jaipur,2022,8,2626,5.0,"Amazing views, perfect for families.",2,culture,Jaipur
+107,Jaipur,2022,8,2626,4.1,Too crowded during holidays.,2,culture,Jaipur
+185,Jaipur,2022,8,2626,4.4,Great place with excellent beaches.,2,culture,Jaipur
+118,Jaipur,2022,8,2626,3.8,Budget-friendly and great food.,2,culture,Jaipur
+113,Jaipur,2022,8,2626,3.9,Budget-friendly and great food.,2,culture,Jaipur
+174,Varanasi,2022,8,2585,3.4,"Amazing views, perfect for families.",2,spiritual,Varanasi
+109,Varanasi,2022,8,2585,4.7,Budget-friendly and great food.,2,spiritual,Varanasi
+167,Varanasi,2022,8,2585,4.0,Peaceful and beautiful scenery.,2,spiritual,Varanasi
+110,Varanasi,2022,8,2585,4.6,"Amazing views, perfect for families.",2,spiritual,Varanasi
+105,Varanasi,2022,8,2585,4.2,"Amazing views, perfect for families.",2,spiritual,Varanasi
+139,Kerala,2022,8,2834,4.3,Must visit for culture lovers.,3,backwater,Kerala
+142,Kerala,2022,8,2834,3.7,Great place with excellent beaches.,3,backwater,Kerala
+120,Kerala,2022,8,2834,3.4,Budget-friendly and great food.,3,backwater,Kerala
+106,Kerala,2022,8,2834,3.4,Budget-friendly and great food.,3,backwater,Kerala
 104,Kerala,2022,8,2834,4.0,Too crowded during holidays.,3,backwater,Kerala
 112,Rishikesh,2022,8,2198,4.8,Not well maintained in some areas.,2,adventure,Rishikesh
-157,Rishikesh,2022,8,2198,4.6,Too crowded during holidays.,2,adventure,Rishikesh
-155,Rishikesh,2022,8,2198,3.5,Must visit for culture lovers.,2,adventure,Rishikesh
-177,Rishikesh,2022,8,2198,4.8,Excellent hospitality.,2,adventure,Rishikesh
-146,Rishikesh,2022,8,2198,3.7,"Amazing views, perfect for families.",2,adventure,Rishikesh
+157,Rishikesh,2022,8,2198,4.6,Adventure sports were thrilling.,2,adventure,Rishikesh
+155,Rishikesh,2022,8,2198,3.5,Good food and hotels.,2,adventure,Rishikesh
+177,Rishikesh,2022,8,2198,4.8,Great place with excellent beaches.,2,adventure,Rishikesh
+146,Rishikesh,2022,8,2198,3.7,Excellent hospitality.,2,adventure,Rishikesh
 176,Goa,2022,9,3313,4.5,Great place with excellent beaches.,3,beach,Goa
 191,Goa,2022,9,3313,4.8,Not well maintained in some areas.,3,beach,Goa
-161,Goa,2022,9,3313,3.6,Must visit for culture lovers.,3,beach,Goa
-137,Goa,2022,9,3313,4.2,Must visit for culture lovers.,3,beach,Goa
-180,Goa,2022,9,3313,3.6,Budget-friendly and great food.,3,beach,Goa
-194,Manali,2022,9,1811,4.5,Peaceful and beautiful scenery.,2,mountain,Manali
-137,Manali,2022,9,1811,4.0,Not well maintained in some areas.,2,mountain,Manali
-106,Manali,2022,9,1811,4.4,Peaceful and beautiful scenery.,2,mountain,Manali
-131,Manali,2022,9,1811,3.8,Excellent hospitality.,2,mountain,Manali
-133,Manali,2022,9,1811,4.0,Peaceful and beautiful scenery.,2,mountain,Manali
-191,Jaipur,2022,9,2465,4.7,Adventure sports were thrilling.,2,culture,Jaipur
-180,Jaipur,2022,9,2465,3.8,Not well maintained in some areas.,2,culture,Jaipur
+161,Goa,2022,9,3313,3.6,Too crowded during holidays.,3,beach,Goa
+137,Goa,2022,9,3313,4.2,Budget-friendly and great food.,3,beach,Goa
+180,Goa,2022,9,3313,3.6,Good food and hotels.,3,beach,Goa
+194,Manali,2022,9,1811,4.5,Good food and hotels.,2,mountain,Manali
+137,Manali,2022,9,1811,4.0,Budget-friendly and great food.,2,mountain,Manali
+106,Manali,2022,9,1811,4.4,"Amazing views, perfect for families.",2,mountain,Manali
+131,Manali,2022,9,1811,3.8,Great place with excellent beaches.,2,mountain,Manali
+133,Manali,2022,9,1811,4.0,Must visit for culture lovers.,2,mountain,Manali
+191,Jaipur,2022,9,2465,4.7,"Amazing views, perfect for families.",2,culture,Jaipur
+180,Jaipur,2022,9,2465,3.8,Great place with excellent beaches.,2,culture,Jaipur
 118,Jaipur,2022,9,2465,4.2,Adventure sports were thrilling.,2,culture,Jaipur
-150,Jaipur,2022,9,2465,3.7,Good food and hotels.,2,culture,Jaipur
-195,Jaipur,2022,9,2465,4.0,Adventure sports were thrilling.,2,culture,Jaipur
-198,Varanasi,2022,9,2620,2.9,"Amazing views, perfect for families.",2,spiritual,Varanasi
-166,Varanasi,2022,9,2620,3.0,Not well maintained in some areas.,2,spiritual,Varanasi
-190,Varanasi,2022,9,2620,4.4,Not well maintained in some areas.,2,spiritual,Varanasi
-156,Varanasi,2022,9,2620,4.0,Not well maintained in some areas.,2,spiritual,Varanasi
-105,Varanasi,2022,9,2620,4.1,Good food and hotels.,2,spiritual,Varanasi
-199,Kerala,2022,9,2202,3.8,Must visit for culture lovers.,3,backwater,Kerala
-185,Kerala,2022,9,2202,2.9,Not well maintained in some areas.,3,backwater,Kerala
-136,Kerala,2022,9,2202,4.1,Good food and hotels.,3,backwater,Kerala
-184,Kerala,2022,9,2202,4.4,Peaceful and beautiful scenery.,3,backwater,Kerala
-196,Kerala,2022,9,2202,3.2,Good food and hotels.,3,backwater,Kerala
-118,Rishikesh,2022,9,3001,2.7,Peaceful and beautiful scenery.,2,adventure,Rishikesh
+150,Jaipur,2022,9,2465,3.7,Great place with excellent beaches.,2,culture,Jaipur
+195,Jaipur,2022,9,2465,4.0,Not well maintained in some areas.,2,culture,Jaipur
+198,Varanasi,2022,9,2620,2.9,Budget-friendly and great food.,2,spiritual,Varanasi
+166,Varanasi,2022,9,2620,3.0,Budget-friendly and great food.,2,spiritual,Varanasi
+190,Varanasi,2022,9,2620,4.4,Peaceful and beautiful scenery.,2,spiritual,Varanasi
+156,Varanasi,2022,9,2620,4.0,"Amazing views, perfect for families.",2,spiritual,Varanasi
+105,Varanasi,2022,9,2620,4.1,Not well maintained in some areas.,2,spiritual,Varanasi
+199,Kerala,2022,9,2202,3.8,Excellent hospitality.,3,backwater,Kerala
+185,Kerala,2022,9,2202,2.9,Peaceful and beautiful scenery.,3,backwater,Kerala
+136,Kerala,2022,9,2202,4.1,Too crowded during holidays.,3,backwater,Kerala
+184,Kerala,2022,9,2202,4.4,Great place with excellent beaches.,3,backwater,Kerala
+196,Kerala,2022,9,2202,3.2,Not well maintained in some areas.,3,backwater,Kerala
+118,Rishikesh,2022,9,3001,2.7,Budget-friendly and great food.,2,adventure,Rishikesh
 115,Rishikesh,2022,9,3001,4.3,Peaceful and beautiful scenery.,2,adventure,Rishikesh
-182,Rishikesh,2022,9,3001,4.4,Must visit for culture lovers.,2,adventure,Rishikesh
-192,Rishikesh,2022,9,3001,3.9,Not well maintained in some areas.,2,adventure,Rishikesh
-159,Rishikesh,2022,9,3001,2.8,Not well maintained in some areas.,2,adventure,Rishikesh
-112,Goa,2022,10,2701,3.7,Must visit for culture lovers.,3,beach,Goa
-141,Goa,2022,10,2701,4.2,Peaceful and beautiful scenery.,3,beach,Goa
-136,Goa,2022,10,2701,4.3,Not well maintained in some areas.,3,beach,Goa
-187,Goa,2022,10,2701,4.9,Must visit for culture lovers.,3,beach,Goa
-191,Goa,2022,10,2701,3.9,Not well maintained in some areas.,3,beach,Goa
-142,Manali,2022,10,2112,4.0,"Amazing views, perfect for families.",2,mountain,Manali
-169,Manali,2022,10,2112,3.2,Must visit for culture lovers.,2,mountain,Manali
-149,Manali,2022,10,2112,4.1,"Amazing views, perfect for families.",2,mountain,Manali
-176,Manali,2022,10,2112,4.5,Adventure sports were thrilling.,2,mountain,Manali
-145,Manali,2022,10,2112,4.1,Adventure sports were thrilling.,2,mountain,Manali
-156,Jaipur,2022,10,2023,4.1,Must visit for culture lovers.,2,culture,Jaipur
-149,Jaipur,2022,10,2023,4.2,"Amazing views, perfect for families.",2,culture,Jaipur
-118,Jaipur,2022,10,2023,4.9,Not well maintained in some areas.,2,culture,Jaipur
-142,Jaipur,2022,10,2023,4.2,Excellent hospitality.,2,culture,Jaipur
-113,Jaipur,2022,10,2023,4.3,Not well maintained in some areas.,2,culture,Jaipur
-162,Varanasi,2022,10,3613,3.7,Great place with excellent beaches.,2,spiritual,Varanasi
-142,Varanasi,2022,10,3613,3.5,Adventure sports were thrilling.,2,spiritual,Varanasi
-135,Varanasi,2022,10,3613,5.0,Adventure sports were thrilling.,2,spiritual,Varanasi
-185,Varanasi,2022,10,3613,4.2,Peaceful and beautiful scenery.,2,spiritual,Varanasi
-190,Varanasi,2022,10,3613,3.6,Good food and hotels.,2,spiritual,Varanasi
-150,Kerala,2022,10,2874,4.4,Too crowded during holidays.,3,backwater,Kerala
-187,Kerala,2022,10,2874,5.0,Great place with excellent beaches.,3,backwater,Kerala
-138,Kerala,2022,10,2874,4.2,Excellent hospitality.,3,backwater,Kerala
-104,Kerala,2022,10,2874,3.8,Peaceful and beautiful scenery.,3,backwater,Kerala
-131,Kerala,2022,10,2874,3.7,Budget-friendly and great food.,3,backwater,Kerala
-138,Rishikesh,2022,10,1976,4.4,Excellent hospitality.,2,adventure,Rishikesh
-168,Rishikesh,2022,10,1976,3.8,Great place with excellent beaches.,2,adventure,Rishikesh
-178,Rishikesh,2022,10,1976,4.2,Excellent hospitality.,2,adventure,Rishikesh
-111,Rishikesh,2022,10,1976,3.4,Adventure sports were thrilling.,2,adventure,Rishikesh
-144,Rishikesh,2022,10,1976,4.7,Too crowded during holidays.,2,adventure,Rishikesh
-168,Goa,2022,11,5373,4.0,Must visit for culture lovers.,3,beach,Goa
-112,Goa,2022,11,5373,4.2,Excellent hospitality.,3,beach,Goa
-182,Goa,2022,11,5373,4.3,Adventure sports were thrilling.,3,beach,Goa
-152,Goa,2022,11,5373,4.1,Too crowded during holidays.,3,beach,Goa
-199,Goa,2022,11,5373,4.1,"Amazing views, perfect for families.",3,beach,Goa
-175,Manali,2022,11,2442,3.1,Not well maintained in some areas.,2,mountain,Manali
-190,Manali,2022,11,2442,4.0,Adventure sports were thrilling.,2,mountain,Manali
-148,Manali,2022,11,2442,4.6,Excellent hospitality.,2,mountain,Manali
-142,Manali,2022,11,2442,3.5,Budget-friendly and great food.,2,mountain,Manali
-169,Manali,2022,11,2442,4.2,Budget-friendly and great food.,2,mountain,Manali
-181,Jaipur,2022,11,3725,4.9,Must visit for culture lovers.,2,culture,Jaipur
-160,Jaipur,2022,11,3725,4.3,Adventure sports were thrilling.,2,culture,Jaipur
-108,Jaipur,2022,11,3725,3.9,Excellent hospitality.,2,culture,Jaipur
-190,Jaipur,2022,11,3725,4.3,Good food and hotels.,2,culture,Jaipur
+182,Rishikesh,2022,9,3001,4.4,Adventure sports were thrilling.,2,adventure,Rishikesh
+192,Rishikesh,2022,9,3001,3.9,Peaceful and beautiful scenery.,2,adventure,Rishikesh
+159,Rishikesh,2022,9,3001,2.8,Must visit for culture lovers.,2,adventure,Rishikesh
+112,Goa,2022,10,2701,3.7,Great place with excellent beaches.,3,beach,Goa
+141,Goa,2022,10,2701,4.2,"Amazing views, perfect for families.",3,beach,Goa
+136,Goa,2022,10,2701,4.3,Great place with excellent beaches.,3,beach,Goa
+187,Goa,2022,10,2701,4.9,Not well maintained in some areas.,3,beach,Goa
+191,Goa,2022,10,2701,3.9,"Amazing views, perfect for families.",3,beach,Goa
+142,Manali,2022,10,2112,4.0,Budget-friendly and great food.,2,mountain,Manali
+169,Manali,2022,10,2112,3.2,Budget-friendly and great food.,2,mountain,Manali
+149,Manali,2022,10,2112,4.1,Not well maintained in some areas.,2,mountain,Manali
+176,Manali,2022,10,2112,4.5,Peaceful and beautiful scenery.,2,mountain,Manali
+145,Manali,2022,10,2112,4.1,Must visit for culture lovers.,2,mountain,Manali
+156,Jaipur,2022,10,2023,4.1,Good food and hotels.,2,culture,Jaipur
+149,Jaipur,2022,10,2023,4.2,Too crowded during holidays.,2,culture,Jaipur
+118,Jaipur,2022,10,2023,4.9,Too crowded during holidays.,2,culture,Jaipur
+142,Jaipur,2022,10,2023,4.2,Not well maintained in some areas.,2,culture,Jaipur
+113,Jaipur,2022,10,2023,4.3,Adventure sports were thrilling.,2,culture,Jaipur
+162,Varanasi,2022,10,3613,3.7,Budget-friendly and great food.,2,spiritual,Varanasi
+142,Varanasi,2022,10,3613,3.5,Budget-friendly and great food.,2,spiritual,Varanasi
+135,Varanasi,2022,10,3613,5.0,Good food and hotels.,2,spiritual,Varanasi
+185,Varanasi,2022,10,3613,4.2,Excellent hospitality.,2,spiritual,Varanasi
+190,Varanasi,2022,10,3613,3.6,Great place with excellent beaches.,2,spiritual,Varanasi
+150,Kerala,2022,10,2874,4.4,Excellent hospitality.,3,backwater,Kerala
+187,Kerala,2022,10,2874,5.0,Too crowded during holidays.,3,backwater,Kerala
+138,Kerala,2022,10,2874,4.2,Not well maintained in some areas.,3,backwater,Kerala
+104,Kerala,2022,10,2874,3.8,Good food and hotels.,3,backwater,Kerala
+131,Kerala,2022,10,2874,3.7,Adventure sports were thrilling.,3,backwater,Kerala
+138,Rishikesh,2022,10,1976,4.4,Peaceful and beautiful scenery.,2,adventure,Rishikesh
+168,Rishikesh,2022,10,1976,3.8,Adventure sports were thrilling.,2,adventure,Rishikesh
+178,Rishikesh,2022,10,1976,4.2,Good food and hotels.,2,adventure,Rishikesh
+111,Rishikesh,2022,10,1976,3.4,Not well maintained in some areas.,2,adventure,Rishikesh
+144,Rishikesh,2022,10,1976,4.7,Peaceful and beautiful scenery.,2,adventure,Rishikesh
+168,Goa,2022,11,5373,4.0,"Amazing views, perfect for families.",3,beach,Goa
+112,Goa,2022,11,5373,4.2,Adventure sports were thrilling.,3,beach,Goa
+182,Goa,2022,11,5373,4.3,Good food and hotels.,3,beach,Goa
+152,Goa,2022,11,5373,4.1,Peaceful and beautiful scenery.,3,beach,Goa
+199,Goa,2022,11,5373,4.1,Budget-friendly and great food.,3,beach,Goa
+175,Manali,2022,11,2442,3.1,Too crowded during holidays.,2,mountain,Manali
+190,Manali,2022,11,2442,4.0,Too crowded during holidays.,2,mountain,Manali
+148,Manali,2022,11,2442,4.6,Must visit for culture lovers.,2,mountain,Manali
+142,Manali,2022,11,2442,3.5,"Amazing views, perfect for families.",2,mountain,Manali
+169,Manali,2022,11,2442,4.2,Excellent hospitality.,2,mountain,Manali
+181,Jaipur,2022,11,3725,4.9,Not well maintained in some areas.,2,culture,Jaipur
+160,Jaipur,2022,11,3725,4.3,Excellent hospitality.,2,culture,Jaipur
+108,Jaipur,2022,11,3725,3.9,Good food and hotels.,2,culture,Jaipur
+190,Jaipur,2022,11,3725,4.3,Not well maintained in some areas.,2,culture,Jaipur
 118,Jaipur,2022,11,3725,3.3,Great place with excellent beaches.,2,culture,Jaipur
-154,Varanasi,2022,11,3154,4.3,Budget-friendly and great food.,2,spiritual,Varanasi
-104,Varanasi,2022,11,3154,4.1,Must visit for culture lovers.,2,spiritual,Varanasi
-135,Varanasi,2022,11,3154,4.3,Great place with excellent beaches.,2,spiritual,Varanasi
-119,Varanasi,2022,11,3154,4.0,Excellent hospitality.,2,spiritual,Varanasi
-115,Varanasi,2022,11,3154,4.3,Great place with excellent beaches.,2,spiritual,Varanasi
-163,Kerala,2022,11,4074,5.0,Budget-friendly and great food.,3,backwater,Kerala
-185,Kerala,2022,11,4074,4.5,Excellent hospitality.,3,backwater,Kerala
-159,Kerala,2022,11,4074,4.5,Too crowded during holidays.,3,backwater,Kerala
-182,Kerala,2022,11,4074,4.0,Not well maintained in some areas.,3,backwater,Kerala
-162,Kerala,2022,11,4074,3.9,Adventure sports were thrilling.,3,backwater,Kerala
-161,Rishikesh,2022,11,2037,4.4,Good food and hotels.,2,adventure,Rishikesh
-141,Rishikesh,2022,11,2037,4.5,Must visit for culture lovers.,2,adventure,Rishikesh
-132,Rishikesh,2022,11,2037,4.3,Peaceful and beautiful scenery.,2,adventure,Rishikesh
-117,Rishikesh,2022,11,2037,4.4,Adventure sports were thrilling.,2,adventure,Rishikesh
-108,Rishikesh,2022,11,2037,3.9,Budget-friendly and great food.,2,adventure,Rishikesh
-149,Goa,2022,12,4721,2.5,Too crowded during holidays.,3,beach,Goa
-153,Goa,2022,12,4721,3.4,Budget-friendly and great food.,3,beach,Goa
-110,Goa,2022,12,4721,4.6,"Amazing views, perfect for families.",3,beach,Goa
-178,Goa,2022,12,4721,3.7,Must visit for culture lovers.,3,beach,Goa
-157,Goa,2022,12,4721,4.2,Peaceful and beautiful scenery.,3,beach,Goa
-163,Manali,2022,12,2582,4.8,Budget-friendly and great food.,2,mountain,Manali
-122,Manali,2022,12,2582,3.8,Peaceful and beautiful scenery.,2,mountain,Manali
-123,Manali,2022,12,2582,3.7,Too crowded during holidays.,2,mountain,Manali
-141,Manali,2022,12,2582,3.8,Peaceful and beautiful scenery.,2,mountain,Manali
+154,Varanasi,2022,11,3154,4.3,Adventure sports were thrilling.,2,spiritual,Varanasi
+104,Varanasi,2022,11,3154,4.1,Too crowded during holidays.,2,spiritual,Varanasi
+135,Varanasi,2022,11,3154,4.3,"Amazing views, perfect for families.",2,spiritual,Varanasi
+119,Varanasi,2022,11,3154,4.0,Great place with excellent beaches.,2,spiritual,Varanasi
+115,Varanasi,2022,11,3154,4.3,"Amazing views, perfect for families.",2,spiritual,Varanasi
+163,Kerala,2022,11,4074,5.0,Great place with excellent beaches.,3,backwater,Kerala
+185,Kerala,2022,11,4074,4.5,Adventure sports were thrilling.,3,backwater,Kerala
+159,Kerala,2022,11,4074,4.5,Excellent hospitality.,3,backwater,Kerala
+182,Kerala,2022,11,4074,4.0,Great place with excellent beaches.,3,backwater,Kerala
+162,Kerala,2022,11,4074,3.9,Great place with excellent beaches.,3,backwater,Kerala
+161,Rishikesh,2022,11,2037,4.4,Budget-friendly and great food.,2,adventure,Rishikesh
+141,Rishikesh,2022,11,2037,4.5,Too crowded during holidays.,2,adventure,Rishikesh
+132,Rishikesh,2022,11,2037,4.3,Good food and hotels.,2,adventure,Rishikesh
+117,Rishikesh,2022,11,2037,4.4,Not well maintained in some areas.,2,adventure,Rishikesh
+108,Rishikesh,2022,11,2037,3.9,Peaceful and beautiful scenery.,2,adventure,Rishikesh
+149,Goa,2022,12,4721,2.5,Budget-friendly and great food.,3,beach,Goa
+153,Goa,2022,12,4721,3.4,Great place with excellent beaches.,3,beach,Goa
+110,Goa,2022,12,4721,4.6,Great place with excellent beaches.,3,beach,Goa
+178,Goa,2022,12,4721,3.7,Peaceful and beautiful scenery.,3,beach,Goa
+157,Goa,2022,12,4721,4.2,Not well maintained in some areas.,3,beach,Goa
+163,Manali,2022,12,2582,4.8,Must visit for culture lovers.,2,mountain,Manali
+122,Manali,2022,12,2582,3.8,Not well maintained in some areas.,2,mountain,Manali
+123,Manali,2022,12,2582,3.7,Excellent hospitality.,2,mountain,Manali
+141,Manali,2022,12,2582,3.8,Adventure sports were thrilling.,2,mountain,Manali
 171,Manali,2022,12,2582,4.3,Excellent hospitality.,2,mountain,Manali
-145,Jaipur,2022,12,3968,4.9,Peaceful and beautiful scenery.,2,culture,Jaipur
-175,Jaipur,2022,12,3968,4.2,"Amazing views, perfect for families.",2,culture,Jaipur
-188,Jaipur,2022,12,3968,4.5,Not well maintained in some areas.,2,culture,Jaipur
-171,Jaipur,2022,12,3968,3.6,Good food and hotels.,2,culture,Jaipur
-142,Jaipur,2022,12,3968,3.6,Excellent hospitality.,2,culture,Jaipur
-136,Varanasi,2022,12,2937,3.3,Peaceful and beautiful scenery.,2,spiritual,Varanasi
-150,Varanasi,2022,12,2937,3.1,Must visit for culture lovers.,2,spiritual,Varanasi
-161,Varanasi,2022,12,2937,4.1,Adventure sports were thrilling.,2,spiritual,Varanasi
-179,Varanasi,2022,12,2937,4.6,Not well maintained in some areas.,2,spiritual,Varanasi
-160,Varanasi,2022,12,2937,4.0,Must visit for culture lovers.,2,spiritual,Varanasi
-126,Kerala,2022,12,3521,4.9,Too crowded during holidays.,3,backwater,Kerala
-186,Kerala,2022,12,3521,4.2,Adventure sports were thrilling.,3,backwater,Kerala
-171,Kerala,2022,12,3521,4.3,Great place with excellent beaches.,3,backwater,Kerala
-156,Kerala,2022,12,3521,4.1,"Amazing views, perfect for families.",3,backwater,Kerala
-121,Kerala,2022,12,3521,4.2,Good food and hotels.,3,backwater,Kerala
-135,Rishikesh,2022,12,2333,4.1,Excellent hospitality.,2,adventure,Rishikesh
+145,Jaipur,2022,12,3968,4.9,Must visit for culture lovers.,2,culture,Jaipur
+175,Jaipur,2022,12,3968,4.2,Good food and hotels.,2,culture,Jaipur
+188,Jaipur,2022,12,3968,4.5,Great place with excellent beaches.,2,culture,Jaipur
+171,Jaipur,2022,12,3968,3.6,Not well maintained in some areas.,2,culture,Jaipur
+142,Jaipur,2022,12,3968,3.6,Too crowded during holidays.,2,culture,Jaipur
+136,Varanasi,2022,12,2937,3.3,Adventure sports were thrilling.,2,spiritual,Varanasi
+150,Varanasi,2022,12,2937,3.1,Great place with excellent beaches.,2,spiritual,Varanasi
+161,Varanasi,2022,12,2937,4.1,Great place with excellent beaches.,2,spiritual,Varanasi
+179,Varanasi,2022,12,2937,4.6,Adventure sports were thrilling.,2,spiritual,Varanasi
+160,Varanasi,2022,12,2937,4.0,Good food and hotels.,2,spiritual,Varanasi
+126,Kerala,2022,12,3521,4.9,Adventure sports were thrilling.,3,backwater,Kerala
+186,Kerala,2022,12,3521,4.2,Peaceful and beautiful scenery.,3,backwater,Kerala
+171,Kerala,2022,12,3521,4.3,Must visit for culture lovers.,3,backwater,Kerala
+156,Kerala,2022,12,3521,4.1,Too crowded during holidays.,3,backwater,Kerala
+121,Kerala,2022,12,3521,4.2,Excellent hospitality.,3,backwater,Kerala
+135,Rishikesh,2022,12,2333,4.1,Peaceful and beautiful scenery.,2,adventure,Rishikesh
 114,Rishikesh,2022,12,2333,3.7,Great place with excellent beaches.,2,adventure,Rishikesh
-117,Rishikesh,2022,12,2333,4.0,Great place with excellent beaches.,2,adventure,Rishikesh
-181,Rishikesh,2022,12,2333,3.7,Must visit for culture lovers.,2,adventure,Rishikesh
-174,Rishikesh,2022,12,2333,3.5,Too crowded during holidays.,2,adventure,Rishikesh
-146,Goa,2023,1,4893,3.7,Budget-friendly and great food.,3,beach,Goa
-158,Goa,2023,1,4893,3.7,Adventure sports were thrilling.,3,beach,Goa
-123,Goa,2023,1,4893,4.7,Excellent hospitality.,3,beach,Goa
-140,Goa,2023,1,4893,4.2,Must visit for culture lovers.,3,beach,Goa
-177,Goa,2023,1,4893,3.9,Not well maintained in some areas.,3,beach,Goa
-190,Manali,2023,1,3149,4.0,Great place with excellent beaches.,2,mountain,Manali
-123,Manali,2023,1,3149,4.3,Budget-friendly and great food.,2,mountain,Manali
-175,Manali,2023,1,3149,4.4,Peaceful and beautiful scenery.,2,mountain,Manali
-169,Manali,2023,1,3149,3.0,Budget-friendly and great food.,2,mountain,Manali
-143,Manali,2023,1,3149,3.2,Must visit for culture lovers.,2,mountain,Manali
-162,Jaipur,2023,1,4063,2.6,Budget-friendly and great food.,2,culture,Jaipur
+117,Rishikesh,2022,12,2333,4.0,Excellent hospitality.,2,adventure,Rishikesh
+181,Rishikesh,2022,12,2333,3.7,Good food and hotels.,2,adventure,Rishikesh
+174,Rishikesh,2022,12,2333,3.5,Peaceful and beautiful scenery.,2,adventure,Rishikesh
+146,Goa,2023,1,4893,3.7,"Amazing views, perfect for families.",3,beach,Goa
+158,Goa,2023,1,4893,3.7,Great place with excellent beaches.,3,beach,Goa
+123,Goa,2023,1,4893,4.7,Peaceful and beautiful scenery.,3,beach,Goa
+140,Goa,2023,1,4893,4.2,Excellent hospitality.,3,beach,Goa
+177,Goa,2023,1,4893,3.9,Adventure sports were thrilling.,3,beach,Goa
+190,Manali,2023,1,3149,4.0,Peaceful and beautiful scenery.,2,mountain,Manali
+123,Manali,2023,1,3149,4.3,"Amazing views, perfect for families.",2,mountain,Manali
+175,Manali,2023,1,3149,4.4,Too crowded during holidays.,2,mountain,Manali
+169,Manali,2023,1,3149,3.0,Not well maintained in some areas.,2,mountain,Manali
+143,Manali,2023,1,3149,3.2,Adventure sports were thrilling.,2,mountain,Manali
+162,Jaipur,2023,1,4063,2.6,Peaceful and beautiful scenery.,2,culture,Jaipur
 190,Jaipur,2023,1,4063,3.9,Good food and hotels.,2,culture,Jaipur
-135,Jaipur,2023,1,4063,3.9,Excellent hospitality.,2,culture,Jaipur
+135,Jaipur,2023,1,4063,3.9,Budget-friendly and great food.,2,culture,Jaipur
 105,Jaipur,2023,1,4063,3.8,Peaceful and beautiful scenery.,2,culture,Jaipur
-149,Jaipur,2023,1,4063,4.5,Peaceful and beautiful scenery.,2,culture,Jaipur
-147,Varanasi,2023,1,3159,4.2,Adventure sports were thrilling.,2,spiritual,Varanasi
-195,Varanasi,2023,1,3159,4.5,Excellent hospitality.,2,spiritual,Varanasi
-157,Varanasi,2023,1,3159,3.4,Great place with excellent beaches.,2,spiritual,Varanasi
-168,Varanasi,2023,1,3159,5.0,Too crowded during holidays.,2,spiritual,Varanasi
-101,Varanasi,2023,1,3159,3.5,Adventure sports were thrilling.,2,spiritual,Varanasi
-182,Kerala,2023,1,4424,4.1,Excellent hospitality.,3,backwater,Kerala
-198,Kerala,2023,1,4424,3.9,Great place with excellent beaches.,3,backwater,Kerala
-175,Kerala,2023,1,4424,4.7,Budget-friendly and great food.,3,backwater,Kerala
-106,Kerala,2023,1,4424,3.9,Not well maintained in some areas.,3,backwater,Kerala
-166,Kerala,2023,1,4424,3.1,Adventure sports were thrilling.,3,backwater,Kerala
-116,Rishikesh,2023,1,1859,3.7,Excellent hospitality.,2,adventure,Rishikesh
-121,Rishikesh,2023,1,1859,3.8,Good food and hotels.,2,adventure,Rishikesh
-129,Rishikesh,2023,1,1859,3.3,"Amazing views, perfect for families.",2,adventure,Rishikesh
-130,Rishikesh,2023,1,1859,3.7,Peaceful and beautiful scenery.,2,adventure,Rishikesh
-159,Rishikesh,2023,1,1859,3.6,Good food and hotels.,2,adventure,Rishikesh
-178,Goa,2023,2,5231,3.4,Great place with excellent beaches.,3,beach,Goa
-195,Goa,2023,2,5231,3.5,Excellent hospitality.,3,beach,Goa
-121,Goa,2023,2,5231,3.7,Great place with excellent beaches.,3,beach,Goa
-126,Goa,2023,2,5231,3.4,Good food and hotels.,3,beach,Goa
-192,Goa,2023,2,5231,4.1,Good food and hotels.,3,beach,Goa
-165,Manali,2023,2,3218,4.0,Must visit for culture lovers.,2,mountain,Manali
-142,Manali,2023,2,3218,3.3,"Amazing views, perfect for families.",2,mountain,Manali
-195,Manali,2023,2,3218,3.4,"Amazing views, perfect for families.",2,mountain,Manali
-125,Manali,2023,2,3218,4.0,Excellent hospitality.,2,mountain,Manali
-169,Manali,2023,2,3218,4.5,Great place with excellent beaches.,2,mountain,Manali
-184,Jaipur,2023,2,1835,3.9,Adventure sports were thrilling.,2,culture,Jaipur
-103,Jaipur,2023,2,1835,3.2,Adventure sports were thrilling.,2,culture,Jaipur
-198,Jaipur,2023,2,1835,2.8,Budget-friendly and great food.,2,culture,Jaipur
-189,Jaipur,2023,2,1835,4.5,Must visit for culture lovers.,2,culture,Jaipur
-120,Jaipur,2023,2,1835,3.5,"Amazing views, perfect for families.",2,culture,Jaipur
-108,Varanasi,2023,2,2663,4.2,Adventure sports were thrilling.,2,spiritual,Varanasi
-142,Varanasi,2023,2,2663,4.2,Not well maintained in some areas.,2,spiritual,Varanasi
+149,Jaipur,2023,1,4063,4.5,Excellent hospitality.,2,culture,Jaipur
+147,Varanasi,2023,1,3159,4.2,"Amazing views, perfect for families.",2,spiritual,Varanasi
+195,Varanasi,2023,1,3159,4.5,"Amazing views, perfect for families.",2,spiritual,Varanasi
+157,Varanasi,2023,1,3159,3.4,Budget-friendly and great food.,2,spiritual,Varanasi
+168,Varanasi,2023,1,3159,5.0,"Amazing views, perfect for families.",2,spiritual,Varanasi
+101,Varanasi,2023,1,3159,3.5,"Amazing views, perfect for families.",2,spiritual,Varanasi
+182,Kerala,2023,1,4424,4.1,"Amazing views, perfect for families.",3,backwater,Kerala
+198,Kerala,2023,1,4424,3.9,Adventure sports were thrilling.,3,backwater,Kerala
+175,Kerala,2023,1,4424,4.7,Great place with excellent beaches.,3,backwater,Kerala
+106,Kerala,2023,1,4424,3.9,Must visit for culture lovers.,3,backwater,Kerala
+166,Kerala,2023,1,4424,3.1,Must visit for culture lovers.,3,backwater,Kerala
+116,Rishikesh,2023,1,1859,3.7,"Amazing views, perfect for families.",2,adventure,Rishikesh
+121,Rishikesh,2023,1,1859,3.8,Adventure sports were thrilling.,2,adventure,Rishikesh
+129,Rishikesh,2023,1,1859,3.3,Must visit for culture lovers.,2,adventure,Rishikesh
+130,Rishikesh,2023,1,1859,3.7,Excellent hospitality.,2,adventure,Rishikesh
+159,Rishikesh,2023,1,1859,3.6,Too crowded during holidays.,2,adventure,Rishikesh
+178,Goa,2023,2,5231,3.4,Good food and hotels.,3,beach,Goa
+195,Goa,2023,2,5231,3.5,Adventure sports were thrilling.,3,beach,Goa
+121,Goa,2023,2,5231,3.7,Too crowded during holidays.,3,beach,Goa
+126,Goa,2023,2,5231,3.4,Great place with excellent beaches.,3,beach,Goa
+192,Goa,2023,2,5231,4.1,Great place with excellent beaches.,3,beach,Goa
+165,Manali,2023,2,3218,4.0,"Amazing views, perfect for families.",2,mountain,Manali
+142,Manali,2023,2,3218,3.3,Peaceful and beautiful scenery.,2,mountain,Manali
+195,Manali,2023,2,3218,3.4,Adventure sports were thrilling.,2,mountain,Manali
+125,Manali,2023,2,3218,4.0,Good food and hotels.,2,mountain,Manali
+169,Manali,2023,2,3218,4.5,Excellent hospitality.,2,mountain,Manali
+184,Jaipur,2023,2,1835,3.9,Peaceful and beautiful scenery.,2,culture,Jaipur
+103,Jaipur,2023,2,1835,3.2,Not well maintained in some areas.,2,culture,Jaipur
+198,Jaipur,2023,2,1835,2.8,Must visit for culture lovers.,2,culture,Jaipur
+189,Jaipur,2023,2,1835,4.5,Excellent hospitality.,2,culture,Jaipur
+120,Jaipur,2023,2,1835,3.5,Peaceful and beautiful scenery.,2,culture,Jaipur
+108,Varanasi,2023,2,2663,4.2,Great place with excellent beaches.,2,spiritual,Varanasi
+142,Varanasi,2023,2,2663,4.2,Excellent hospitality.,2,spiritual,Varanasi
 173,Varanasi,2023,2,2663,4.2,Adventure sports were thrilling.,2,spiritual,Varanasi
-186,Varanasi,2023,2,2663,4.1,Budget-friendly and great food.,2,spiritual,Varanasi
-146,Varanasi,2023,2,2663,4.8,Too crowded during holidays.,2,spiritual,Varanasi
-173,Kerala,2023,2,3879,4.7,Budget-friendly and great food.,3,backwater,Kerala
-141,Kerala,2023,2,3879,4.3,Budget-friendly and great food.,3,backwater,Kerala
-109,Kerala,2023,2,3879,4.1,Excellent hospitality.,3,backwater,Kerala
-108,Kerala,2023,2,3879,3.9,Peaceful and beautiful scenery.,3,backwater,Kerala
-195,Kerala,2023,2,3879,3.8,Excellent hospitality.,3,backwater,Kerala
-126,Rishikesh,2023,2,2186,4.3,Adventure sports were thrilling.,2,adventure,Rishikesh
-125,Rishikesh,2023,2,2186,5.0,Too crowded during holidays.,2,adventure,Rishikesh
-111,Rishikesh,2023,2,2186,3.1,Good food and hotels.,2,adventure,Rishikesh
-117,Rishikesh,2023,2,2186,4.2,Adventure sports were thrilling.,2,adventure,Rishikesh
+186,Varanasi,2023,2,2663,4.1,"Amazing views, perfect for families.",2,spiritual,Varanasi
+146,Varanasi,2023,2,2663,4.8,Budget-friendly and great food.,2,spiritual,Varanasi
+173,Kerala,2023,2,3879,4.7,Too crowded during holidays.,3,backwater,Kerala
+141,Kerala,2023,2,3879,4.3,Excellent hospitality.,3,backwater,Kerala
+109,Kerala,2023,2,3879,4.1,Must visit for culture lovers.,3,backwater,Kerala
+108,Kerala,2023,2,3879,3.9,Great place with excellent beaches.,3,backwater,Kerala
+195,Kerala,2023,2,3879,3.8,Not well maintained in some areas.,3,backwater,Kerala
+126,Rishikesh,2023,2,2186,4.3,Good food and hotels.,2,adventure,Rishikesh
+125,Rishikesh,2023,2,2186,5.0,Not well maintained in some areas.,2,adventure,Rishikesh
+111,Rishikesh,2023,2,2186,3.1,"Amazing views, perfect for families.",2,adventure,Rishikesh
+117,Rishikesh,2023,2,2186,4.2,Good food and hotels.,2,adventure,Rishikesh
 158,Rishikesh,2023,2,2186,3.6,Not well maintained in some areas.,2,adventure,Rishikesh
-175,Goa,2023,3,3173,2.8,Too crowded during holidays.,3,beach,Goa
-177,Goa,2023,3,3173,4.8,Budget-friendly and great food.,3,beach,Goa
-142,Goa,2023,3,3173,4.2,Too crowded during holidays.,3,beach,Goa
-116,Goa,2023,3,3173,4.5,Budget-friendly and great food.,3,beach,Goa
+175,Goa,2023,3,3173,2.8,Peaceful and beautiful scenery.,3,beach,Goa
+177,Goa,2023,3,3173,4.8,Good food and hotels.,3,beach,Goa
+142,Goa,2023,3,3173,4.2,Not well maintained in some areas.,3,beach,Goa
+116,Goa,2023,3,3173,4.5,Peaceful and beautiful scenery.,3,beach,Goa
 162,Goa,2023,3,3173,3.4,Adventure sports were thrilling.,3,beach,Goa
-174,Manali,2023,3,1750,3.1,Good food and hotels.,2,mountain,Manali
-152,Manali,2023,3,1750,4.5,Must visit for culture lovers.,2,mountain,Manali
-112,Manali,2023,3,1750,4.0,Peaceful and beautiful scenery.,2,mountain,Manali
-159,Manali,2023,3,1750,3.9,Good food and hotels.,2,mountain,Manali
-181,Manali,2023,3,1750,3.3,Peaceful and beautiful scenery.,2,mountain,Manali
-172,Jaipur,2023,3,2650,3.9,Excellent hospitality.,2,culture,Jaipur
-160,Jaipur,2023,3,2650,4.6,Peaceful and beautiful scenery.,2,culture,Jaipur
-142,Jaipur,2023,3,2650,3.9,Great place with excellent beaches.,2,culture,Jaipur
-128,Jaipur,2023,3,2650,3.7,Adventure sports were thrilling.,2,culture,Jaipur
-115,Jaipur,2023,3,2650,3.7,Too crowded during holidays.,2,culture,Jaipur
-167,Varanasi,2023,3,3181,4.2,Must visit for culture lovers.,2,spiritual,Varanasi
-148,Varanasi,2023,3,3181,3.1,Adventure sports were thrilling.,2,spiritual,Varanasi
-128,Varanasi,2023,3,3181,4.4,Not well maintained in some areas.,2,spiritual,Varanasi
-172,Varanasi,2023,3,3181,4.1,Adventure sports were thrilling.,2,spiritual,Varanasi
-175,Varanasi,2023,3,3181,5.0,Excellent hospitality.,2,spiritual,Varanasi
-164,Kerala,2023,3,2269,4.0,Must visit for culture lovers.,3,backwater,Kerala
-161,Kerala,2023,3,2269,4.1,Too crowded during holidays.,3,backwater,Kerala
-146,Kerala,2023,3,2269,3.7,Must visit for culture lovers.,3,backwater,Kerala
-134,Kerala,2023,3,2269,4.0,Budget-friendly and great food.,3,backwater,Kerala
-107,Kerala,2023,3,2269,3.2,Great place with excellent beaches.,3,backwater,Kerala
-129,Rishikesh,2023,3,2140,4.2,"Amazing views, perfect for families.",2,adventure,Rishikesh
-124,Rishikesh,2023,3,2140,3.6,Peaceful and beautiful scenery.,2,adventure,Rishikesh
+174,Manali,2023,3,1750,3.1,Peaceful and beautiful scenery.,2,mountain,Manali
+152,Manali,2023,3,1750,4.5,Good food and hotels.,2,mountain,Manali
+112,Manali,2023,3,1750,4.0,Adventure sports were thrilling.,2,mountain,Manali
+159,Manali,2023,3,1750,3.9,Not well maintained in some areas.,2,mountain,Manali
+181,Manali,2023,3,1750,3.3,Good food and hotels.,2,mountain,Manali
+172,Jaipur,2023,3,2650,3.9,"Amazing views, perfect for families.",2,culture,Jaipur
+160,Jaipur,2023,3,2650,4.6,Good food and hotels.,2,culture,Jaipur
+142,Jaipur,2023,3,2650,3.9,Good food and hotels.,2,culture,Jaipur
+128,Jaipur,2023,3,2650,3.7,"Amazing views, perfect for families.",2,culture,Jaipur
+115,Jaipur,2023,3,2650,3.7,Peaceful and beautiful scenery.,2,culture,Jaipur
+167,Varanasi,2023,3,3181,4.2,Too crowded during holidays.,2,spiritual,Varanasi
+148,Varanasi,2023,3,3181,3.1,Must visit for culture lovers.,2,spiritual,Varanasi
+128,Varanasi,2023,3,3181,4.4,Excellent hospitality.,2,spiritual,Varanasi
+172,Varanasi,2023,3,3181,4.1,Too crowded during holidays.,2,spiritual,Varanasi
+175,Varanasi,2023,3,3181,5.0,Budget-friendly and great food.,2,spiritual,Varanasi
+164,Kerala,2023,3,2269,4.0,Too crowded during holidays.,3,backwater,Kerala
+161,Kerala,2023,3,2269,4.1,Budget-friendly and great food.,3,backwater,Kerala
+146,Kerala,2023,3,2269,3.7,Excellent hospitality.,3,backwater,Kerala
+134,Kerala,2023,3,2269,4.0,Good food and hotels.,3,backwater,Kerala
+107,Kerala,2023,3,2269,3.2,Peaceful and beautiful scenery.,3,backwater,Kerala
+129,Rishikesh,2023,3,2140,4.2,Not well maintained in some areas.,2,adventure,Rishikesh
+124,Rishikesh,2023,3,2140,3.6,Adventure sports were thrilling.,2,adventure,Rishikesh
 139,Rishikesh,2023,3,2140,3.9,"Amazing views, perfect for families.",2,adventure,Rishikesh
-177,Rishikesh,2023,3,2140,3.2,"Amazing views, perfect for families.",2,adventure,Rishikesh
+177,Rishikesh,2023,3,2140,3.2,Good food and hotels.,2,adventure,Rishikesh
 175,Rishikesh,2023,3,2140,3.5,Budget-friendly and great food.,2,adventure,Rishikesh
 158,Goa,2023,4,2838,3.9,Must visit for culture lovers.,3,beach,Goa
-145,Goa,2023,4,2838,4.4,Adventure sports were thrilling.,3,beach,Goa
+145,Goa,2023,4,2838,4.4,Peaceful and beautiful scenery.,3,beach,Goa
 146,Goa,2023,4,2838,3.7,Budget-friendly and great food.,3,beach,Goa
-105,Goa,2023,4,2838,3.2,Peaceful and beautiful scenery.,3,beach,Goa
-148,Goa,2023,4,2838,3.3,Too crowded during holidays.,3,beach,Goa
+105,Goa,2023,4,2838,3.2,Must visit for culture lovers.,3,beach,Goa
+148,Goa,2023,4,2838,3.3,Budget-friendly and great food.,3,beach,Goa
 128,Manali,2023,4,1840,3.1,Not well maintained in some areas.,2,mountain,Manali
-102,Manali,2023,4,1840,4.1,Not well maintained in some areas.,2,mountain,Manali
-153,Manali,2023,4,1840,3.4,Good food and hotels.,2,mountain,Manali
-154,Manali,2023,4,1840,3.8,"Amazing views, perfect for families.",2,mountain,Manali
-121,Manali,2023,4,1840,4.1,Budget-friendly and great food.,2,mountain,Manali
-112,Jaipur,2023,4,1802,3.9,Not well maintained in some areas.,2,culture,Jaipur
-147,Jaipur,2023,4,1802,3.7,Budget-friendly and great food.,2,culture,Jaipur
-151,Jaipur,2023,4,1802,2.9,Too crowded during holidays.,2,culture,Jaipur
-189,Jaipur,2023,4,1802,4.3,Must visit for culture lovers.,2,culture,Jaipur
-110,Jaipur,2023,4,1802,3.9,Excellent hospitality.,2,culture,Jaipur
-167,Varanasi,2023,4,2496,3.3,Excellent hospitality.,2,spiritual,Varanasi
+102,Manali,2023,4,1840,4.1,Adventure sports were thrilling.,2,mountain,Manali
+153,Manali,2023,4,1840,3.4,Not well maintained in some areas.,2,mountain,Manali
+154,Manali,2023,4,1840,3.8,Good food and hotels.,2,mountain,Manali
+121,Manali,2023,4,1840,4.1,Adventure sports were thrilling.,2,mountain,Manali
+112,Jaipur,2023,4,1802,3.9,Good food and hotels.,2,culture,Jaipur
+147,Jaipur,2023,4,1802,3.7,Adventure sports were thrilling.,2,culture,Jaipur
+151,Jaipur,2023,4,1802,2.9,Peaceful and beautiful scenery.,2,culture,Jaipur
+189,Jaipur,2023,4,1802,4.3,Great place with excellent beaches.,2,culture,Jaipur
+110,Jaipur,2023,4,1802,3.9,Good food and hotels.,2,culture,Jaipur
+167,Varanasi,2023,4,2496,3.3,"Amazing views, perfect for families.",2,spiritual,Varanasi
 119,Varanasi,2023,4,2496,4.5,Good food and hotels.,2,spiritual,Varanasi
-188,Varanasi,2023,4,2496,3.3,Excellent hospitality.,2,spiritual,Varanasi
-116,Varanasi,2023,4,2496,3.7,Too crowded during holidays.,2,spiritual,Varanasi
-192,Varanasi,2023,4,2496,5.0,Great place with excellent beaches.,2,spiritual,Varanasi
-112,Kerala,2023,4,2938,4.0,Good food and hotels.,3,backwater,Kerala
+188,Varanasi,2023,4,2496,3.3,Great place with excellent beaches.,2,spiritual,Varanasi
+116,Varanasi,2023,4,2496,3.7,"Amazing views, perfect for families.",2,spiritual,Varanasi
+192,Varanasi,2023,4,2496,5.0,Budget-friendly and great food.,2,spiritual,Varanasi
+112,Kerala,2023,4,2938,4.0,Adventure sports were thrilling.,3,backwater,Kerala
 181,Kerala,2023,4,2938,4.0,Good food and hotels.,3,backwater,Kerala
-173,Kerala,2023,4,2938,3.9,Adventure sports were thrilling.,3,backwater,Kerala
-102,Kerala,2023,4,2938,3.3,Adventure sports were thrilling.,3,backwater,Kerala
-151,Kerala,2023,4,2938,3.7,"Amazing views, perfect for families.",3,backwater,Kerala
-116,Rishikesh,2023,4,2374,3.8,Not well maintained in some areas.,2,adventure,Rishikesh
-160,Rishikesh,2023,4,2374,4.7,Not well maintained in some areas.,2,adventure,Rishikesh
-199,Rishikesh,2023,4,2374,4.3,"Amazing views, perfect for families.",2,adventure,Rishikesh
-106,Rishikesh,2023,4,2374,3.3,"Amazing views, perfect for families.",2,adventure,Rishikesh
-145,Rishikesh,2023,4,2374,4.3,Too crowded during holidays.,2,adventure,Rishikesh
-120,Goa,2023,5,2767,3.7,Peaceful and beautiful scenery.,3,beach,Goa
+173,Kerala,2023,4,2938,3.9,Excellent hospitality.,3,backwater,Kerala
+102,Kerala,2023,4,2938,3.3,Budget-friendly and great food.,3,backwater,Kerala
+151,Kerala,2023,4,2938,3.7,Budget-friendly and great food.,3,backwater,Kerala
+116,Rishikesh,2023,4,2374,3.8,Excellent hospitality.,2,adventure,Rishikesh
+160,Rishikesh,2023,4,2374,4.7,Peaceful and beautiful scenery.,2,adventure,Rishikesh
+199,Rishikesh,2023,4,2374,4.3,Not well maintained in some areas.,2,adventure,Rishikesh
+106,Rishikesh,2023,4,2374,3.3,Budget-friendly and great food.,2,adventure,Rishikesh
+145,Rishikesh,2023,4,2374,4.3,Great place with excellent beaches.,2,adventure,Rishikesh
+120,Goa,2023,5,2767,3.7,"Amazing views, perfect for families.",3,beach,Goa
 186,Goa,2023,5,2767,3.7,Good food and hotels.,3,beach,Goa
-184,Goa,2023,5,2767,3.7,"Amazing views, perfect for families.",3,beach,Goa
-175,Goa,2023,5,2767,4.5,Budget-friendly and great food.,3,beach,Goa
-107,Goa,2023,5,2767,4.3,Peaceful and beautiful scenery.,3,beach,Goa
-159,Manali,2023,5,5012,3.6,Must visit for culture lovers.,2,mountain,Manali
-143,Manali,2023,5,5012,3.7,"Amazing views, perfect for families.",2,mountain,Manali
-115,Manali,2023,5,5012,3.5,Great place with excellent beaches.,2,mountain,Manali
-166,Manali,2023,5,5012,3.5,Too crowded during holidays.,2,mountain,Manali
-162,Manali,2023,5,5012,3.9,Great place with excellent beaches.,2,mountain,Manali
-132,Jaipur,2023,5,2134,3.8,Good food and hotels.,2,culture,Jaipur
-121,Jaipur,2023,5,2134,4.0,Peaceful and beautiful scenery.,2,culture,Jaipur
-195,Jaipur,2023,5,2134,3.4,Budget-friendly and great food.,2,culture,Jaipur
-183,Jaipur,2023,5,2134,4.9,Great place with excellent beaches.,2,culture,Jaipur
+184,Goa,2023,5,2767,3.7,Great place with excellent beaches.,3,beach,Goa
+175,Goa,2023,5,2767,4.5,"Amazing views, perfect for families.",3,beach,Goa
+107,Goa,2023,5,2767,4.3,Not well maintained in some areas.,3,beach,Goa
+159,Manali,2023,5,5012,3.6,Excellent hospitality.,2,mountain,Manali
+143,Manali,2023,5,5012,3.7,Budget-friendly and great food.,2,mountain,Manali
+115,Manali,2023,5,5012,3.5,Too crowded during holidays.,2,mountain,Manali
+166,Manali,2023,5,5012,3.5,Adventure sports were thrilling.,2,mountain,Manali
+162,Manali,2023,5,5012,3.9,Budget-friendly and great food.,2,mountain,Manali
+132,Jaipur,2023,5,2134,3.8,Must visit for culture lovers.,2,culture,Jaipur
+121,Jaipur,2023,5,2134,4.0,Must visit for culture lovers.,2,culture,Jaipur
+195,Jaipur,2023,5,2134,3.4,Not well maintained in some areas.,2,culture,Jaipur
+183,Jaipur,2023,5,2134,4.9,Must visit for culture lovers.,2,culture,Jaipur
 143,Jaipur,2023,5,2134,4.6,"Amazing views, perfect for families.",2,culture,Jaipur
-179,Varanasi,2023,5,2889,4.4,Budget-friendly and great food.,2,spiritual,Varanasi
-190,Varanasi,2023,5,2889,4.0,Not well maintained in some areas.,2,spiritual,Varanasi
-152,Varanasi,2023,5,2889,2.8,Good food and hotels.,2,spiritual,Varanasi
-148,Varanasi,2023,5,2889,3.5,Must visit for culture lovers.,2,spiritual,Varanasi
-194,Varanasi,2023,5,2889,4.3,"Amazing views, perfect for families.",2,spiritual,Varanasi
-144,Kerala,2023,5,2963,4.0,Good food and hotels.,3,backwater,Kerala
+179,Varanasi,2023,5,2889,4.4,Must visit for culture lovers.,2,spiritual,Varanasi
+190,Varanasi,2023,5,2889,4.0,Too crowded during holidays.,2,spiritual,Varanasi
+152,Varanasi,2023,5,2889,2.8,Must visit for culture lovers.,2,spiritual,Varanasi
+148,Varanasi,2023,5,2889,3.5,Peaceful and beautiful scenery.,2,spiritual,Varanasi
+194,Varanasi,2023,5,2889,4.3,Adventure sports were thrilling.,2,spiritual,Varanasi
+144,Kerala,2023,5,2963,4.0,Too crowded during holidays.,3,backwater,Kerala
 150,Kerala,2023,5,2963,4.1,Not well maintained in some areas.,3,backwater,Kerala
-158,Kerala,2023,5,2963,3.8,Too crowded during holidays.,3,backwater,Kerala
-193,Kerala,2023,5,2963,3.1,Great place with excellent beaches.,3,backwater,Kerala
-192,Kerala,2023,5,2963,3.8,Not well maintained in some areas.,3,backwater,Kerala
-110,Rishikesh,2023,5,3101,4.2,Not well maintained in some areas.,2,adventure,Rishikesh
-115,Rishikesh,2023,5,3101,3.8,Not well maintained in some areas.,2,adventure,Rishikesh
-194,Rishikesh,2023,5,3101,3.8,Peaceful and beautiful scenery.,2,adventure,Rishikesh
-109,Rishikesh,2023,5,3101,4.0,Budget-friendly and great food.,2,adventure,Rishikesh
-199,Rishikesh,2023,5,3101,3.0,Good food and hotels.,2,adventure,Rishikesh
-190,Goa,2023,6,1643,4.1,Must visit for culture lovers.,3,beach,Goa
-174,Goa,2023,6,1643,4.0,Must visit for culture lovers.,3,beach,Goa
-115,Goa,2023,6,1643,4.1,Adventure sports were thrilling.,3,beach,Goa
-148,Goa,2023,6,1643,3.8,Must visit for culture lovers.,3,beach,Goa
-149,Goa,2023,6,1643,4.3,Peaceful and beautiful scenery.,3,beach,Goa
-121,Manali,2023,6,4779,4.6,Good food and hotels.,2,mountain,Manali
-151,Manali,2023,6,4779,4.3,Peaceful and beautiful scenery.,2,mountain,Manali
-110,Manali,2023,6,4779,3.6,Too crowded during holidays.,2,mountain,Manali
+158,Kerala,2023,5,2963,3.8,"Amazing views, perfect for families.",3,backwater,Kerala
+193,Kerala,2023,5,2963,3.1,Good food and hotels.,3,backwater,Kerala
+192,Kerala,2023,5,2963,3.8,Excellent hospitality.,3,backwater,Kerala
+110,Rishikesh,2023,5,3101,4.2,Excellent hospitality.,2,adventure,Rishikesh
+115,Rishikesh,2023,5,3101,3.8,Good food and hotels.,2,adventure,Rishikesh
+194,Rishikesh,2023,5,3101,3.8,Adventure sports were thrilling.,2,adventure,Rishikesh
+109,Rishikesh,2023,5,3101,4.0,Great place with excellent beaches.,2,adventure,Rishikesh
+199,Rishikesh,2023,5,3101,3.0,Adventure sports were thrilling.,2,adventure,Rishikesh
+190,Goa,2023,6,1643,4.1,Adventure sports were thrilling.,3,beach,Goa
+174,Goa,2023,6,1643,4.0,"Amazing views, perfect for families.",3,beach,Goa
+115,Goa,2023,6,1643,4.1,Great place with excellent beaches.,3,beach,Goa
+148,Goa,2023,6,1643,3.8,Peaceful and beautiful scenery.,3,beach,Goa
+149,Goa,2023,6,1643,4.3,Adventure sports were thrilling.,3,beach,Goa
+121,Manali,2023,6,4779,4.6,Excellent hospitality.,2,mountain,Manali
+151,Manali,2023,6,4779,4.3,Not well maintained in some areas.,2,mountain,Manali
+110,Manali,2023,6,4779,3.6,Adventure sports were thrilling.,2,mountain,Manali
 163,Manali,2023,6,4779,4.3,Great place with excellent beaches.,2,mountain,Manali
-133,Manali,2023,6,4779,4.4,Good food and hotels.,2,mountain,Manali
-195,Jaipur,2023,6,2967,4.2,Adventure sports were thrilling.,2,culture,Jaipur
-190,Jaipur,2023,6,2967,4.3,Adventure sports were thrilling.,2,culture,Jaipur
-143,Jaipur,2023,6,2967,4.0,Great place with excellent beaches.,2,culture,Jaipur
-158,Jaipur,2023,6,2967,4.1,Peaceful and beautiful scenery.,2,culture,Jaipur
-189,Jaipur,2023,6,2967,3.9,Great place with excellent beaches.,2,culture,Jaipur
-133,Varanasi,2023,6,3243,3.3,Good food and hotels.,2,spiritual,Varanasi
-141,Varanasi,2023,6,3243,3.3,Budget-friendly and great food.,2,spiritual,Varanasi
+133,Manali,2023,6,4779,4.4,Too crowded during holidays.,2,mountain,Manali
+195,Jaipur,2023,6,2967,4.2,Not well maintained in some areas.,2,culture,Jaipur
+190,Jaipur,2023,6,2967,4.3,Peaceful and beautiful scenery.,2,culture,Jaipur
+143,Jaipur,2023,6,2967,4.0,Adventure sports were thrilling.,2,culture,Jaipur
+158,Jaipur,2023,6,2967,4.1,"Amazing views, perfect for families.",2,culture,Jaipur
+189,Jaipur,2023,6,2967,3.9,Peaceful and beautiful scenery.,2,culture,Jaipur
+133,Varanasi,2023,6,3243,3.3,Great place with excellent beaches.,2,spiritual,Varanasi
+141,Varanasi,2023,6,3243,3.3,Peaceful and beautiful scenery.,2,spiritual,Varanasi
 178,Varanasi,2023,6,3243,3.0,Budget-friendly and great food.,2,spiritual,Varanasi
 130,Varanasi,2023,6,3243,4.0,"Amazing views, perfect for families.",2,spiritual,Varanasi
-132,Varanasi,2023,6,3243,3.4,Great place with excellent beaches.,2,spiritual,Varanasi
-110,Kerala,2023,6,2484,4.2,"Amazing views, perfect for families.",3,backwater,Kerala
-130,Kerala,2023,6,2484,3.7,Budget-friendly and great food.,3,backwater,Kerala
-193,Kerala,2023,6,2484,3.9,Budget-friendly and great food.,3,backwater,Kerala
-125,Kerala,2023,6,2484,4.5,Budget-friendly and great food.,3,backwater,Kerala
-117,Kerala,2023,6,2484,4.2,Adventure sports were thrilling.,3,backwater,Kerala
-166,Rishikesh,2023,6,2780,4.1,Adventure sports were thrilling.,2,adventure,Rishikesh
-143,Rishikesh,2023,6,2780,4.1,Excellent hospitality.,2,adventure,Rishikesh
-144,Rishikesh,2023,6,2780,3.9,Adventure sports were thrilling.,2,adventure,Rishikesh
-106,Rishikesh,2023,6,2780,4.3,Adventure sports were thrilling.,2,adventure,Rishikesh
-122,Rishikesh,2023,6,2780,3.8,Great place with excellent beaches.,2,adventure,Rishikesh
-114,Goa,2023,7,1570,3.1,Great place with excellent beaches.,3,beach,Goa
+132,Varanasi,2023,6,3243,3.4,Good food and hotels.,2,spiritual,Varanasi
+110,Kerala,2023,6,2484,4.2,Peaceful and beautiful scenery.,3,backwater,Kerala
+130,Kerala,2023,6,2484,3.7,Peaceful and beautiful scenery.,3,backwater,Kerala
+193,Kerala,2023,6,2484,3.9,Peaceful and beautiful scenery.,3,backwater,Kerala
+125,Kerala,2023,6,2484,4.5,Excellent hospitality.,3,backwater,Kerala
+117,Kerala,2023,6,2484,4.2,"Amazing views, perfect for families.",3,backwater,Kerala
+166,Rishikesh,2023,6,2780,4.1,"Amazing views, perfect for families.",2,adventure,Rishikesh
+143,Rishikesh,2023,6,2780,4.1,Peaceful and beautiful scenery.,2,adventure,Rishikesh
+144,Rishikesh,2023,6,2780,3.9,Great place with excellent beaches.,2,adventure,Rishikesh
+106,Rishikesh,2023,6,2780,4.3,Excellent hospitality.,2,adventure,Rishikesh
+122,Rishikesh,2023,6,2780,3.8,Adventure sports were thrilling.,2,adventure,Rishikesh
+114,Goa,2023,7,1570,3.1,"Amazing views, perfect for families.",3,beach,Goa
 179,Goa,2023,7,1570,4.4,Must visit for culture lovers.,3,beach,Goa
-119,Goa,2023,7,1570,4.9,Excellent hospitality.,3,beach,Goa
-186,Goa,2023,7,1570,4.7,Not well maintained in some areas.,3,beach,Goa
-165,Goa,2023,7,1570,3.2,Adventure sports were thrilling.,3,beach,Goa
-171,Manali,2023,7,4717,4.1,Not well maintained in some areas.,2,mountain,Manali
-134,Manali,2023,7,4717,3.5,Peaceful and beautiful scenery.,2,mountain,Manali
-147,Manali,2023,7,4717,4.1,Great place with excellent beaches.,2,mountain,Manali
-191,Manali,2023,7,4717,3.2,Peaceful and beautiful scenery.,2,mountain,Manali
-110,Manali,2023,7,4717,4.3,Not well maintained in some areas.,2,mountain,Manali
+119,Goa,2023,7,1570,4.9,Must visit for culture lovers.,3,beach,Goa
+186,Goa,2023,7,1570,4.7,Peaceful and beautiful scenery.,3,beach,Goa
+165,Goa,2023,7,1570,3.2,Great place with excellent beaches.,3,beach,Goa
+171,Manali,2023,7,4717,4.1,Great place with excellent beaches.,2,mountain,Manali
+134,Manali,2023,7,4717,3.5,Good food and hotels.,2,mountain,Manali
+147,Manali,2023,7,4717,4.1,"Amazing views, perfect for families.",2,mountain,Manali
+191,Manali,2023,7,4717,3.2,Must visit for culture lovers.,2,mountain,Manali
+110,Manali,2023,7,4717,4.3,Budget-friendly and great food.,2,mountain,Manali
 160,Jaipur,2023,7,2807,3.2,Good food and hotels.,2,culture,Jaipur
-169,Jaipur,2023,7,2807,4.2,Must visit for culture lovers.,2,culture,Jaipur
-159,Jaipur,2023,7,2807,3.8,"Amazing views, perfect for families.",2,culture,Jaipur
-183,Jaipur,2023,7,2807,3.5,Must visit for culture lovers.,2,culture,Jaipur
-146,Jaipur,2023,7,2807,3.7,Adventure sports were thrilling.,2,culture,Jaipur
-121,Varanasi,2023,7,3121,4.0,Must visit for culture lovers.,2,spiritual,Varanasi
-191,Varanasi,2023,7,3121,4.1,Too crowded during holidays.,2,spiritual,Varanasi
-101,Varanasi,2023,7,3121,3.8,Adventure sports were thrilling.,2,spiritual,Varanasi
-152,Varanasi,2023,7,3121,4.2,Excellent hospitality.,2,spiritual,Varanasi
-159,Varanasi,2023,7,3121,3.6,Peaceful and beautiful scenery.,2,spiritual,Varanasi
-106,Kerala,2023,7,2752,4.5,Excellent hospitality.,3,backwater,Kerala
+169,Jaipur,2023,7,2807,4.2,Excellent hospitality.,2,culture,Jaipur
+159,Jaipur,2023,7,2807,3.8,Must visit for culture lovers.,2,culture,Jaipur
+183,Jaipur,2023,7,2807,3.5,Budget-friendly and great food.,2,culture,Jaipur
+146,Jaipur,2023,7,2807,3.7,"Amazing views, perfect for families.",2,culture,Jaipur
+121,Varanasi,2023,7,3121,4.0,Too crowded during holidays.,2,spiritual,Varanasi
+191,Varanasi,2023,7,3121,4.1,Must visit for culture lovers.,2,spiritual,Varanasi
+101,Varanasi,2023,7,3121,3.8,Must visit for culture lovers.,2,spiritual,Varanasi
+152,Varanasi,2023,7,3121,4.2,Good food and hotels.,2,spiritual,Varanasi
+159,Varanasi,2023,7,3121,3.6,Excellent hospitality.,2,spiritual,Varanasi
+106,Kerala,2023,7,2752,4.5,Adventure sports were thrilling.,3,backwater,Kerala
 175,Kerala,2023,7,2752,3.8,Not well maintained in some areas.,3,backwater,Kerala
-107,Kerala,2023,7,2752,3.3,Must visit for culture lovers.,3,backwater,Kerala
-199,Kerala,2023,7,2752,3.5,Excellent hospitality.,3,backwater,Kerala
-184,Kerala,2023,7,2752,4.5,Must visit for culture lovers.,3,backwater,Kerala
+107,Kerala,2023,7,2752,3.3,Peaceful and beautiful scenery.,3,backwater,Kerala
+199,Kerala,2023,7,2752,3.5,Too crowded during holidays.,3,backwater,Kerala
+184,Kerala,2023,7,2752,4.5,Good food and hotels.,3,backwater,Kerala
 140,Rishikesh,2023,7,1523,3.5,Not well maintained in some areas.,2,adventure,Rishikesh
-171,Rishikesh,2023,7,1523,4.4,Great place with excellent beaches.,2,adventure,Rishikesh
-199,Rishikesh,2023,7,1523,4.4,Not well maintained in some areas.,2,adventure,Rishikesh
-150,Rishikesh,2023,7,1523,3.1,"Amazing views, perfect for families.",2,adventure,Rishikesh
-146,Rishikesh,2023,7,1523,3.8,Adventure sports were thrilling.,2,adventure,Rishikesh
-121,Goa,2023,8,1241,3.7,Must visit for culture lovers.,3,beach,Goa
-150,Goa,2023,8,1241,3.6,Peaceful and beautiful scenery.,3,beach,Goa
-171,Goa,2023,8,1241,3.4,Not well maintained in some areas.,3,beach,Goa
-109,Goa,2023,8,1241,4.0,Not well maintained in some areas.,3,beach,Goa
-194,Goa,2023,8,1241,3.4,Not well maintained in some areas.,3,beach,Goa
-152,Manali,2023,8,3845,3.6,Not well maintained in some areas.,2,mountain,Manali
-181,Manali,2023,8,3845,5.0,Great place with excellent beaches.,2,mountain,Manali
-108,Manali,2023,8,3845,4.0,Budget-friendly and great food.,2,mountain,Manali
-114,Manali,2023,8,3845,4.1,Excellent hospitality.,2,mountain,Manali
-144,Manali,2023,8,3845,3.1,Too crowded during holidays.,2,mountain,Manali
-150,Jaipur,2023,8,2303,3.7,Great place with excellent beaches.,2,culture,Jaipur
-170,Jaipur,2023,8,2303,4.1,Adventure sports were thrilling.,2,culture,Jaipur
-103,Jaipur,2023,8,2303,3.7,Great place with excellent beaches.,2,culture,Jaipur
-183,Jaipur,2023,8,2303,3.9,Adventure sports were thrilling.,2,culture,Jaipur
-131,Jaipur,2023,8,2303,3.9,Peaceful and beautiful scenery.,2,culture,Jaipur
-112,Varanasi,2023,8,2579,4.4,"Amazing views, perfect for families.",2,spiritual,Varanasi
-128,Varanasi,2023,8,2579,3.9,Great place with excellent beaches.,2,spiritual,Varanasi
-153,Varanasi,2023,8,2579,3.8,Good food and hotels.,2,spiritual,Varanasi
-162,Varanasi,2023,8,2579,4.1,Must visit for culture lovers.,2,spiritual,Varanasi
+171,Rishikesh,2023,7,1523,4.4,"Amazing views, perfect for families.",2,adventure,Rishikesh
+199,Rishikesh,2023,7,1523,4.4,Too crowded during holidays.,2,adventure,Rishikesh
+150,Rishikesh,2023,7,1523,3.1,Adventure sports were thrilling.,2,adventure,Rishikesh
+146,Rishikesh,2023,7,1523,3.8,Excellent hospitality.,2,adventure,Rishikesh
+121,Goa,2023,8,1241,3.7,Great place with excellent beaches.,3,beach,Goa
+150,Goa,2023,8,1241,3.6,Must visit for culture lovers.,3,beach,Goa
+171,Goa,2023,8,1241,3.4,Good food and hotels.,3,beach,Goa
+109,Goa,2023,8,1241,4.0,Good food and hotels.,3,beach,Goa
+194,Goa,2023,8,1241,3.4,Must visit for culture lovers.,3,beach,Goa
+152,Manali,2023,8,3845,3.6,Too crowded during holidays.,2,mountain,Manali
+181,Manali,2023,8,3845,5.0,Too crowded during holidays.,2,mountain,Manali
+108,Manali,2023,8,3845,4.0,Too crowded during holidays.,2,mountain,Manali
+114,Manali,2023,8,3845,4.1,Great place with excellent beaches.,2,mountain,Manali
+144,Manali,2023,8,3845,3.1,"Amazing views, perfect for families.",2,mountain,Manali
+150,Jaipur,2023,8,2303,3.7,Budget-friendly and great food.,2,culture,Jaipur
+170,Jaipur,2023,8,2303,4.1,Not well maintained in some areas.,2,culture,Jaipur
+103,Jaipur,2023,8,2303,3.7,Good food and hotels.,2,culture,Jaipur
+183,Jaipur,2023,8,2303,3.9,Budget-friendly and great food.,2,culture,Jaipur
+131,Jaipur,2023,8,2303,3.9,"Amazing views, perfect for families.",2,culture,Jaipur
+112,Varanasi,2023,8,2579,4.4,Not well maintained in some areas.,2,spiritual,Varanasi
+128,Varanasi,2023,8,2579,3.9,Budget-friendly and great food.,2,spiritual,Varanasi
+153,Varanasi,2023,8,2579,3.8,Budget-friendly and great food.,2,spiritual,Varanasi
+162,Varanasi,2023,8,2579,4.1,Too crowded during holidays.,2,spiritual,Varanasi
 104,Varanasi,2023,8,2579,4.8,Peaceful and beautiful scenery.,2,spiritual,Varanasi
-110,Kerala,2023,8,2197,4.1,Budget-friendly and great food.,3,backwater,Kerala
-174,Kerala,2023,8,2197,3.7,Not well maintained in some areas.,3,backwater,Kerala
-141,Kerala,2023,8,2197,4.0,Good food and hotels.,3,backwater,Kerala
-163,Kerala,2023,8,2197,3.9,Must visit for culture lovers.,3,backwater,Kerala
-131,Kerala,2023,8,2197,3.6,Must visit for culture lovers.,3,backwater,Kerala
-174,Rishikesh,2023,8,2013,4.2,Adventure sports were thrilling.,2,adventure,Rishikesh
-143,Rishikesh,2023,8,2013,4.3,Not well maintained in some areas.,2,adventure,Rishikesh
-150,Rishikesh,2023,8,2013,4.1,Excellent hospitality.,2,adventure,Rishikesh
-161,Rishikesh,2023,8,2013,4.5,Peaceful and beautiful scenery.,2,adventure,Rishikesh
-134,Rishikesh,2023,8,2013,4.0,Too crowded during holidays.,2,adventure,Rishikesh
-173,Goa,2023,9,3117,3.7,Must visit for culture lovers.,3,beach,Goa
-176,Goa,2023,9,3117,4.2,Not well maintained in some areas.,3,beach,Goa
-149,Goa,2023,9,3117,4.1,Peaceful and beautiful scenery.,3,beach,Goa
-162,Goa,2023,9,3117,3.3,Too crowded during holidays.,3,beach,Goa
-126,Goa,2023,9,3117,4.6,Must visit for culture lovers.,3,beach,Goa
-110,Manali,2023,9,1971,4.9,Must visit for culture lovers.,2,mountain,Manali
-184,Manali,2023,9,1971,4.3,Not well maintained in some areas.,2,mountain,Manali
-104,Manali,2023,9,1971,4.0,Must visit for culture lovers.,2,mountain,Manali
+110,Kerala,2023,8,2197,4.1,Must visit for culture lovers.,3,backwater,Kerala
+174,Kerala,2023,8,2197,3.7,Too crowded during holidays.,3,backwater,Kerala
+141,Kerala,2023,8,2197,4.0,Adventure sports were thrilling.,3,backwater,Kerala
+163,Kerala,2023,8,2197,3.9,"Amazing views, perfect for families.",3,backwater,Kerala
+131,Kerala,2023,8,2197,3.6,Peaceful and beautiful scenery.,3,backwater,Kerala
+174,Rishikesh,2023,8,2013,4.2,Must visit for culture lovers.,2,adventure,Rishikesh
+143,Rishikesh,2023,8,2013,4.3,Must visit for culture lovers.,2,adventure,Rishikesh
+150,Rishikesh,2023,8,2013,4.1,"Amazing views, perfect for families.",2,adventure,Rishikesh
+161,Rishikesh,2023,8,2013,4.5,Not well maintained in some areas.,2,adventure,Rishikesh
+134,Rishikesh,2023,8,2013,4.0,Adventure sports were thrilling.,2,adventure,Rishikesh
+173,Goa,2023,9,3117,3.7,Excellent hospitality.,3,beach,Goa
+176,Goa,2023,9,3117,4.2,"Amazing views, perfect for families.",3,beach,Goa
+149,Goa,2023,9,3117,4.1,Good food and hotels.,3,beach,Goa
+162,Goa,2023,9,3117,3.3,Not well maintained in some areas.,3,beach,Goa
+126,Goa,2023,9,3117,4.6,Good food and hotels.,3,beach,Goa
+110,Manali,2023,9,1971,4.9,Excellent hospitality.,2,mountain,Manali
+184,Manali,2023,9,1971,4.3,"Amazing views, perfect for families.",2,mountain,Manali
+104,Manali,2023,9,1971,4.0,Not well maintained in some areas.,2,mountain,Manali
 107,Manali,2023,9,1971,4.8,Too crowded during holidays.,2,mountain,Manali
-144,Manali,2023,9,1971,4.1,Too crowded during holidays.,2,mountain,Manali
-104,Jaipur,2023,9,2491,4.1,Not well maintained in some areas.,2,culture,Jaipur
+144,Manali,2023,9,1971,4.1,Adventure sports were thrilling.,2,mountain,Manali
+104,Jaipur,2023,9,2491,4.1,Good food and hotels.,2,culture,Jaipur
 141,Jaipur,2023,9,2491,4.0,Not well maintained in some areas.,2,culture,Jaipur
-108,Jaipur,2023,9,2491,3.3,Too crowded during holidays.,2,culture,Jaipur
-153,Jaipur,2023,9,2491,3.3,Good food and hotels.,2,culture,Jaipur
-100,Jaipur,2023,9,2491,4.3,Too crowded during holidays.,2,culture,Jaipur
-183,Varanasi,2023,9,2019,4.3,Peaceful and beautiful scenery.,2,spiritual,Varanasi
+108,Jaipur,2023,9,2491,3.3,"Amazing views, perfect for families.",2,culture,Jaipur
+153,Jaipur,2023,9,2491,3.3,Too crowded during holidays.,2,culture,Jaipur
+100,Jaipur,2023,9,2491,4.3,Excellent hospitality.,2,culture,Jaipur
+183,Varanasi,2023,9,2019,4.3,Adventure sports were thrilling.,2,spiritual,Varanasi
 138,Varanasi,2023,9,2019,3.8,Adventure sports were thrilling.,2,spiritual,Varanasi
 193,Varanasi,2023,9,2019,4.1,Not well maintained in some areas.,2,spiritual,Varanasi
-132,Varanasi,2023,9,2019,4.4,Good food and hotels.,2,spiritual,Varanasi
-153,Varanasi,2023,9,2019,3.8,Great place with excellent beaches.,2,spiritual,Varanasi
-136,Kerala,2023,9,2898,3.6,Good food and hotels.,3,backwater,Kerala
+132,Varanasi,2023,9,2019,4.4,Adventure sports were thrilling.,2,spiritual,Varanasi
+153,Varanasi,2023,9,2019,3.8,Must visit for culture lovers.,2,spiritual,Varanasi
+136,Kerala,2023,9,2898,3.6,Not well maintained in some areas.,3,backwater,Kerala
 148,Kerala,2023,9,2898,3.3,Good food and hotels.,3,backwater,Kerala
-126,Kerala,2023,9,2898,3.5,Great place with excellent beaches.,3,backwater,Kerala
-150,Kerala,2023,9,2898,4.3,Excellent hospitality.,3,backwater,Kerala
-165,Kerala,2023,9,2898,4.2,Excellent hospitality.,3,backwater,Kerala
-103,Rishikesh,2023,9,3230,5.0,Must visit for culture lovers.,2,adventure,Rishikesh
+126,Kerala,2023,9,2898,3.5,Budget-friendly and great food.,3,backwater,Kerala
+150,Kerala,2023,9,2898,4.3,Peaceful and beautiful scenery.,3,backwater,Kerala
+165,Kerala,2023,9,2898,4.2,Peaceful and beautiful scenery.,3,backwater,Kerala
+103,Rishikesh,2023,9,3230,5.0,Excellent hospitality.,2,adventure,Rishikesh
 168,Rishikesh,2023,9,3230,4.2,Excellent hospitality.,2,adventure,Rishikesh
-173,Rishikesh,2023,9,3230,4.3,Good food and hotels.,2,adventure,Rishikesh
-141,Rishikesh,2023,9,3230,3.8,Not well maintained in some areas.,2,adventure,Rishikesh
-133,Rishikesh,2023,9,3230,3.1,"Amazing views, perfect for families.",2,adventure,Rishikesh
-148,Goa,2023,10,2819,3.8,Must visit for culture lovers.,3,beach,Goa
-198,Goa,2023,10,2819,3.9,Great place with excellent beaches.,3,beach,Goa
-139,Goa,2023,10,2819,4.5,Too crowded during holidays.,3,beach,Goa
-167,Goa,2023,10,2819,4.0,Good food and hotels.,3,beach,Goa
-169,Goa,2023,10,2819,4.3,"Amazing views, perfect for families.",3,beach,Goa
-103,Manali,2023,10,1941,4.0,Good food and hotels.,2,mountain,Manali
-110,Manali,2023,10,1941,3.4,Great place with excellent beaches.,2,mountain,Manali
-125,Manali,2023,10,1941,4.0,Adventure sports were thrilling.,2,mountain,Manali
-149,Manali,2023,10,1941,4.0,Must visit for culture lovers.,2,mountain,Manali
+173,Rishikesh,2023,9,3230,4.3,Excellent hospitality.,2,adventure,Rishikesh
+141,Rishikesh,2023,9,3230,3.8,Must visit for culture lovers.,2,adventure,Rishikesh
+133,Rishikesh,2023,9,3230,3.1,Excellent hospitality.,2,adventure,Rishikesh
+148,Goa,2023,10,2819,3.8,"Amazing views, perfect for families.",3,beach,Goa
+198,Goa,2023,10,2819,3.9,Good food and hotels.,3,beach,Goa
+139,Goa,2023,10,2819,4.5,Must visit for culture lovers.,3,beach,Goa
+167,Goa,2023,10,2819,4.0,Peaceful and beautiful scenery.,3,beach,Goa
+169,Goa,2023,10,2819,4.3,Not well maintained in some areas.,3,beach,Goa
+103,Manali,2023,10,1941,4.0,Adventure sports were thrilling.,2,mountain,Manali
+110,Manali,2023,10,1941,3.4,Excellent hospitality.,2,mountain,Manali
+125,Manali,2023,10,1941,4.0,Good food and hotels.,2,mountain,Manali
+149,Manali,2023,10,1941,4.0,Excellent hospitality.,2,mountain,Manali
 193,Manali,2023,10,1941,2.9,Not well maintained in some areas.,2,mountain,Manali
-131,Jaipur,2023,10,2225,4.4,Must visit for culture lovers.,2,culture,Jaipur
-102,Jaipur,2023,10,2225,4.0,Good food and hotels.,2,culture,Jaipur
-159,Jaipur,2023,10,2225,3.8,Budget-friendly and great food.,2,culture,Jaipur
-122,Jaipur,2023,10,2225,3.7,Budget-friendly and great food.,2,culture,Jaipur
-108,Jaipur,2023,10,2225,4.2,Budget-friendly and great food.,2,culture,Jaipur
-182,Varanasi,2023,10,2858,4.4,Excellent hospitality.,2,spiritual,Varanasi
+131,Jaipur,2023,10,2225,4.4,Not well maintained in some areas.,2,culture,Jaipur
+102,Jaipur,2023,10,2225,4.0,Budget-friendly and great food.,2,culture,Jaipur
+159,Jaipur,2023,10,2225,3.8,Good food and hotels.,2,culture,Jaipur
+122,Jaipur,2023,10,2225,3.7,Great place with excellent beaches.,2,culture,Jaipur
+108,Jaipur,2023,10,2225,4.2,"Amazing views, perfect for families.",2,culture,Jaipur
+182,Varanasi,2023,10,2858,4.4,Great place with excellent beaches.,2,spiritual,Varanasi
 147,Varanasi,2023,10,2858,4.4,Must visit for culture lovers.,2,spiritual,Varanasi
 189,Varanasi,2023,10,2858,3.6,Peaceful and beautiful scenery.,2,spiritual,Varanasi
-171,Varanasi,2023,10,2858,3.1,Excellent hospitality.,2,spiritual,Varanasi
-195,Varanasi,2023,10,2858,4.8,"Amazing views, perfect for families.",2,spiritual,Varanasi
-113,Kerala,2023,10,2676,4.7,Peaceful and beautiful scenery.,3,backwater,Kerala
-109,Kerala,2023,10,2676,3.5,Too crowded during holidays.,3,backwater,Kerala
+171,Varanasi,2023,10,2858,3.1,Good food and hotels.,2,spiritual,Varanasi
+195,Varanasi,2023,10,2858,4.8,Budget-friendly and great food.,2,spiritual,Varanasi
+113,Kerala,2023,10,2676,4.7,Great place with excellent beaches.,3,backwater,Kerala
+109,Kerala,2023,10,2676,3.5,Not well maintained in some areas.,3,backwater,Kerala
 164,Kerala,2023,10,2676,3.6,Not well maintained in some areas.,3,backwater,Kerala
-127,Kerala,2023,10,2676,4.1,Must visit for culture lovers.,3,backwater,Kerala
+127,Kerala,2023,10,2676,4.1,Budget-friendly and great food.,3,backwater,Kerala
 103,Kerala,2023,10,2676,4.2,Great place with excellent beaches.,3,backwater,Kerala
-145,Rishikesh,2023,10,2248,4.0,Peaceful and beautiful scenery.,2,adventure,Rishikesh
-176,Rishikesh,2023,10,2248,4.1,"Amazing views, perfect for families.",2,adventure,Rishikesh
-143,Rishikesh,2023,10,2248,4.1,Must visit for culture lovers.,2,adventure,Rishikesh
-163,Rishikesh,2023,10,2248,4.4,Great place with excellent beaches.,2,adventure,Rishikesh
-126,Rishikesh,2023,10,2248,4.3,Good food and hotels.,2,adventure,Rishikesh
-137,Goa,2023,11,5013,3.7,Budget-friendly and great food.,3,beach,Goa
-140,Goa,2023,11,5013,4.2,Good food and hotels.,3,beach,Goa
-125,Goa,2023,11,5013,4.5,Adventure sports were thrilling.,3,beach,Goa
-104,Goa,2023,11,5013,4.0,Too crowded during holidays.,3,beach,Goa
-145,Goa,2023,11,5013,5.0,Peaceful and beautiful scenery.,3,beach,Goa
-157,Manali,2023,11,1886,4.4,Adventure sports were thrilling.,2,mountain,Manali
-148,Manali,2023,11,1886,4.2,"Amazing views, perfect for families.",2,mountain,Manali
-194,Manali,2023,11,1886,4.6,"Amazing views, perfect for families.",2,mountain,Manali
-183,Manali,2023,11,1886,4.0,Too crowded during holidays.,2,mountain,Manali
-133,Manali,2023,11,1886,3.8,Peaceful and beautiful scenery.,2,mountain,Manali
-137,Jaipur,2023,11,4811,3.8,Must visit for culture lovers.,2,culture,Jaipur
+145,Rishikesh,2023,10,2248,4.0,Good food and hotels.,2,adventure,Rishikesh
+176,Rishikesh,2023,10,2248,4.1,Not well maintained in some areas.,2,adventure,Rishikesh
+143,Rishikesh,2023,10,2248,4.1,Peaceful and beautiful scenery.,2,adventure,Rishikesh
+163,Rishikesh,2023,10,2248,4.4,Adventure sports were thrilling.,2,adventure,Rishikesh
+126,Rishikesh,2023,10,2248,4.3,Adventure sports were thrilling.,2,adventure,Rishikesh
+137,Goa,2023,11,5013,3.7,Good food and hotels.,3,beach,Goa
+140,Goa,2023,11,5013,4.2,Peaceful and beautiful scenery.,3,beach,Goa
+125,Goa,2023,11,5013,4.5,Good food and hotels.,3,beach,Goa
+104,Goa,2023,11,5013,4.0,Peaceful and beautiful scenery.,3,beach,Goa
+145,Goa,2023,11,5013,5.0,Budget-friendly and great food.,3,beach,Goa
+157,Manali,2023,11,1886,4.4,Too crowded during holidays.,2,mountain,Manali
+148,Manali,2023,11,1886,4.2,Good food and hotels.,2,mountain,Manali
+194,Manali,2023,11,1886,4.6,Too crowded during holidays.,2,mountain,Manali
+183,Manali,2023,11,1886,4.0,Peaceful and beautiful scenery.,2,mountain,Manali
+133,Manali,2023,11,1886,3.8,Good food and hotels.,2,mountain,Manali
+137,Jaipur,2023,11,4811,3.8,Too crowded during holidays.,2,culture,Jaipur
 126,Jaipur,2023,11,4811,4.1,Budget-friendly and great food.,2,culture,Jaipur
-171,Jaipur,2023,11,4811,4.0,Not well maintained in some areas.,2,culture,Jaipur
-154,Jaipur,2023,11,4811,4.4,Adventure sports were thrilling.,2,culture,Jaipur
-133,Jaipur,2023,11,4811,3.6,"Amazing views, perfect for families.",2,culture,Jaipur
-187,Varanasi,2023,11,2477,4.3,Excellent hospitality.,2,spiritual,Varanasi
-198,Varanasi,2023,11,2477,3.6,"Amazing views, perfect for families.",2,spiritual,Varanasi
-178,Varanasi,2023,11,2477,3.7,Peaceful and beautiful scenery.,2,spiritual,Varanasi
-118,Varanasi,2023,11,2477,3.5,Excellent hospitality.,2,spiritual,Varanasi
-125,Varanasi,2023,11,2477,4.7,Adventure sports were thrilling.,2,spiritual,Varanasi
-199,Kerala,2023,11,4390,3.7,Budget-friendly and great food.,3,backwater,Kerala
-189,Kerala,2023,11,4390,3.6,Must visit for culture lovers.,3,backwater,Kerala
-108,Kerala,2023,11,4390,3.5,Must visit for culture lovers.,3,backwater,Kerala
-190,Kerala,2023,11,4390,3.9,"Amazing views, perfect for families.",3,backwater,Kerala
-174,Kerala,2023,11,4390,3.4,Not well maintained in some areas.,3,backwater,Kerala
-124,Rishikesh,2023,11,2200,3.8,Not well maintained in some areas.,2,adventure,Rishikesh
-170,Rishikesh,2023,11,2200,5.0,Must visit for culture lovers.,2,adventure,Rishikesh
-183,Rishikesh,2023,11,2200,4.1,Must visit for culture lovers.,2,adventure,Rishikesh
-190,Rishikesh,2023,11,2200,3.1,Peaceful and beautiful scenery.,2,adventure,Rishikesh
-147,Rishikesh,2023,11,2200,3.5,Not well maintained in some areas.,2,adventure,Rishikesh
-138,Goa,2023,12,4477,4.4,"Amazing views, perfect for families.",3,beach,Goa
-147,Goa,2023,12,4477,3.5,Good food and hotels.,3,beach,Goa
-185,Goa,2023,12,4477,3.5,Not well maintained in some areas.,3,beach,Goa
-113,Goa,2023,12,4477,4.0,Budget-friendly and great food.,3,beach,Goa
-184,Goa,2023,12,4477,4.1,Peaceful and beautiful scenery.,3,beach,Goa
-130,Manali,2023,12,2443,3.7,Budget-friendly and great food.,2,mountain,Manali
-125,Manali,2023,12,2443,3.9,"Amazing views, perfect for families.",2,mountain,Manali
-151,Manali,2023,12,2443,4.0,Great place with excellent beaches.,2,mountain,Manali
-162,Manali,2023,12,2443,4.3,"Amazing views, perfect for families.",2,mountain,Manali
-167,Manali,2023,12,2443,4.5,Excellent hospitality.,2,mountain,Manali
-135,Jaipur,2023,12,3911,4.5,Too crowded during holidays.,2,culture,Jaipur
-178,Jaipur,2023,12,3911,4.6,Adventure sports were thrilling.,2,culture,Jaipur
-188,Jaipur,2023,12,3911,4.9,Budget-friendly and great food.,2,culture,Jaipur
-189,Jaipur,2023,12,3911,3.6,Too crowded during holidays.,2,culture,Jaipur
-111,Jaipur,2023,12,3911,4.0,Peaceful and beautiful scenery.,2,culture,Jaipur
-167,Varanasi,2023,12,2803,3.6,Excellent hospitality.,2,spiritual,Varanasi
-149,Varanasi,2023,12,2803,4.0,"Amazing views, perfect for families.",2,spiritual,Varanasi
-102,Varanasi,2023,12,2803,3.6,Peaceful and beautiful scenery.,2,spiritual,Varanasi
-108,Varanasi,2023,12,2803,3.5,Great place with excellent beaches.,2,spiritual,Varanasi
-172,Varanasi,2023,12,2803,4.1,Great place with excellent beaches.,2,spiritual,Varanasi
-115,Kerala,2023,12,4245,3.4,Too crowded during holidays.,3,backwater,Kerala
-168,Kerala,2023,12,4245,4.8,Not well maintained in some areas.,3,backwater,Kerala
-175,Kerala,2023,12,4245,3.5,Budget-friendly and great food.,3,backwater,Kerala
-120,Kerala,2023,12,4245,3.5,Excellent hospitality.,3,backwater,Kerala
-185,Kerala,2023,12,4245,4.0,Excellent hospitality.,3,backwater,Kerala
-119,Rishikesh,2023,12,2072,3.3,Excellent hospitality.,2,adventure,Rishikesh
+171,Jaipur,2023,11,4811,4.0,Great place with excellent beaches.,2,culture,Jaipur
+154,Jaipur,2023,11,4811,4.4,Too crowded during holidays.,2,culture,Jaipur
+133,Jaipur,2023,11,4811,3.6,Budget-friendly and great food.,2,culture,Jaipur
+187,Varanasi,2023,11,2477,4.3,Budget-friendly and great food.,2,spiritual,Varanasi
+198,Varanasi,2023,11,2477,3.6,Peaceful and beautiful scenery.,2,spiritual,Varanasi
+178,Varanasi,2023,11,2477,3.7,Must visit for culture lovers.,2,spiritual,Varanasi
+118,Varanasi,2023,11,2477,3.5,Peaceful and beautiful scenery.,2,spiritual,Varanasi
+125,Varanasi,2023,11,2477,4.7,Not well maintained in some areas.,2,spiritual,Varanasi
+199,Kerala,2023,11,4390,3.7,Adventure sports were thrilling.,3,backwater,Kerala
+189,Kerala,2023,11,4390,3.6,"Amazing views, perfect for families.",3,backwater,Kerala
+108,Kerala,2023,11,4390,3.5,Great place with excellent beaches.,3,backwater,Kerala
+190,Kerala,2023,11,4390,3.9,Adventure sports were thrilling.,3,backwater,Kerala
+174,Kerala,2023,11,4390,3.4,Must visit for culture lovers.,3,backwater,Kerala
+124,Rishikesh,2023,11,2200,3.8,Excellent hospitality.,2,adventure,Rishikesh
+170,Rishikesh,2023,11,2200,5.0,Not well maintained in some areas.,2,adventure,Rishikesh
+183,Rishikesh,2023,11,2200,4.1,Not well maintained in some areas.,2,adventure,Rishikesh
+190,Rishikesh,2023,11,2200,3.1,Budget-friendly and great food.,2,adventure,Rishikesh
+147,Rishikesh,2023,11,2200,3.5,Adventure sports were thrilling.,2,adventure,Rishikesh
+138,Goa,2023,12,4477,4.4,Not well maintained in some areas.,3,beach,Goa
+147,Goa,2023,12,4477,3.5,Adventure sports were thrilling.,3,beach,Goa
+185,Goa,2023,12,4477,3.5,Budget-friendly and great food.,3,beach,Goa
+113,Goa,2023,12,4477,4.0,Good food and hotels.,3,beach,Goa
+184,Goa,2023,12,4477,4.1,Must visit for culture lovers.,3,beach,Goa
+130,Manali,2023,12,2443,3.7,Adventure sports were thrilling.,2,mountain,Manali
+125,Manali,2023,12,2443,3.9,Not well maintained in some areas.,2,mountain,Manali
+151,Manali,2023,12,2443,4.0,Too crowded during holidays.,2,mountain,Manali
+162,Manali,2023,12,2443,4.3,Great place with excellent beaches.,2,mountain,Manali
+167,Manali,2023,12,2443,4.5,Great place with excellent beaches.,2,mountain,Manali
+135,Jaipur,2023,12,3911,4.5,Adventure sports were thrilling.,2,culture,Jaipur
+178,Jaipur,2023,12,3911,4.6,Great place with excellent beaches.,2,culture,Jaipur
+188,Jaipur,2023,12,3911,4.9,Great place with excellent beaches.,2,culture,Jaipur
+189,Jaipur,2023,12,3911,3.6,Not well maintained in some areas.,2,culture,Jaipur
+111,Jaipur,2023,12,3911,4.0,Excellent hospitality.,2,culture,Jaipur
+167,Varanasi,2023,12,2803,3.6,Adventure sports were thrilling.,2,spiritual,Varanasi
+149,Varanasi,2023,12,2803,4.0,Good food and hotels.,2,spiritual,Varanasi
+102,Varanasi,2023,12,2803,3.6,Must visit for culture lovers.,2,spiritual,Varanasi
+108,Varanasi,2023,12,2803,3.5,Must visit for culture lovers.,2,spiritual,Varanasi
+172,Varanasi,2023,12,2803,4.1,Adventure sports were thrilling.,2,spiritual,Varanasi
+115,Kerala,2023,12,4245,3.4,Excellent hospitality.,3,backwater,Kerala
+168,Kerala,2023,12,4245,4.8,Too crowded during holidays.,3,backwater,Kerala
+175,Kerala,2023,12,4245,3.5,Excellent hospitality.,3,backwater,Kerala
+120,Kerala,2023,12,4245,3.5,Must visit for culture lovers.,3,backwater,Kerala
+185,Kerala,2023,12,4245,4.0,Budget-friendly and great food.,3,backwater,Kerala
+119,Rishikesh,2023,12,2072,3.3,Too crowded during holidays.,2,adventure,Rishikesh
 108,Rishikesh,2023,12,2072,4.5,Too crowded during holidays.,2,adventure,Rishikesh
-129,Rishikesh,2023,12,2072,4.2,Budget-friendly and great food.,2,adventure,Rishikesh
-127,Rishikesh,2023,12,2072,3.7,Not well maintained in some areas.,2,adventure,Rishikesh
-118,Rishikesh,2023,12,2072,3.2,"Amazing views, perfect for families.",2,adventure,Rishikesh
+129,Rishikesh,2023,12,2072,4.2,Good food and hotels.,2,adventure,Rishikesh
+127,Rishikesh,2023,12,2072,3.7,Peaceful and beautiful scenery.,2,adventure,Rishikesh
+118,Rishikesh,2023,12,2072,3.2,Excellent hospitality.,2,adventure,Rishikesh
