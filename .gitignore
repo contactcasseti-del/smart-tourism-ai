@@ -1,21 +1,15 @@
-# Python bytecode
+# Ignore virtual environment
+venv/
+
+# Python cache files
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Virtual environment
-venv/
-
-# Jupyter Notebook checkpoints
+# Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# OS-specific files
+# System files
 .DS_Store
 Thumbs.db
-
-# Logs
-*.log
-
-# Optional: data files (agar large hain aur Git mein nahi chahiye)
-# data/
